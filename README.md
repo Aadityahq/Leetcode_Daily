@@ -25,11 +25,11 @@ This project is aimed at building consistency, improving problem-solving skills,
 Leetcode_Daily 
 
 ── Day_01/
-   ├── Solution.java
-   └── Explanation.md
+    ── Solution.java
+    ── Explanation.md
 ── Day_02/
-   ├── Solution.java
-   └── Explanation.md
+    ── Solution.java
+    ── Explanation.md
 ── README.md
 
 ---
