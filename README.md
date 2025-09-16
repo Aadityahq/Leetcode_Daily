@@ -13,25 +13,35 @@ This project is aimed at building consistency, improving problem-solving skills,
 
 ---
 
-## 📂 Folder Structure
+## 📅 Daily Progress
+
+- ✅ [Day 01 – LeetCode 1935: Maximum Number of Words You Can Type](https://github.com/Aadityahq/Leetcode_Daily/tree/main/Day_01) – 15 Sep 2025  
+- ✅ [Day 02 – LeetCode 2197: Replace Non-Coprime Numbers in Array](https://github.com/Aadityahq/Leetcode_Daily/tree/main/Day_02) – 16 Sep 2025  
+
+---
+
+## 📌 Repository Structure
+
 Leetcode_Daily/
-|
-|- [Day_01 (1935 - Maximum Number of Words You Can Type)](https://github.com/Aadityahq/Leetcode_Daily/tree/main/Day_01)  15 sept 2025
-|- [Day_02 (2197 Replace Non-Coprime Numbers in Array)](https://github.com/Aadityahq/Leetcode_Daily/tree/main/Day_02) - 16 sept 2025 
- 
-
-    
-
-
----
-
-## 📌 How to Use
-1. Click on the folder link for a specific day to see the problems solved on that day.  
-2. Each folder contains:
-   - `Solution.java` — the problem solution code.
-   - `Explanation.md` — explanation, approach, examples, and insights for the problem.
-3. You can clone the repository to practice the problems locally.
+│
+├── Day_01/  
+│   ├── Solution.java  
+│   └── Explanation.md  
+│
+├── Day_02/  
+│   ├── Solution.java  
+│   └── Explanation.md  
+│
+└── README.md  
 
 ---
 
+## ✨ Why this repo?
 
+- To **practice consistently** and grow as a problem solver.  
+- To maintain both **solutions and explanations** for future reference.  
+- To showcase **clean Java code + algorithmic approaches** in a structured way.  
+
+---
+
+🔔 Stay tuned as I update this repository daily with new problems and insights!
