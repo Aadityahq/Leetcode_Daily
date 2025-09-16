@@ -14,12 +14,11 @@ This project is aimed at building consistency, improving problem-solving skills,
 ---
 
 ## 📂 Folder Structure
-Leetcode_Daily
-
-|- [Day_01 (15 Sep 2025)](https://github.com/Aadityahq/Leetcode_Daily/tree/main/Day_01) - Problem
-  1935 Maximum Number of Words You Can Type  
-|- [Day_02 (16 Sep 2025)](https://github.com/Aadityahq/Leetcode_Daily/tree/main/Day_02) - Problem 
-  2197 Replace Non-Coprime Numbers in Array
+Leetcode_Daily/
+|
+|- [Day_01 (1935 - Maximum Number of Words You Can Type)](https://github.com/Aadityahq/Leetcode_Daily/tree/main/Day_01)  15 sept 2025
+|- [Day_02 (2197 Replace Non-Coprime Numbers in Array)](https://github.com/Aadityahq/Leetcode_Daily/tree/main/Day_02) - 16 sept 2025 
+ 
 
     
 
