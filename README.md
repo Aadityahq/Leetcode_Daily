@@ -17,6 +17,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 
 - ✅ [Day 01 – LeetCode 1935: Maximum Number of Words You Can Type](https://github.com/Aadityahq/Leetcode_Daily/tree/main/Day_01) – 15 Sep 2025  
 - ✅ [Day 02 – LeetCode 2197: Replace Non-Coprime Numbers in Array](https://github.com/Aadityahq/Leetcode_Daily/tree/main/Day_02) – 16 Sep 2025  
+- ✅ [Day 03 – LeetCode 2353: Design a Food Rating System](https://github.com/Aadityahq/Leetcode_Daily/tree/main/Day_03) – 17 Sep 2025  
+- ✅ [Day 04 – LeetCode 3408: Design Task Manager](https://github.com/Aadityahq/Leetcode_Daily/tree/main/Day_04) – 18 Sep 2025  
 
 ---
 
@@ -24,16 +26,23 @@ This project is aimed at building consistency, improving problem-solving skills,
 
 Leetcode_Daily/
 │
-├── Day_01/
+├── 1935. Maximum Number of Words You Can Type/
 │   ├── Solution.java
 │   └── Explanation.md
 │
-├── Day_02/
+├── 2197. Replace Non-Coprime Numbers in Array/
+│   ├── Solution.java
+│   └── Explanation.md
+│
+├── 2353. Design a Food Rating System/
+│   ├── Solution.java
+│   └── Explanation.md
+│
+├── 3408 .Design Task Manager
 │   ├── Solution.java
 │   └── Explanation.md
 │
 └── README.md
-
 
 ---
 
