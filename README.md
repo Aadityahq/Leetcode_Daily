@@ -21,6 +21,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 04 – LeetCode 3408: Design Task Manager](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3408.%20Design%20Task%20Manager) – 18 Sep 2025  
 - ✅ [Day 05 – LeetCode 13484: Design Spreadsheet](https://github.com/Aadityahq/Leetcode_Daily/tree/main/13484.%20Design%20Spreadsheet) – 19 Sep 2025 
  - ✅ [Day 06 – LeetCode 3508. Implement Router](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3508.%20Implement%20Router) – 20 Sep 2025
+- ✅ [Day 07 – LeetCode 1912. Design Movie Rental System](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1912.%20Design%20Movie%20Rental%20System) – 21 Sep 2025
+
 
 
 ---
