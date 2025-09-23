@@ -32,22 +32,9 @@ This project is aimed at building consistency, improving problem-solving skills,
 
 Leetcode_Daily/
 │
-├── 1935. Maximum Number of Words You Can Type/
-│   ├── Solution.java
-│   └── Explanation.md
-│
-├── 2197. Replace Non-Coprime Numbers in Array/
-│   ├── Solution.java
-│   └── Explanation.md
-│
-├── 2353. Design a Food Rating System/
-│   ├── Solution.java
-│   └── Explanation.md
-│
-├── 3408 .Design Task Manager
-│   ├── Solution.java
-│   └── Explanation.md
-│
+├── Problem Number. Problem title/
+│   ├── Explanation.md
+│   └── Solution.java
 └── README.md
 
 ---
