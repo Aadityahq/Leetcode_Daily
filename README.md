@@ -23,6 +23,7 @@ This project is aimed at building consistency, improving problem-solving skills,
  - ✅ [Day 06 – LeetCode 3508. Implement Router](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3508.%20Implement%20Router) – 20 Sep 2025
 - ✅ [Day 07 – LeetCode 1912. Design Movie Rental System](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1912.%20Design%20Movie%20Rental%20System) – 21 Sep 2025
 - ✅ [Day 08 – LeetCode 165. Compare Version Numbers](https://github.com/Aadityahq/Leetcode_Daily/tree/main/165.%20Compare%20Version%20Numbers) – 22 Sep 2025
+- ✅ [Day 09 – LeetCode 166: Fraction to Recurring Decimal](https://github.com/Aadityahq/Leetcode_Daily/tree/main/166.%20Fraction%20to%20Recurring%20Decimal) – 23 Sep 2025
 
 
 
