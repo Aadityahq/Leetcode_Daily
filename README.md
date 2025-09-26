@@ -24,8 +24,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 07 – LeetCode 1912. Design Movie Rental System](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1912.%20Design%20Movie%20Rental%20System) – 21 Sep 2025
 - ✅ [Day 08 – LeetCode 165. Compare Version Numbers](https://github.com/Aadityahq/Leetcode_Daily/tree/main/165.%20Compare%20Version%20Numbers) – 22 Sep 2025
 - ✅ [Day 09 – LeetCode 166: Fraction to Recurring Decimal](https://github.com/Aadityahq/Leetcode_Daily/tree/main/166.%20Fraction%20to%20Recurring%20Decimal) – 23 Sep 2025
-- ✅ [Day 10 – LeetCode 120: Triangle Minimum Path Sum](https://github.com/Aadityahq/Leetcode_Daily/tree/main/120.%20Triangle%20Minimum%20Path%20Sum) – 24 Sep 2025
-- ✅ [Day 11 – LeetCode 611: Valid Triangle Number](https://github.com/Aadityahq/Leetcode_Daily/tree/main/611.%20Valid%20Triangle%20Number) - 25 Sep 2025
+- ✅ [Day 10 – LeetCode 120: Triangle Minimum Path Sum](https://github.com/Aadityahq/Leetcode_Daily/tree/main/120.%20Triangle%20Minimum%20Path%20Sum) – 25 Sep 2025
+- ✅ [Day 11 – LeetCode 611: Valid Triangle Number](https://github.com/Aadityahq/Leetcode_Daily/tree/main/611.%20Valid%20Triangle%20Number) - 26 Sep 2025
 
 
 
