@@ -27,6 +27,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 10 – LeetCode 166: Fraction to Recurring Decimal](https://github.com/Aadityahq/Leetcode_Daily/tree/main/166.%20Fraction%20to%20Recurring%20Decimal) – 24 Sep 2025
 - ✅ [Day 11 – LeetCode 120: Triangle Minimum Path Sum](https://github.com/Aadityahq/Leetcode_Daily/tree/main/120.%20Triangle%20Minimum%20Path%20Sum) – 25 Sep 2025
 - ✅ [Day 12 – LeetCode 611: Valid Triangle Number](https://github.com/Aadityahq/Leetcode_Daily/tree/main/611.%20Valid%20Triangle%20Number) - 26 Sep 2025
+- ✅ [Day 13 – LeetCode 812: Largest Triangle Area](https://github.com/Aadityahq/Leetcode_Daily/tree/main/812.%20Largest%20Triangle%20Area) - 27 Sep 2025
 
 
 
