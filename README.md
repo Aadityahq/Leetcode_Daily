@@ -7,7 +7,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 
 ## 📌 Features
 - Daily problem solutions from [LeetCode](https://leetcode.com/).
-- Solutions include both **code** and **detailed explanations**.
+- Solutions include both **code** and **detailed explanations (how and why)**.
 - Organized by problem number folders for easy navigation.
 - Useful for **technical interviews** and **competitive programming practice**.
 
