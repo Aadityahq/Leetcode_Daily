@@ -3,7 +3,7 @@
 
 - [My LeetCode Profile](https://leetcode.com/u/Aadii08/)
 
-# Leetcode_Daily
+# LeetCode_Daily
 A repository to track and solve daily LeetCode problems in Java.  
 This project is aimed at building consistency, improving problem-solving skills, and preparing for coding interviews.
 
