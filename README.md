@@ -1,5 +1,9 @@
-# Leetcode_Daily
 
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aadii08-orange?logo=leetcode)](https://leetcode.com/u/Aadii08/)
+
+- [My LeetCode Profile](https://leetcode.com/u/Aadii08/)
+
+# Leetcode_Daily
 A repository to track and solve daily LeetCode problems in Java.  
 This project is aimed at building consistency, improving problem-solving skills, and preparing for coding interviews.
 
@@ -29,6 +33,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 12 – LeetCode 611: Valid Triangle Number](https://github.com/Aadityahq/Leetcode_Daily/tree/main/611.%20Valid%20Triangle%20Number) - 26 Sep 2025
 - ✅ [Day 13 – LeetCode 812: Largest Triangle Area](https://github.com/Aadityahq/Leetcode_Daily/tree/main/812.%20Largest%20Triangle%20Area) - 27 Sep 2025
 - ✅ [Day 14 – LeetCode 976: Largest Perimeter Triangle](https://github.com/Aadityahq/Leetcode_Daily/tree/main/976.%20Largest%20Perimeter%20Triangle) – 28 Sep 2025
+- ✅ [Day 15 – LeetCode 1039. Minimum Score Triangulation of Polygon](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1039.%20Minimum%20Score%20Triangulation%20of%20Polygon) – 29 Sep 2025
   
 
 
