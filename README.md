@@ -34,6 +34,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 13 – LeetCode 812: Largest Triangle Area](https://github.com/Aadityahq/Leetcode_Daily/tree/main/812.%20Largest%20Triangle%20Area) - 27 Sep 2025
 - ✅ [Day 14 – LeetCode 976: Largest Perimeter Triangle](https://github.com/Aadityahq/Leetcode_Daily/tree/main/976.%20Largest%20Perimeter%20Triangle) – 28 Sep 2025
 - ✅ [Day 15 – LeetCode 1039. Minimum Score Triangulation of Polygon](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1039.%20Minimum%20Score%20Triangulation%20of%20Polygon) – 29 Sep 2025
+- ✅ [Day 16 – LeetCode 2221: Find Triangular Sum of an Array](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2221.%20Find%20Triangular%20Sum%20of%20an%20Array) – 30 Sep 2025
   
 
 
