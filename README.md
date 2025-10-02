@@ -36,7 +36,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 15 – LeetCode 1039. Minimum Score Triangulation of Polygon](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1039.%20Minimum%20Score%20Triangulation%20of%20Polygon) – 29 Sep 2025
 - ✅ [Day 16 – LeetCode 2221: Find Triangular Sum of an Array](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2221.%20Find%20Triangular%20Sum%20of%20an%20Array) – 30 Sep 2025
 - ✅ [Day 17 – LeetCode 1518: Water Bottles](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1518.%20Water%20Bottles) – 01 Oct 2025
-- ✅ [Day 17 – LeetCode 3100: Water Bottles II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3100.%20Water%20Bottles%II) – 02 Oct 2025
+- ✅ [Day 18 – LeetCode 3100: Water Bottles II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3100.%20Water%20Bottles%20II) – 02 Oct 2025
 
   
 
