@@ -15,6 +15,8 @@
         "165. Compare Version Numbers",
         "120. Triangle Minimum Path Sum",
         "1039. Minimum Score Triangulation of Polygon",
-        "1518. Water Bottles"
-    ]
+        "1518. Water Bottles",
+        "407. Trapping Rain Water II"
+    ],
+    "java.project.referencedLibraries": []
 }
