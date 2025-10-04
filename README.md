@@ -38,6 +38,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 17 – LeetCode 1518: Water Bottles](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1518.%20Water%20Bottles) – 01 Oct 2025
 - ✅ [Day 18 – LeetCode 3100: Water Bottles II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3100.%20Water%20Bottles%20II) – 02 Oct 2025
 - ✅ [Day 19 – LeetCode 407: Trapping Rain Water II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/407.%20Trapping%20Rain%20Water%20II) – 03 Oct 2025
+- ✅ [Day 19 – LeetCode 11: Container With Most Water](https://github.com/Aadityahq/Leetcode_Daily/tree/main/11.%20Container%20With%20Most%20Water) – 04 Oct 2025
 
   
 
