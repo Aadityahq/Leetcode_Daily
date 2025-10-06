@@ -18,7 +18,8 @@
         "1518. Water Bottles",
         "407. Trapping Rain Water II",
         "11. Container With Most Water",
-        "417. Pacific Atlantic Water Flow"
+        "417. Pacific Atlantic Water Flow",
+        "778. Swim in Rising Water"
     ],
     "java.project.referencedLibraries": []
 }
