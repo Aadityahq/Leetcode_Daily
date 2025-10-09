@@ -56,13 +56,15 @@ This project is aimed at building consistency, improving problem-solving skills,
 
 ## 📌 Repository Structure
 
-Leetcode_Daily/
-│
-├── Problem Number. Problem title/
-│   ├── Explanation.md
-│   └── Solution.java
-└── README.md
+```
 
+LeetCode_Daily/
+├── Problem Number. Problem Title/
+│   ├── Explanation.md       # Detailed explanation of the problem, approach, and examples
+│   └── Solution.java        # Java solution code
+└── README.md                # Main repository README
+
+```
 ---
 
 ## ✨ Why this repo?
@@ -74,3 +76,4 @@ Leetcode_Daily/
 ---
 
 🔔 Stay tuned as I update this repository daily with new problems and insights!
+
