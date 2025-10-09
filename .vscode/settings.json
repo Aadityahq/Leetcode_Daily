@@ -21,7 +21,8 @@
         "417. Pacific Atlantic Water Flow",
         "778. Swim in Rising Water",
         "1488. Avoid Flood in The City",
-        "2300. Successful Pairs of Spells and Potions"
+        "2300. Successful Pairs of Spells and Potions",
+        "3494. Find the Minimum Amount of Time to Brew Potions"
     ],
     "java.project.referencedLibraries": []
 }

@@ -43,6 +43,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 21 – LeetCode 778: Swim in Rising Water](https://github.com/Aadityahq/Leetcode_Daily/tree/main/778.%20Swim%20in%20Rising%20Water) – 06 Oct 2025
 - ✅ [Day 22 – LeetCode 1488: Avoid Flood in The City](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1488.%20Avoid%20Flood%20in%20The%20City) – 07 Oct 2025
 - ✅ [Day 23 – LeetCode 2300: Successful Pairs of Spells and Potions](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions) – 08 Oct 2025
+-[Day 24 – LeetCode 3494: Find the Minimum Amount of Time to Brew Potions](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3494.%20Find%20the%20Minimum%20Amount%20of%20Time%20to%20Brew%20Potions) – 09 Oct 2025
+
 
 
   
