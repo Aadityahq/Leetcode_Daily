@@ -175,16 +175,15 @@ class Solution {
 
 ## 🏁 Summary
 
-```
+## 🏁 Summary
+
 | Concept          | Description                                                                         |
 | ---------------- | ----------------------------------------------------------------------------------- |
 | **Core Idea**    | Use DP to accumulate energy jumps backwards.                                        |
-| **Why It Works** | Each magician’s total energy depends only on the next reachable magician `(i + k)`. |
-| **Result**       | Efficiently finds the best starting point in `O(n)` time.  
-```                         |
+| **Why It Works** | Each magician's total energy depends only on the next reachable magician `(i + k)`. |
+| **Result**       | Efficiently finds the best starting point in `O(n)` time.                          |
 
 ---
 
 **⭐ Final Thought:**
 This problem beautifully demonstrates how *"thinking backwards"* simplifies dynamic problems involving step-based transitions.
-
