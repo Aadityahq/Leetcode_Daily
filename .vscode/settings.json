@@ -23,7 +23,8 @@
         "1488. Avoid Flood in The City",
         "2300. Successful Pairs of Spells and Potions",
         "3494. Find the Minimum Amount of Time to Brew Potions",
-        "3147. Taking Maximum Energy From the Mystic Dungeon"
+        "3147. Taking Maximum Energy From the Mystic Dungeon",
+        "3186. Maximum Total Damage With Spell Casting"
     ],
     "java.project.referencedLibraries": []
 }
