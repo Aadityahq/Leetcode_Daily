@@ -47,6 +47,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 25 – LeetCode 3147: Taking Maximum Energy From the Mystic Dungeon](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3147.%20Taking%20Maximum%20Energy%20From%20the%20Mystic%20Dungeon) – 10 Oct 2025
 - ✅ [Day 26 – LeetCode 3186: Maximum Total Damage With Spell Casting](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3186.%20Maximum%20Total%20Damage%20With%20Spell%20Casting) – 11 Oct 2025
 - ✅ [Day 27 – LeetCode 3539: Find Sum of Array Product of Magical Sequences](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3539.%20Find%20Sum%20of%20Array%20Product%20of%20Magical%20Sequences) – 12 Oct 2025
+- ✅ [Day 28 – LeetCode 2273: Find Resultant Array After Removing Anagrams](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2273.%20Find%20Resultant%20Array%20After%20Removing%20Anagrams) – 13 Oct 2025
 
 
 
