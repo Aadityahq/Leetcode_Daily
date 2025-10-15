@@ -49,7 +49,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 27 – LeetCode 3539: Find Sum of Array Product of Magical Sequences](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3539.%20Find%20Sum%20of%20Array%20Product%20of%20Magical%20Sequences) – 12 Oct 2025
 - ✅ [Day 28 – LeetCode 2273: Find Resultant Array After Removing Anagrams](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2273.%20Find%20Resultant%20Array%20After%20Removing%20Anagrams) – 13 Oct 2025
 - ✅ [Day 29 – LeetCode 3349: Adjacent Increasing Subarrays Detection I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3349.%20Adjacent%20Increasing%20Subarrays%20Detection%20I) – 14 Oct 2025
-
+- ✅ [Day 30 – LeetCode 3350: Adjacent Increasing Subarrays Detection II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3350.%20Adjacent%20Increasing%20Subarrays%20Detection%20II) – 15 Oct 2025
 
 
 
