@@ -51,6 +51,9 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 29 – LeetCode 3349: Adjacent Increasing Subarrays Detection I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3349.%20Adjacent%20Increasing%20Subarrays%20Detection%20I) – 14 Oct 2025
 - ✅ [Day 30 – LeetCode 3350: Adjacent Increasing Subarrays Detection II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3350.%20Adjacent%20Increasing%20Subarrays%20Detection%20II) – 15 Oct 2025
 - ✅ [Day 31 – LeetCode 2598: Smallest Missing Non-negative Integer After Operations](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2598.%20Smallest%20Missing%20Non-negative%20Integer%20After%20Operations) – 16 Oct 2025
+- ✅ [Day 31 – LeetCode 3003: Maximize the Number of Partitions After Operations](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3003.%20Maximize%20the%20Number%20of%20Partitions%20After%20Operations) – 17 Oct 2025
+
+
 
 
 
