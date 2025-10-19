@@ -53,6 +53,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 31 – LeetCode 2598: Smallest Missing Non-negative Integer After Operations](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2598.%20Smallest%20Missing%20Non-negative%20Integer%20After%20Operations) – 16 Oct 2025
 - ✅ [Day 31 – LeetCode 3003: Maximize the Number of Partitions After Operations](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3003.%20Maximize%20the%20Number%20of%20Partitions%20After%20Operations) – 17 Oct 2025
 - ✅ [Day 32 – LeetCode 3397: Maximum Number of Distinct Elements After Operations](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3397.%20Maximum%20Number%20of%20Distinct%20Elements%20After%20Operations) – 18 Oct 2025
+- ✅ [Day 33 – LeetCode 1625: Lexicographically Smallest String After Applying Operations](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1625.%20Lexicographically%20Smallest%20String%20After%20Applying%20Operations) – 19 Oct 2025
 
 
 
