@@ -56,6 +56,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 33 – LeetCode 1625: Lexicographically Smallest String After Applying Operations](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1625.%20Lexicographically%20Smallest%20String%20After%20Applying%20Operations) – 19 Oct 2025
 - ✅ [Day 34 – LeetCode 2011: Final Value of Variable After Performing Operations](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations) – 20 Oct 2025
 - ✅ [Day 35 – LeetCode 3346: Maximum Frequency of an Element After Performing Operations I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3346.%20Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20I) – 21 Oct 2025
+- ✅ [Day 36 – LeetCode 3347: Maximum Frequency of an Element After Performing Operations II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3347.%20Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20II) – 22 Oct 2025
 
 
 
