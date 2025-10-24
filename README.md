@@ -58,6 +58,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 35 – LeetCode 3346: Maximum Frequency of an Element After Performing Operations I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3346.%20Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20I) – 21 Oct 2025
 - ✅ [Day 36 – LeetCode 3347: Maximum Frequency of an Element After Performing Operations II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3347.%20Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20II) – 22 Oct 2025
 - ✅ [Day 37 – LeetCode 3461: Check If Digits Are Equal in String After Operations I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3461.%20Check%20If%20Digits%20Are%20Equal%20in%20String%20After%20Operations%20I) – 23 Oct 2025
+- ✅ [Day 38 – LeetCode 2048: Next Greater Numerically Balanced Number](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2048.%20Next%20Greater%20Numerically%20Balanced%20Number) – 24 Oct 2025
 
 
 
