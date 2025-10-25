@@ -26,7 +26,9 @@
         "3147. Taking Maximum Energy From the Mystic Dungeon",
         "3186. Maximum Total Damage With Spell Casting",
         "3347. Maximum Frequency of an Element After Performing Operations II",
-        "2048. Next Greater Numerically Balanced Number"
+        "2048. Next Greater Numerically Balanced Number",
+        "1716. Calculate Money in Leetcode Bank",
+        "3539. Find Sum of Array Product of Magical Sequences"
     ],
     "java.project.referencedLibraries": []
 }
