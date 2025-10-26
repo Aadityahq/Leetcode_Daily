@@ -28,7 +28,8 @@
         "3347. Maximum Frequency of an Element After Performing Operations II",
         "2048. Next Greater Numerically Balanced Number",
         "1716. Calculate Money in Leetcode Bank",
-        "3539. Find Sum of Array Product of Magical Sequences"
+        "3539. Find Sum of Array Product of Magical Sequences",
+        "2043. Simple Bank System"
     ],
     "java.project.referencedLibraries": []
 }
