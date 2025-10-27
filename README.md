@@ -61,6 +61,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 38 – LeetCode 2048: Next Greater Numerically Balanced Number](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2048.%20Next%20Greater%20Numerically%20Balanced%20Number) – 24 Oct 2025
 - ✅ [Day 39 – LeetCode 1716: Calculate Money in Leetcode Bank](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1716.%20Calculate%20Money%20in%20Leetcode%20Bank) – 25 Oct 2025
 - ✅ [Day 40 – LeetCode 2043: Simple Bank System](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2043.%20Simple%20Bank%20System) – 26 Oct 2025
+- ✅ [Day 41 – LeetCode 2125: Number of Laser Beams in a Bank](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank) – 27 Oct 2025
+
 
 
 

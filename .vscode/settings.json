@@ -29,7 +29,8 @@
         "2048. Next Greater Numerically Balanced Number",
         "1716. Calculate Money in Leetcode Bank",
         "3539. Find Sum of Array Product of Magical Sequences",
-        "2043. Simple Bank System"
+        "2043. Simple Bank System",
+        "2125. Number of Laser Beams in a Bank"
     ],
     "java.project.referencedLibraries": []
 }
