@@ -31,7 +31,8 @@
         "3539. Find Sum of Array Product of Magical Sequences",
         "2043. Simple Bank System",
         "2125. Number of Laser Beams in a Bank",
-        "3354. Make Array Elements Equal to Zero"
+        "3354. Make Array Elements Equal to Zero",
+        "3370. Smallest Number With All Set Bits"
     ],
     "java.project.referencedLibraries": []
 }

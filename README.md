@@ -63,6 +63,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 40 – LeetCode 2043: Simple Bank System](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2043.%20Simple%20Bank%20System) – 26 Oct 2025
 - ✅ [Day 41 – LeetCode 2125: Number of Laser Beams in a Bank](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank) – 27 Oct 2025
 - ✅ [Day 42 – LeetCode 3354: Make Array Elements Equal to Zero](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3354.%20Make%20Array%20Elements%20Equal%20to%20Zero) – 28 Oct 2025
+- ✅ [Day 43 – LeetCode 3370: Smallest Number With All Set Bits](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3370.%20Smallest%20Number%20With%20All%20Set%20Bits) – 29 Oct 2025
+
 
 
 
