@@ -65,6 +65,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 42 – LeetCode 3354: Make Array Elements Equal to Zero](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3354.%20Make%20Array%20Elements%20Equal%20to%20Zero) – 28 Oct 2025
 - ✅ [Day 43 – LeetCode 3370: Smallest Number With All Set Bits](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3370.%20Smallest%20Number%20With%20All%20Set%20Bits) – 29 Oct 2025
 - ✅ [Day 44 – LeetCode 3289: The Two Sneaky Numbers of Digitville](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3289.%20The%20Two%20Sneaky%20Numbers%20of%20Digitville) – 30 Oct 2025
+- ✅ [Day 45 – LeetCode 3217: Delete Nodes From Linked List Present in Array](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array) – 31 Oct 2025
 
 
 
