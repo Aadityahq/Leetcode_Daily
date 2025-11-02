@@ -64,8 +64,10 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 41 – LeetCode 2125: Number of Laser Beams in a Bank](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank) – 27 Oct 2025
 - ✅ [Day 42 – LeetCode 3354: Make Array Elements Equal to Zero](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3354.%20Make%20Array%20Elements%20Equal%20to%20Zero) – 28 Oct 2025
 - ✅ [Day 43 – LeetCode 3370: Smallest Number With All Set Bits](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3370.%20Smallest%20Number%20With%20All%20Set%20Bits) – 29 Oct 2025
-- ✅ [Day 44 – LeetCode 3289: The Two Sneaky Numbers of Digitville](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3289.%20The%20Two%20Sneaky%20Numbers%20of%20Digitville) – 30 Oct 2025
-- ✅ [Day 45 – LeetCode 3217: Delete Nodes From Linked List Present in Array](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array) – 31 Oct 2025
+- ✅ [Day 44 – LeetCode 1526: Minimum Number of Increments on Subarrays to Form a Target Array](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1526.%20Minimum%20Number%20of%20Increments%20on%20Subarrays%20to%20Form%20a%20Target%20Array) – 30 Oct 2025
+- ✅ [Day 45 – LeetCode 3289: The Two Sneaky Numbers of Digitville](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3289.%20The%20Two%20Sneaky%20Numbers%20of%20Digitville) – 31 Oct 2025
+- ✅ [Day 46 – LeetCode 3217: Delete Nodes From Linked List Present in Array](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array) – 01 Nov 2025
+- ✅ [Day 47 – LeetCode 2257: Count Unguarded Cells in the Grid](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2257.%20Count%20Unguarded%20Cells%20in%20the%20Grid) – 02 Nov 2025
 
 
 
