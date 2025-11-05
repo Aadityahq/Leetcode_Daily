@@ -1,7 +1,5 @@
 **LeetCode 3318. Find X-Sum of All K-Long Subarrays I** 👇
 
----
-
 ## 🧩 Problem Understanding
 
 You’re given:
