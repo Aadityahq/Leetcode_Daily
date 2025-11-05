@@ -1,4 +1,5 @@
-
+# Detailed Explanation of LeetCode 3321: Find X-Sum of All K-Long Subarrays II
+---
 ## 🧩 Problem Understanding
 
 You are given:
