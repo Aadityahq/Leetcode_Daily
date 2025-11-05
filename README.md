@@ -68,6 +68,11 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 45 – LeetCode 3289: The Two Sneaky Numbers of Digitville](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3289.%20The%20Two%20Sneaky%20Numbers%20of%20Digitville) – 31 Oct 2025
 - ✅ [Day 46 – LeetCode 3217: Delete Nodes From Linked List Present in Array](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array) – 01 Nov 2025
 - ✅ [Day 47 – LeetCode 2257: Count Unguarded Cells in the Grid](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2257.%20Count%20Unguarded%20Cells%20in%20the%20Grid) – 02 Nov 2025
+- ✅ [Day 48 – LeetCode 1578: Minimum Time to Make Rope Colorful](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful) – 03 Nov 2025
+- ✅ [Day 49 – LeetCode 3318: Find X-Sum of All K-Long Subarrays I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3318.%20Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I) – 04 Nov 2025
+- ✅ [Day 50 – LeetCode 3321: Find X-Sum of All K-Long Subarrays II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3321.%20Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20II) – 05 Nov 2025
+
+
 
 
 
