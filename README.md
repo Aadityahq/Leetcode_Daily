@@ -71,6 +71,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 48 – LeetCode 1578: Minimum Time to Make Rope Colorful](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful) – 03 Nov 2025
 - ✅ [Day 49 – LeetCode 3318: Find X-Sum of All K-Long Subarrays I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3318.%20Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I) – 04 Nov 2025
 - ✅ [Day 50 – LeetCode 3321: Find X-Sum of All K-Long Subarrays II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3321.%20Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20II) – 05 Nov 2025
+- ✅ [Day 51 – LeetCode 3607: Power Grid Maintenance](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3607.%20Power%20Grid%20Maintenance) – 06 Nov 2025
 
 
 

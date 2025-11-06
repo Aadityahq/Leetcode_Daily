@@ -39,7 +39,8 @@
         "2257. Count Unguarded Cells in the Grid",
         "1578. Minimum Time to Make Rope Colorful",
         "3318. Find X-Sum of All K-Long Subarrays I",
-        "3321. Find X-Sum of All K-Long Subarrays II"
+        "3321. Find X-Sum of All K-Long Subarrays II",
+        "3607. Power Grid Maintenance"
     ],
     "java.project.referencedLibraries": []
 }
