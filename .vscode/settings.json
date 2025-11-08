@@ -41,7 +41,8 @@
         "3318. Find X-Sum of All K-Long Subarrays I",
         "3321. Find X-Sum of All K-Long Subarrays II",
         "3607. Power Grid Maintenance",
-        "2528. Maximize the Minimum Powered City"
+        "2528. Maximize the Minimum Powered City",
+        "1611. Minimum One Bit Operations to Make Integers Zero"
     ],
     "java.project.referencedLibraries": []
 }

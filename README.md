@@ -73,6 +73,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 50 – LeetCode 3321: Find X-Sum of All K-Long Subarrays II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3321.%20Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20II) – 05 Nov 2025
 - ✅ [Day 51 – LeetCode 3607: Power Grid Maintenance](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3607.%20Power%20Grid%20Maintenance) – 06 Nov 2025
 - ✅ [Day 52 – LeetCode 2528: Maximize the Minimum Powered City](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2528.%20Maximize%20the%20Minimum%20Powered%20City) – 07 Nov 2025
+- ✅ [Day 53 – LeetCode 1611: Minimum One Bit Operations to Make Integers Zero](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1611.%20Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero) – 08 Nov 2025
 
 
 
