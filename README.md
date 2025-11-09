@@ -74,6 +74,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 51 – LeetCode 3607: Power Grid Maintenance](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3607.%20Power%20Grid%20Maintenance) – 06 Nov 2025
 - ✅ [Day 52 – LeetCode 2528: Maximize the Minimum Powered City](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2528.%20Maximize%20the%20Minimum%20Powered%20City) – 07 Nov 2025
 - ✅ [Day 53 – LeetCode 1611: Minimum One Bit Operations to Make Integers Zero](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1611.%20Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero) – 08 Nov 2025
+- ✅ [Day 54 – LeetCode 2169: Count Operations to Obtain Zero](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2169.%20Count%20Operations%20to%20Obtain%20Zero) – 09 Nov 2025
 
 
 
