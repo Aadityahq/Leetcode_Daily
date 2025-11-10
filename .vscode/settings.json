@@ -43,7 +43,8 @@
         "3607. Power Grid Maintenance",
         "2528. Maximize the Minimum Powered City",
         "1611. Minimum One Bit Operations to Make Integers Zero",
-        "2169. Count Operations to Obtain Zero"
+        "2169. Count Operations to Obtain Zero",
+        "3542. Minimum Operations to Convert All Elements to Zero"
     ],
     "java.project.referencedLibraries": []
 }
