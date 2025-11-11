@@ -77,6 +77,9 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 54 – LeetCode 2169: Count Operations to Obtain Zero](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2169.%20Count%20Operations%20to%20Obtain%20Zero) – 09 Nov 2025
 - ✅ [Day 55 – LeetCode 3542: Minimum Operations to Convert All Elements to Zero](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3542.%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero) – 10 Nov 2025
 
+- ✅ [Day 56 – LeetCode 474: Ones and Zeroes](https://github.com/Aadityahq/Leetcode_Daily/tree/main/474.%20Ones%20and%20Zeroes) – 11 Nov 2025
+
+
 
 
 

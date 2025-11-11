@@ -44,7 +44,8 @@
         "2528. Maximize the Minimum Powered City",
         "1611. Minimum One Bit Operations to Make Integers Zero",
         "2169. Count Operations to Obtain Zero",
-        "3542. Minimum Operations to Convert All Elements to Zero"
+        "3542. Minimum Operations to Convert All Elements to Zero",
+        "474. Ones and Zeroes"
     ],
     "java.project.referencedLibraries": []
 }
