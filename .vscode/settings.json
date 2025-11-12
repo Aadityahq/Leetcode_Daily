@@ -45,7 +45,8 @@
         "1611. Minimum One Bit Operations to Make Integers Zero",
         "2169. Count Operations to Obtain Zero",
         "3542. Minimum Operations to Convert All Elements to Zero",
-        "474. Ones and Zeroes"
+        "474. Ones and Zeroes",
+        "2654. Minimum Number of Operations to Make All Array Elements Equal to 1"
     ],
     "java.project.referencedLibraries": []
 }

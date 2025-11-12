@@ -76,8 +76,9 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 53 – LeetCode 1611: Minimum One Bit Operations to Make Integers Zero](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1611.%20Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero) – 08 Nov 2025
 - ✅ [Day 54 – LeetCode 2169: Count Operations to Obtain Zero](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2169.%20Count%20Operations%20to%20Obtain%20Zero) – 09 Nov 2025
 - ✅ [Day 55 – LeetCode 3542: Minimum Operations to Convert All Elements to Zero](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3542.%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero) – 10 Nov 2025
-
 - ✅ [Day 56 – LeetCode 474: Ones and Zeroes](https://github.com/Aadityahq/Leetcode_Daily/tree/main/474.%20Ones%20and%20Zeroes) – 11 Nov 2025
+- ✅ [Day 57 – LeetCode 2654: Minimum Number of Operations to Make All Array Elements Equal to 1](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2654.%20Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201) – 12 Nov 2025
+
 
 
 
