@@ -78,6 +78,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 55 – LeetCode 3542: Minimum Operations to Convert All Elements to Zero](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3542.%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero) – 10 Nov 2025
 - ✅ [Day 56 – LeetCode 474: Ones and Zeroes](https://github.com/Aadityahq/Leetcode_Daily/tree/main/474.%20Ones%20and%20Zeroes) – 11 Nov 2025
 - ✅ [Day 57 – LeetCode 2654: Minimum Number of Operations to Make All Array Elements Equal to 1](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2654.%20Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201) – 12 Nov 2025
+- ✅ [Day 58 – LeetCode 3228: Maximum Number of Operations to Move Ones to the End](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End) – 13 Nov 2025
 
 
 
