@@ -79,6 +79,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 56 – LeetCode 474: Ones and Zeroes](https://github.com/Aadityahq/Leetcode_Daily/tree/main/474.%20Ones%20and%20Zeroes) – 11 Nov 2025
 - ✅ [Day 57 – LeetCode 2654: Minimum Number of Operations to Make All Array Elements Equal to 1](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2654.%20Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201) – 12 Nov 2025
 - ✅ [Day 58 – LeetCode 3228: Maximum Number of Operations to Move Ones to the End](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End) – 13 Nov 2025
+- ✅ [Day 59 – LeetCode 2536: Increment Submatrices by One](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2536.%20Increment%20Submatrices%20by%20One) – 14 Nov 2025
+
 
 
 
