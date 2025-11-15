@@ -1,4 +1,3 @@
-
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aadii08-orange?logo=leetcode)](https://leetcode.com/u/Aadii08/)
 
 - [My LeetCode Profile](https://leetcode.com/u/Aadii08/)
@@ -80,6 +79,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 57 – LeetCode 2654: Minimum Number of Operations to Make All Array Elements Equal to 1](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2654.%20Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201) – 12 Nov 2025
 - ✅ [Day 58 – LeetCode 3228: Maximum Number of Operations to Move Ones to the End](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End) – 13 Nov 2025
 - ✅ [Day 59 – LeetCode 2536: Increment Submatrices by One](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2536.%20Increment%20Submatrices%20by%20One) – 14 Nov 2025
+- ✅ [Day 60 – LeetCode 3234: Count the Number of Substrings With Dominant Ones](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3234.%20Count%20the%20Number%20of%20Substrings%20With%20Dominant%20Ones) – 15 Nov 2025
+
 
 
 
