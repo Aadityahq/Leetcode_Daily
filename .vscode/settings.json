@@ -49,7 +49,8 @@
         "2654. Minimum Number of Operations to Make All Array Elements Equal to 1",
         "3228. Maximum Number of Operations to Move Ones to the End",
         "2536. Increment Submatrices by One",
-        "3234. Count the Number of Substrings With Dominant Ones"
+        "3234. Count the Number of Substrings With Dominant Ones",
+        "1513. Number of Substrings With Only 1s"
     ],
     "java.project.referencedLibraries": []
 }

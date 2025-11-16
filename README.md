@@ -80,6 +80,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 58 – LeetCode 3228: Maximum Number of Operations to Move Ones to the End](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3228.%20Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End) – 13 Nov 2025
 - ✅ [Day 59 – LeetCode 2536: Increment Submatrices by One](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2536.%20Increment%20Submatrices%20by%20One) – 14 Nov 2025
 - ✅ [Day 60 – LeetCode 3234: Count the Number of Substrings With Dominant Ones](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3234.%20Count%20the%20Number%20of%20Substrings%20With%20Dominant%20Ones) – 15 Nov 2025
+- ✅ [Day 61 – LeetCode 1513: Number of Substrings With Only 1s](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1513.%20Number%20of%20Substrings%20With%20Only%201s) – 16 Nov 2025
+
 
 
 
