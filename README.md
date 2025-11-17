@@ -81,6 +81,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 59 – LeetCode 2536: Increment Submatrices by One](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2536.%20Increment%20Submatrices%20by%20One) – 14 Nov 2025
 - ✅ [Day 60 – LeetCode 3234: Count the Number of Substrings With Dominant Ones](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3234.%20Count%20the%20Number%20of%20Substrings%20With%20Dominant%20Ones) – 15 Nov 2025
 - ✅ [Day 61 – LeetCode 1513: Number of Substrings With Only 1s](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1513.%20Number%20of%20Substrings%20With%20Only%201s) – 16 Nov 2025
+- ✅ [Day 62 – LeetCode 1437: Check If All 1's Are at Least Length K Places Away](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1437.%20Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away) – 17 Nov 2025
+
 
 
 
