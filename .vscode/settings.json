@@ -54,7 +54,8 @@
         "1437. Check If All 1's Are at Least Length K Places Away",
         "717. 1-bit and 2-bit Characters",
         "2154. Keep Multiplying Found Values by Two",
-        "757. Set Intersection Size At Least Two"
+        "757. Set Intersection Size At Least Two",
+        "1930. Unique Length-3 Palindromic Subsequences"
     ],
     "java.project.referencedLibraries": []
 }
