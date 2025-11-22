@@ -55,7 +55,8 @@
         "717. 1-bit and 2-bit Characters",
         "2154. Keep Multiplying Found Values by Two",
         "757. Set Intersection Size At Least Two",
-        "1930. Unique Length-3 Palindromic Subsequences"
+        "1930. Unique Length-3 Palindromic Subsequences",
+        "3190. Find Minimum Operations to Make All Elements Divisible by Three"
     ],
     "java.project.referencedLibraries": []
 }
