@@ -56,7 +56,8 @@
         "2154. Keep Multiplying Found Values by Two",
         "757. Set Intersection Size At Least Two",
         "1930. Unique Length-3 Palindromic Subsequences",
-        "3190. Find Minimum Operations to Make All Elements Divisible by Three"
+        "3190. Find Minimum Operations to Make All Elements Divisible by Three",
+        "1262. Greatest Sum Divisible by Three"
     ],
     "java.project.referencedLibraries": []
 }
