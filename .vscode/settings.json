@@ -58,7 +58,8 @@
         "1930. Unique Length-3 Palindromic Subsequences",
         "3190. Find Minimum Operations to Make All Elements Divisible by Three",
         "1262. Greatest Sum Divisible by Three",
-        "1018. Binary Prefix Divisible By 5"
+        "1018. Binary Prefix Divisible By 5",
+        "1015. Smallest Integer Divisible by K"
     ],
     "java.project.referencedLibraries": []
 }

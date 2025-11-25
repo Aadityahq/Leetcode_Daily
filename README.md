@@ -89,6 +89,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 67 – LeetCode 3190: Find Minimum Operations to Make All Elements Divisible by Three](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3190.%20Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three) – 22 Nov 2025
 - ✅ [Day 68 – LeetCode 1262: Greatest Sum Divisible by Three](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1262.%20Greatest%20Sum%20Divisible%20by%20Three) – 23 Nov 2025
 - ✅ [Day 69 – LeetCode 1018: Binary Prefix Divisible By 5](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1018.%20Binary%20Prefix%20Divisible%20By%205) – 24 Nov 2025
+- ✅ [Day 70 – LeetCode 1015: Smallest Integer Divisible by K](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1015.%20Smallest%20Integer%20Divisible%20by%20K) – 25 Nov 2025
+
 
 
 
