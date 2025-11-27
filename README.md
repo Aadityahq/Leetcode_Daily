@@ -91,6 +91,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 69 – LeetCode 1018: Binary Prefix Divisible By 5](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1018.%20Binary%20Prefix%20Divisible%20By%205) – 24 Nov 2025
 - ✅ [Day 70 – LeetCode 1015: Smallest Integer Divisible by K](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1015.%20Smallest%20Integer%20Divisible%20by%20K) – 25 Nov 2025
 - ✅ [Day 71 – LeetCode 2435: Paths in Matrix Whose Sum Is Divisible by K](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2435.%20Paths%20in%20Matrix%20Whose%20Sum%20Is%20Divisible%20by%20K) – 26 Nov 2025
+- ✅ [Day 72 – LeetCode 3381: Maximum Subarray Sum With Length Divisible by K](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3381.%20Maximum%20Subarray%20Sum%20With%20Length%20Divisible%20by%20K) – 27 Nov 2025
 
 
 
