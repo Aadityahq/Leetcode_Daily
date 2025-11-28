@@ -61,7 +61,8 @@
         "1018. Binary Prefix Divisible By 5",
         "1015. Smallest Integer Divisible by K",
         "2435. Paths in Matrix Whose Sum Is Divisible by K",
-        "3381. Maximum Subarray Sum With Length Divisible by K"
+        "3381. Maximum Subarray Sum With Length Divisible by K",
+        "2872. Maximum Number of K-Divisible Components"
     ],
     "java.project.referencedLibraries": []
 }
