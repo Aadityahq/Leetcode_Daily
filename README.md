@@ -94,6 +94,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 72 – LeetCode 3381: Maximum Subarray Sum With Length Divisible by K](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3381.%20Maximum%20Subarray%20Sum%20With%20Length%20Divisible%20by%20K) – 27 Nov 2025
 - ✅ [Day 73 – LeetCode 2872: Maximum Number of K-Divisible Components](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2872.%20Maximum%20Number%20of%20K-Divisible%20Components) – 28 Nov 2025
 - ✅ [Day 74 – LeetCode 3512: Minimum Operations to Make Array Sum Divisible by K](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3512.%20Minimum%20Operations%20to%20Make%20Array%20Sum%20Divisible%20by%20K) – 29 Nov 2025
+- ✅ [Day 75 – LeetCode 1590: Make Sum Divisible by P](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1590.%20Make%20Sum%20Divisible%20by%20P) – 30 Nov 2025
 
 
 
