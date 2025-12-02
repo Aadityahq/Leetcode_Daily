@@ -65,7 +65,8 @@
         "2872. Maximum Number of K-Divisible Components",
         "3512. Minimum Operations to Make Array Sum Divisible by K",
         "1590. Make Sum Divisible by P",
-        "2141. Maximum Running Time of N Computers"
+        "2141. Maximum Running Time of N Computers",
+        "3623. Count Number of Trapezoids I"
     ],
     "java.project.referencedLibraries": []
 }

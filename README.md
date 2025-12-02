@@ -96,6 +96,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 74 – LeetCode 3512: Minimum Operations to Make Array Sum Divisible by K](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3512.%20Minimum%20Operations%20to%20Make%20Array%20Sum%20Divisible%20by%20K) – 29 Nov 2025
 - ✅ [Day 75 – LeetCode 1590: Make Sum Divisible by P](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1590.%20Make%20Sum%20Divisible%20by%20P) – 30 Nov 2025
 - ✅ [Day 76 – LeetCode 2141: Maximum Running Time of N Computers](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2141.%20Maximum%20Running%20Time%20of%20N%20Computers) – 01 Dec 2025
+- ✅ [Day 77 – LeetCode 3623: Count Number of Trapezoids I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3623.%20Count%20Number%20of%20Trapezoids%20I) – 02 Dec 2025
 
 
 
