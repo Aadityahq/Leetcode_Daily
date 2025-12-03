@@ -66,7 +66,8 @@
         "3512. Minimum Operations to Make Array Sum Divisible by K",
         "1590. Make Sum Divisible by P",
         "2141. Maximum Running Time of N Computers",
-        "3623. Count Number of Trapezoids I"
+        "3623. Count Number of Trapezoids I",
+        "3625. Count Number of Trapezoids II"
     ],
     "java.project.referencedLibraries": []
 }
