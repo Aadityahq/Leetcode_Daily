@@ -67,7 +67,8 @@
         "1590. Make Sum Divisible by P",
         "2141. Maximum Running Time of N Computers",
         "3623. Count Number of Trapezoids I",
-        "3625. Count Number of Trapezoids II"
+        "3625. Count Number of Trapezoids II",
+        "2211. Count Collisions on a Road"
     ],
     "java.project.referencedLibraries": []
 }
