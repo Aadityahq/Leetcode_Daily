@@ -68,7 +68,8 @@
         "2141. Maximum Running Time of N Computers",
         "3623. Count Number of Trapezoids I",
         "3625. Count Number of Trapezoids II",
-        "2211. Count Collisions on a Road"
+        "2211. Count Collisions on a Road",
+        "3432. Count Partitions with Even Sum Difference"
     ],
     "java.project.referencedLibraries": []
 }
