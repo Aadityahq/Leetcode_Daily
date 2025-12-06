@@ -100,6 +100,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 78 – LeetCode 3625: Count Number of Trapezoids II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3625.%20Count%20Number%20of%20Trapezoids%20II) – 03 Dec 2025
 - ✅ [Day 79 – LeetCode 2211: Count Collisions on a Road](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2211.%20Count%20Collisions%20on%20a%20Road) – 04 Dec 2025
 - ✅ [Day 80 – LeetCode 3432: Count Partitions with Even Sum Difference](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3432.%20Count%20Partitions%20with%20Even%20Sum%20Difference) – 05 Dec 2025
+- ✅ [Day 81 – LeetCode 3578: Count Partitions With Max-Min Difference at Most K](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3578.%20Count%20Partitions%20With%20Max-Min%20Difference%20at%20Most%20K) – 06 Dec 2025
 
 
 
