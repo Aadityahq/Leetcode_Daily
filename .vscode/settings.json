@@ -70,7 +70,8 @@
         "3625. Count Number of Trapezoids II",
         "2211. Count Collisions on a Road",
         "3432. Count Partitions with Even Sum Difference",
-        "3578. Count Partitions With Max-Min Difference at Most K"
+        "3578. Count Partitions With Max-Min Difference at Most K",
+        "1523. Count Odd Numbers in an Interval Range"
     ],
     "java.project.referencedLibraries": []
 }
