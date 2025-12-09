@@ -147,12 +147,3 @@ a^2 + b^2 = c^2,\quad 1 \le a, b, c \le n
 This is efficient enough for n ≤ 250.
 
 ---
-
-# If You Want, I Can Also Provide:
-
-✅ A cleaner version of your code
-✅ Optimal math-based solution
-✅ Interview explanation
-✅ Diagram of how it works
-
-Just tell me!

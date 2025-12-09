@@ -103,7 +103,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 81 – LeetCode 3578: Count Partitions With Max-Min Difference at Most K](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3578.%20Count%20Partitions%20With%20Max-Min%20Difference%20at%20Most%20K) – 06 Dec 2025
 - ✅ [Day 82 – LeetCode 1523: Count Odd Numbers in an Interval Range](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range) – 07 Dec 2025
 - ✅ [Day 83 – LeetCode 1925: Count Square Sum Triples](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1925.%20Count%20Square%20Sum%20Triples) – 08 Dec 2025
-
+- ✅ [Day 84 – LeetCode 3583: Count Special Triplets](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3583.%20Count%20Special%20Triplets) – 09 Dec 2025
 
 
 

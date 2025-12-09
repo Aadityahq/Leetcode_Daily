@@ -72,7 +72,8 @@
         "3432. Count Partitions with Even Sum Difference",
         "3578. Count Partitions With Max-Min Difference at Most K",
         "1523. Count Odd Numbers in an Interval Range",
-        "1925. Count Square Sum Triples"
+        "1925. Count Square Sum Triples",
+        "3583. Count Special Triplets"
     ],
     "java.project.referencedLibraries": []
 }
