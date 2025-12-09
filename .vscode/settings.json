@@ -71,7 +71,8 @@
         "2211. Count Collisions on a Road",
         "3432. Count Partitions with Even Sum Difference",
         "3578. Count Partitions With Max-Min Difference at Most K",
-        "1523. Count Odd Numbers in an Interval Range"
+        "1523. Count Odd Numbers in an Interval Range",
+        "1925. Count Square Sum Triples"
     ],
     "java.project.referencedLibraries": []
 }
