@@ -73,7 +73,8 @@
         "3578. Count Partitions With Max-Min Difference at Most K",
         "1523. Count Odd Numbers in an Interval Range",
         "1925. Count Square Sum Triples",
-        "3583. Count Special Triplets"
+        "3583. Count Special Triplets",
+        "3577. Count the Number of Computer Unlocking Permutations"
     ],
     "java.project.referencedLibraries": []
 }
