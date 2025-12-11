@@ -74,7 +74,8 @@
         "1523. Count Odd Numbers in an Interval Range",
         "1925. Count Square Sum Triples",
         "3583. Count Special Triplets",
-        "3577. Count the Number of Computer Unlocking Permutations"
+        "3577. Count the Number of Computer Unlocking Permutations",
+        "3531. Count Covered Buildings"
     ],
     "java.project.referencedLibraries": []
 }

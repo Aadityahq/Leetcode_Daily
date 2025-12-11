@@ -105,6 +105,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 83 – LeetCode 1925: Count Square Sum Triples](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1925.%20Count%20Square%20Sum%20Triples) – 08 Dec 2025
 - ✅ [Day 84 – LeetCode 3583: Count Special Triplets](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3583.%20Count%20Special%20Triplets) – 09 Dec 2025
 - ✅ [Day 85 – LeetCode 3577: Count the Number of Computer Unlocking Permutations](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3577.%20Count%20the%20Number%20of%20Computer%20Unlocking%20Permutations) – 10 Dec 2025
+- ✅ [Day 86 – LeetCode 3531: Count Covered Buildings](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3531.%20Count%20Covered%20Buildings) – 11 Dec 2025
+
 
 
 

@@ -1,7 +1,3 @@
-Here is a *clean, interview-level* explanation of **the problem** and **the solution**, including **how** it works and **why** the logic is correct.
-
----
-
 # ✅ **PROBLEM EXPLANATION — What is this question asking?**
 
 You have **n computers**, labeled from `0` to `n-1`.
@@ -167,3 +163,4 @@ class Solution {
 
 ---
 
+ 
