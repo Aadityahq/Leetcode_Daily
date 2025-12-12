@@ -75,7 +75,8 @@
         "1925. Count Square Sum Triples",
         "3583. Count Special Triplets",
         "3577. Count the Number of Computer Unlocking Permutations",
-        "3531. Count Covered Buildings"
+        "3531. Count Covered Buildings",
+        "3433. Count Mentions Per User"
     ],
     "java.project.referencedLibraries": []
 }
