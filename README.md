@@ -107,6 +107,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 85 – LeetCode 3577: Count the Number of Computer Unlocking Permutations](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3577.%20Count%20the%20Number%20of%20Computer%20Unlocking%20Permutations) – 10 Dec 2025
 - ✅ [Day 86 – LeetCode 3531: Count Covered Buildings](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3531.%20Count%20Covered%20Buildings) – 11 Dec 2025
 - ✅ [Day 87 – LeetCode 3433: Count Mentions Per User](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3433.%20Count%20Mentions%20Per%20User) – 12 Dec 2025
+- ✅ [Day 88 – LeetCode 3606: Coupon Code Validator](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3606.%20Coupon%20Code%20Validator) – 13 Dec 2025
 
 
 
