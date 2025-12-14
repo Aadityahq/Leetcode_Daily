@@ -77,7 +77,8 @@
         "3577. Count the Number of Computer Unlocking Permutations",
         "3531. Count Covered Buildings",
         "3433. Count Mentions Per User",
-        "3606. Coupon Code Validator"
+        "3606. Coupon Code Validator",
+        "2147. Number of Ways to Divide a Long Corridor"
     ],
     "java.project.referencedLibraries": []
 }

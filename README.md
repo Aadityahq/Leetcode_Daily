@@ -108,6 +108,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 86 – LeetCode 3531: Count Covered Buildings](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3531.%20Count%20Covered%20Buildings) – 11 Dec 2025
 - ✅ [Day 87 – LeetCode 3433: Count Mentions Per User](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3433.%20Count%20Mentions%20Per%20User) – 12 Dec 2025
 - ✅ [Day 88 – LeetCode 3606: Coupon Code Validator](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3606.%20Coupon%20Code%20Validator) – 13 Dec 2025
+- ✅ [Day 89 – LeetCode 2147: Number of Ways to Divide a Long Corridor](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2147.%20Number%20of%20Ways%20to%20Divide%20a%20Long%20Corridor) – 14 Dec 2025
+
 
 
 
