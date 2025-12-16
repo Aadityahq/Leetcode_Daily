@@ -79,7 +79,8 @@
         "3433. Count Mentions Per User",
         "3606. Coupon Code Validator",
         "2147. Number of Ways to Divide a Long Corridor",
-        "2110. Number of Smooth Descent Periods of a Stock"
+        "2110. Number of Smooth Descent Periods of a Stock",
+        "3562. Maximum Profit from Trading Stocks with Discounts"
     ],
     "java.project.referencedLibraries": []
 }

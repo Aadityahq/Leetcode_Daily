@@ -110,6 +110,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 88 – LeetCode 3606: Coupon Code Validator](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3606.%20Coupon%20Code%20Validator) – 13 Dec 2025
 - ✅ [Day 89 – LeetCode 2147: Number of Ways to Divide a Long Corridor](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2147.%20Number%20of%20Ways%20to%20Divide%20a%20Long%20Corridor) – 14 Dec 2025
 - ✅ [Day 90 – LeetCode 2110: Number of Smooth Descent Periods of a Stock](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2110.%20Number%20of%20Smooth%20Descent%20Periods%20of%20a%20Stock) – 15 Dec 2025
+- ✅ [Day 91 – LeetCode 3562: Maximum Profit from Trading Stocks with Discounts](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3562.%20Maximum%20Profit%20from%20Trading%20Stocks%20with%20Discounts) – 16 Dec 2025
+
 
 
 
