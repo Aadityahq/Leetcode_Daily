@@ -111,6 +111,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 89 – LeetCode 2147: Number of Ways to Divide a Long Corridor](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2147.%20Number%20of%20Ways%20to%20Divide%20a%20Long%20Corridor) – 14 Dec 2025
 - ✅ [Day 90 – LeetCode 2110: Number of Smooth Descent Periods of a Stock](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2110.%20Number%20of%20Smooth%20Descent%20Periods%20of%20a%20Stock) – 15 Dec 2025
 - ✅ [Day 91 – LeetCode 3562: Maximum Profit from Trading Stocks with Discounts](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3562.%20Maximum%20Profit%20from%20Trading%20Stocks%20with%20Discounts) – 16 Dec 2025
+- ✅ [Day 92 – LeetCode 3573: Best Time to Buy and Sell Stock V](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3573.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20V) – 17 Dec 2025
+
 
 
 

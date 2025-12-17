@@ -80,7 +80,8 @@
         "3606. Coupon Code Validator",
         "2147. Number of Ways to Divide a Long Corridor",
         "2110. Number of Smooth Descent Periods of a Stock",
-        "3562. Maximum Profit from Trading Stocks with Discounts"
+        "3562. Maximum Profit from Trading Stocks with Discounts",
+        "3573. Best Time to Buy and Sell Stock V"
     ],
     "java.project.referencedLibraries": []
 }
