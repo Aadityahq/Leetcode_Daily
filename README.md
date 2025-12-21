@@ -115,6 +115,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 93 – LeetCode 2092: Find All People With Secret](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2092.%20Find%20All%20People%20With%20Secret) – 18 Dec 2025
 - ✅ [Day 94 – LeetCode 3652: Best Time to Buy and Sell Stock using Strategy](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3652.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20using%20Strategy) – 19 Dec 2025
 - ✅ [Day 95 – LeetCode 944: Delete Columns to Make Sorted](https://github.com/Aadityahq/Leetcode_Daily/tree/main/944.%20Delete%20Columns%20to%20Make%20Sorted) – 20 Dec 2025
+- ✅ [Day 96 – LeetCode 955: Delete Columns to Make Sorted II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/955.%20Delete%20Columns%20to%20Make%20Sorted%20II) – 21 Dec 2025
+
 
 
 
