@@ -86,7 +86,8 @@
         "2092. Find All People With Secret",
         "3652. Best Time to Buy and Sell Stock using Strategy",
         "944. Delete Columns to Make Sorted",
-        "955. Delete Columns to Make Sorted II"
+        "955. Delete Columns to Make Sorted II",
+        "960. Delete Columns to Make Sorted III"
     ],
     "java.project.referencedLibraries": []
 }
