@@ -117,6 +117,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 95 – LeetCode 944: Delete Columns to Make Sorted](https://github.com/Aadityahq/Leetcode_Daily/tree/main/944.%20Delete%20Columns%20to%20Make%20Sorted) – 20 Dec 2025
 - ✅ [Day 96 – LeetCode 955: Delete Columns to Make Sorted II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/955.%20Delete%20Columns%20to%20Make%20Sorted%20II) – 21 Dec 2025
 - ✅ [Day 97 – LeetCode 960: Delete Columns to Make Sorted III](https://github.com/Aadityahq/Leetcode_Daily/tree/main/960.%20Delete%20Columns%20to%20Make%20Sorted%20III) – 22 Dec 2025
+- ✅ [Day 98 – LeetCode 2054: Two Best Non-Overlapping Events](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2054.%20Two%20Best%20Non-Overlapping%20Events) – 23 Dec 2025
 
 
 
