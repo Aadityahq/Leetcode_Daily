@@ -119,6 +119,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 97 – LeetCode 960: Delete Columns to Make Sorted III](https://github.com/Aadityahq/Leetcode_Daily/tree/main/960.%20Delete%20Columns%20to%20Make%20Sorted%20III) – 22 Dec 2025
 - ✅ [Day 98 – LeetCode 2054: Two Best Non-Overlapping Events](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2054.%20Two%20Best%20Non-Overlapping%20Events) – 23 Dec 2025
 - ✅ [Day 99 – LeetCode 3074: Apple Redistribution into Boxes](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3074.%20Apple%20Redistribution%20into%20Boxes) – 24 Dec 2025
+- ✅ [Day 100 – LeetCode 3075: Maximize Happiness of Selected Children](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3075.%20Maximize%20Happiness%20of%20Selected%20Children) – 25 Dec 2025
 
 
 

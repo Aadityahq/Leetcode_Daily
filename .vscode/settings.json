@@ -89,7 +89,8 @@
         "955. Delete Columns to Make Sorted II",
         "960. Delete Columns to Make Sorted III",
         "2054. Two Best Non-Overlapping Events",
-        "3074. Apple Redistribution into Boxes"
+        "3074. Apple Redistribution into Boxes",
+        "3075. Maximize Happiness of Selected Children"
     ],
     "java.project.referencedLibraries": []
 }
