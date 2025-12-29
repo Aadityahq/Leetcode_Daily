@@ -123,6 +123,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 101 – LeetCode 2483: Minimum Penalty for a Shop](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2483.%20Minimum%20Penalty%20for%20a%20Shop) – 26 Dec 2025
 - ✅ [Day 102 – LeetCode 2402: Meeting Rooms III](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2402.%20Meeting%20Rooms%20III) – 27 Dec 2025
 - ✅ [Day 103 – LeetCode 1351: Count Negative Numbers in a Sorted Matrix](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix) – 28 Dec 2025
+- ✅ [Day 104 – LeetCode 756: Pyramid Transition Matrix](https://github.com/Aadityahq/Leetcode_Daily/tree/main/756.%20Pyramid%20Transition%20Matrix) – 29 Dec 2025
+
 
 
 
