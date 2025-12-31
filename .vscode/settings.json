@@ -95,7 +95,8 @@
         "2402. Meeting Rooms III",
         "1351. Count Negative Numbers in a Sorted Matrix",
         "756. Pyramid Transition Matrix",
-        "840. Magic Squares In Grid"
+        "840. Magic Squares In Grid",
+        "1970. Last Day Where You Can Still Cross"
     ],
     "java.project.referencedLibraries": []
 }

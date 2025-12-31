@@ -125,6 +125,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 103 – LeetCode 1351: Count Negative Numbers in a Sorted Matrix](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix) – 28 Dec 2025
 - ✅ [Day 104 – LeetCode 756: Pyramid Transition Matrix](https://github.com/Aadityahq/Leetcode_Daily/tree/main/756.%20Pyramid%20Transition%20Matrix) – 29 Dec 2025
 - ✅ [Day 105 – LeetCode 840: Magic Squares In Grid](https://github.com/Aadityahq/Leetcode_Daily/tree/main/840.%20Magic%20Squares%20In%20Grid) – 30 Dec 2025
+- ✅ [Day 106 – LeetCode 1970: Last Day Where You Can Still Cross](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross) – 31 Dec 2025
 
 
 
