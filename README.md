@@ -127,6 +127,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 105 – LeetCode 840: Magic Squares In Grid](https://github.com/Aadityahq/Leetcode_Daily/tree/main/840.%20Magic%20Squares%20In%20Grid) – 30 Dec 2025
 - ✅ [Day 106 – LeetCode 1970: Last Day Where You Can Still Cross](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross) – 31 Dec 2025
 - ✅ [Day 107 – LeetCode 66: Plus One](https://github.com/Aadityahq/Leetcode_Daily/tree/main/66.%20Plus%20One) – 01 Jan 2026
+- ✅ [Day 108 – LeetCode 961: N-Repeated Element in Size 2N Array](https://github.com/Aadityahq/Leetcode_Daily/tree/main/961.%20N-Repeated%20Element%20in%20Size%202N%20Array) – 02 Jan 2026
+
 
 
 

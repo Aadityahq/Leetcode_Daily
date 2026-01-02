@@ -97,7 +97,8 @@
         "756. Pyramid Transition Matrix",
         "840. Magic Squares In Grid",
         "1970. Last Day Where You Can Still Cross",
-        "66. Plus One"
+        "66. Plus One",
+        "961. N-Repeated Element in Size 2N Array"
     ],
     "java.project.referencedLibraries": []
 }
