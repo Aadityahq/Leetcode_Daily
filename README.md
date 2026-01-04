@@ -129,6 +129,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 107 – LeetCode 66: Plus One](https://github.com/Aadityahq/Leetcode_Daily/tree/main/66.%20Plus%20One) – 01 Jan 2026
 - ✅ [Day 108 – LeetCode 961: N-Repeated Element in Size 2N Array](https://github.com/Aadityahq/Leetcode_Daily/tree/main/961.%20N-Repeated%20Element%20in%20Size%202N%20Array) – 02 Jan 2026
 - ✅ [Day 109 – LeetCode 1411: Number of Ways to Paint N × 3 Grid](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1411.%20Number%20of%20Ways%20to%20Paint%20N%20%C3%97%203%20Grid) – 03 Jan 2026
+- ✅ [Day 110 – LeetCode 1390: Four Divisors](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1390.%20Four%20Divisors) – 04 Jan 2026
+
 
 
 

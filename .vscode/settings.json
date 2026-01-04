@@ -99,7 +99,8 @@
         "1970. Last Day Where You Can Still Cross",
         "66. Plus One",
         "961. N-Repeated Element in Size 2N Array",
-        "1411. Number of Ways to Paint N × 3 Grid"
+        "1411. Number of Ways to Paint N × 3 Grid",
+        "1390. Four Divisors"
     ],
     "java.project.referencedLibraries": []
 }
