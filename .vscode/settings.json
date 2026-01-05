@@ -100,7 +100,8 @@
         "66. Plus One",
         "961. N-Repeated Element in Size 2N Array",
         "1411. Number of Ways to Paint N × 3 Grid",
-        "1390. Four Divisors"
+        "1390. Four Divisors",
+        "1975. Maximum Matrix Sum"
     ],
     "java.project.referencedLibraries": []
 }
