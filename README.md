@@ -131,6 +131,9 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 109 – LeetCode 1411: Number of Ways to Paint N × 3 Grid](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1411.%20Number%20of%20Ways%20to%20Paint%20N%20%C3%97%203%20Grid) – 03 Jan 2026
 - ✅ [Day 110 – LeetCode 1390: Four Divisors](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1390.%20Four%20Divisors) – 04 Jan 2026
 - ✅ [Day 111 – LeetCode 1975: Maximum Matrix Sum](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1975.%20Maximum%20Matrix%20Sum) – 05 Jan 2026
+- ✅ [Day 112 – LeetCode 1161: Maximum Level Sum of a Binary Tree](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree) – 06 Jan 2026
+ 
+
 
 
 
