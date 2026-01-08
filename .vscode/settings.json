@@ -103,7 +103,8 @@
         "1390. Four Divisors",
         "1975. Maximum Matrix Sum",
         "1161. Maximum Level Sum of a Binary Tree",
-        "1339. Maximum Product of Splitted Binary Tree"
+        "1339. Maximum Product of Splitted Binary Tree",
+        "1458. Max Dot Product of Two Subsequences"
     ],
     "java.project.referencedLibraries": []
 }

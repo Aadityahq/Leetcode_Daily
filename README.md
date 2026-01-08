@@ -133,6 +133,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 111 – LeetCode 1975: Maximum Matrix Sum](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1975.%20Maximum%20Matrix%20Sum) – 05 Jan 2026
 - ✅ [Day 112 – LeetCode 1161: Maximum Level Sum of a Binary Tree](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree) – 06 Jan 2026
 - ✅ [Day 113 – LeetCode 1339: Maximum Product of Splitted Binary Tree](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree) – 07 Jan 2026
+- ✅ [Day 114 – LeetCode 1458: Max Dot Product of Two Subsequences](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences) – 08 Jan 2026
+
 
  
 
