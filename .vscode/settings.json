@@ -104,7 +104,8 @@
         "1975. Maximum Matrix Sum",
         "1161. Maximum Level Sum of a Binary Tree",
         "1339. Maximum Product of Splitted Binary Tree",
-        "1458. Max Dot Product of Two Subsequences"
+        "1458. Max Dot Product of Two Subsequences",
+        "865. Smallest Subtree with all the Deepest Nodes"
     ],
     "java.project.referencedLibraries": []
 }
