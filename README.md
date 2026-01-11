@@ -136,6 +136,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 114 – LeetCode 1458: Max Dot Product of Two Subsequences](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences) – 08 Jan 2026
 - ✅ [Day 115 – LeetCode 865: Smallest Subtree with all the Deepest Nodes](https://github.com/Aadityahq/Leetcode_Daily/tree/main/865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes) – 09 Jan 2026
 - ✅ [Day 116 – LeetCode 712: Minimum ASCII Delete Sum for Two Strings](https://github.com/Aadityahq/Leetcode_Daily/tree/main/712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings) – 10 Jan 2026
+- ✅ [Day 117 – LeetCode 85: Maximal Rectangle](https://github.com/Aadityahq/Leetcode_Daily/tree/main/85.%20Maximal%20Rectangle) – 11 Jan 2026
+
 
 
 

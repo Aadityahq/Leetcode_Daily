@@ -106,7 +106,9 @@
         "1339. Maximum Product of Splitted Binary Tree",
         "1458. Max Dot Product of Two Subsequences",
         "865. Smallest Subtree with all the Deepest Nodes",
-        "712. Minimum ASCII Delete Sum for Two Strings"
+        "712. Minimum ASCII Delete Sum for Two Strings",
+        " 85. Maximal Rectangle",
+        "85. Maximum Rectangle"
     ],
     "java.project.referencedLibraries": []
 }
