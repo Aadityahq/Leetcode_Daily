@@ -108,7 +108,8 @@
         "865. Smallest Subtree with all the Deepest Nodes",
         "712. Minimum ASCII Delete Sum for Two Strings",
         " 85. Maximal Rectangle",
-        "85. Maximum Rectangle"
+        "85. Maximum Rectangle",
+        "1266. Minimum Time Visiting All Points"
     ],
     "java.project.referencedLibraries": []
 }
