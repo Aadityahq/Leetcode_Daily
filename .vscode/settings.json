@@ -110,7 +110,8 @@
         " 85. Maximal Rectangle",
         "85. Maximum Rectangle",
         "1266. Minimum Time Visiting All Points",
-        "3453. Separate Squares I"
+        "3453. Separate Squares I",
+        "3454. Separate Squares II"
     ],
     "java.project.referencedLibraries": []
 }

@@ -139,6 +139,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 117 – LeetCode 85: Maximal Rectangle](https://github.com/Aadityahq/Leetcode_Daily/tree/main/85.%20Maximal%20Rectangle) – 11 Jan 2026
 - ✅ [Day 118 – LeetCode 1266: Minimum Time Visiting All Points](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1266.%20Minimum%20Time%20Visiting%20All%20Points) – 12 Jan 2026
 - ✅ [Day 119 – LeetCode 3453: Separate Squares I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3453.%20Separate%20Squares%20I) – 13 Jan 2026
+- ✅ [Day 120 – LeetCode 3454: Separate Squares II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3454.%20Separate%20Squares%20II) – 14 Jan 2026
+
 
 
 
