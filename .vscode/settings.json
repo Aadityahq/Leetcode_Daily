@@ -111,7 +111,8 @@
         "85. Maximum Rectangle",
         "1266. Minimum Time Visiting All Points",
         "3453. Separate Squares I",
-        "3454. Separate Squares II"
+        "3454. Separate Squares II",
+        "2943. Maximize Area of Square Hole in Grid"
     ],
     "java.project.referencedLibraries": []
 }
