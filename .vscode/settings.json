@@ -112,7 +112,8 @@
         "1266. Minimum Time Visiting All Points",
         "3453. Separate Squares I",
         "3454. Separate Squares II",
-        "2943. Maximize Area of Square Hole in Grid"
+        "2943. Maximize Area of Square Hole in Grid",
+        "2975. Maximum Square Area by Removing Fences From a Field"
     ],
     "java.project.referencedLibraries": []
 }
