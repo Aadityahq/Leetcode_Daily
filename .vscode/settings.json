@@ -113,7 +113,8 @@
         "3453. Separate Squares I",
         "3454. Separate Squares II",
         "2943. Maximize Area of Square Hole in Grid",
-        "2975. Maximum Square Area by Removing Fences From a Field"
+        "2975. Maximum Square Area by Removing Fences From a Field",
+        "3047. Find the Largest Area of Square Inside Two Rectangles"
     ],
     "java.project.referencedLibraries": []
 }
