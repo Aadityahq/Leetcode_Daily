@@ -143,6 +143,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 121 – LeetCode 2943: Maximize Area of Square Hole in Grid](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid) – 15 Jan 2026
 - ✅ [Day 122 – LeetCode 2975: Maximum Square Area by Removing Fences From a Field](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field) – 16 Jan 2026
 - ✅ [Day 123 – LeetCode 3047: Find the Largest Area of Square Inside Two Rectangles](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles) – 17 Jan 2026
+- ✅ [Day 124 – LeetCode 1895: Largest Magic Square](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1895.%20Largest%20Magic%20Square) – 18 Jan 2026
+
 
 
 
