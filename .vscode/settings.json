@@ -116,7 +116,8 @@
         "2975. Maximum Square Area by Removing Fences From a Field",
         "3047. Find the Largest Area of Square Inside Two Rectangles",
         "1895. Largest Magic Square",
-        "1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold"
+        "1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+        "3314. Construct the Minimum Bitwise Array I"
     ],
     "java.project.referencedLibraries": []
 }

@@ -145,6 +145,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 123 – LeetCode 3047: Find the Largest Area of Square Inside Two Rectangles](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles) – 17 Jan 2026
 - ✅ [Day 124 – LeetCode 1895: Largest Magic Square](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1895.%20Largest%20Magic%20Square) – 18 Jan 2026
 - ✅ [Day 125 – LeetCode 1292: Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold) – 19 Jan 2026
+- ✅ [Day 126 – LeetCode 3314: Construct the Minimum Bitwise Array I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3314.%20Construct%20the%20Minimum%20Bitwise%20Array%20I) – 20 Jan 2026
 
 
 
