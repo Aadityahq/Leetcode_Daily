@@ -148,6 +148,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 126 – LeetCode 3314: Construct the Minimum Bitwise Array I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3314.%20Construct%20the%20Minimum%20Bitwise%20Array%20I) – 20 Jan 2026
 - ✅ [Day 127 – LeetCode 3315: Construct the Minimum Bitwise Array II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3315.%20Construct%20the%20Minimum%20Bitwise%20Array%20II) – 21 Jan 2026
 - ✅ [Day 128 – LeetCode 3507: Minimum Pair Removal to Sort Array I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I) – 22 Jan 2026
+- ✅ [Day 129 – LeetCode 3510: Minimum Pair Removal to Sort Array II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II) – 23 Jan 2026
 
 
 
