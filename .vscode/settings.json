@@ -120,7 +120,8 @@
         "3314. Construct the Minimum Bitwise Array I",
         "3315. Construct the Minimum Bitwise Array II",
         "3507. Minimum Pair Removal to Sort Array I",
-        "3510. Minimum Pair Removal to Sort Array II"
+        "3510. Minimum Pair Removal to Sort Array II",
+        "1877. Minimize Maximum Pair Sum in Array"
     ],
     "java.project.referencedLibraries": []
 }
