@@ -122,7 +122,8 @@
         "3507. Minimum Pair Removal to Sort Array I",
         "3510. Minimum Pair Removal to Sort Array II",
         "1877. Minimize Maximum Pair Sum in Array",
-        "1984. Minimum Difference Between Highest and Lowest of K Scores"
+        "1984. Minimum Difference Between Highest and Lowest of K Scores",
+        "1200. Minimum Absolute Difference"
     ],
     "java.project.referencedLibraries": []
 }
