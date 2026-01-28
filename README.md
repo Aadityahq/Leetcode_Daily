@@ -153,6 +153,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 131 – LeetCode 1984: Minimum Difference Between Highest and Lowest of K Scores](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores) – 25 Jan 2026
 - ✅ [Day 132 – LeetCode 1200: Minimum Absolute Difference](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1200.%20Minimum%20Absolute%20Difference) – 26 Jan 2026
 - ✅ [Day 133 – LeetCode 3650: Minimum Cost Path with Edge Reversals](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals) – 27 Jan 2026
+- ✅ [Day 134 – LeetCode 3651: Minimum Cost Path with Teleportations](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3651.%20Minimum%20Cost%20Path%20with%20Teleportations) – 28 Jan 2026
 
 
 
