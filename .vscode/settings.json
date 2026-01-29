@@ -125,7 +125,8 @@
         "1984. Minimum Difference Between Highest and Lowest of K Scores",
         "1200. Minimum Absolute Difference",
         "3650. Minimum Cost Path with Edge Reversals",
-        "3651. Minimum Cost Path with Teleportations"
+        "3651. Minimum Cost Path with Teleportations",
+        "2976. Minimum Cost to Convert String I"
     ],
     "java.project.referencedLibraries": []
 }
