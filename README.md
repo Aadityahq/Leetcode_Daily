@@ -155,6 +155,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 133 – LeetCode 3650: Minimum Cost Path with Edge Reversals](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals) – 27 Jan 2026
 - ✅ [Day 134 – LeetCode 3651: Minimum Cost Path with Teleportations](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3651.%20Minimum%20Cost%20Path%20with%20Teleportations) – 28 Jan 2026
 - ✅ [Day 135 – LeetCode 2976: Minimum Cost to Convert String I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2976.%20Minimum%20Cost%20to%20Convert%20String%20I) – 29 Jan 2026
+- ✅ [Day 136 – LeetCode 2977: Minimum Cost to Convert String II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2977.%20Minimum%20Cost%20to%20Convert%20String%20II) – 30 Jan 2026
 
 
 
