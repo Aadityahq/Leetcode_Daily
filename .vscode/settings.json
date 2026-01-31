@@ -127,7 +127,8 @@
         "3650. Minimum Cost Path with Edge Reversals",
         "3651. Minimum Cost Path with Teleportations",
         "2976. Minimum Cost to Convert String I",
-        "2977. Minimum Cost to Convert String II"
+        "2977. Minimum Cost to Convert String II",
+        "744. Find Smallest Letter Greater Than Target"
     ],
     "java.project.referencedLibraries": []
 }
