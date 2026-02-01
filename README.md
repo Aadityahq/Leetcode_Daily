@@ -157,6 +157,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 135 – LeetCode 2976: Minimum Cost to Convert String I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2976.%20Minimum%20Cost%20to%20Convert%20String%20I) – 29 Jan 2026
 - ✅ [Day 136 – LeetCode 2977: Minimum Cost to Convert String II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2977.%20Minimum%20Cost%20to%20Convert%20String%20II) – 30 Jan 2026
 - ✅ [Day 137 – LeetCode 744: Find Smallest Letter Greater Than Target](https://github.com/Aadityahq/Leetcode_Daily/tree/main/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target) – 31 Jan 2026
+- ✅ [Day 138 – LeetCode 3010: Divide an Array Into Subarrays With Minimum Cost I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3010.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I) – 01 Feb 2026
 
 
 

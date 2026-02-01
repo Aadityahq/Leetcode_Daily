@@ -128,7 +128,8 @@
         "3651. Minimum Cost Path with Teleportations",
         "2976. Minimum Cost to Convert String I",
         "2977. Minimum Cost to Convert String II",
-        "744. Find Smallest Letter Greater Than Target"
+        "744. Find Smallest Letter Greater Than Target",
+        "3010. Divide an Array Into Subarrays With Minimum Cost I"
     ],
     "java.project.referencedLibraries": []
 }
