@@ -1,3 +1,5 @@
+import java.util.TreeMap;
+
 class Solution {
     static class SmartWindow {
         int K;
