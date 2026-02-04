@@ -160,6 +160,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 138 – LeetCode 3010: Divide an Array Into Subarrays With Minimum Cost I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3010.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I) – 01 Feb 2026
 - ✅ [Day 139 – LeetCode 3013: Divide an Array Into Subarrays With Minimum Cost II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II) – 02 Feb 2026
 - ✅ [Day 140 – LeetCode 3637: Trionic Array I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3637.%20Trionic%20Array%20I) – 03 Feb 2026
+- ✅ [Day 141 – LeetCode 3640: Trionic Array II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3640.%20Trionic%20Array%20II) – 04 Feb 2026
+
 
 
 

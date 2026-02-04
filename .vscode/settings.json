@@ -131,7 +131,8 @@
         "744. Find Smallest Letter Greater Than Target",
         "3010. Divide an Array Into Subarrays With Minimum Cost I",
         "3013. Divide an Array Into Subarrays With Minimum Cost II",
-        "3637. Trionic Array I"
+        "3637. Trionic Array I",
+        "3640. Trionic Array II"
     ],
     "java.project.referencedLibraries": []
 }
