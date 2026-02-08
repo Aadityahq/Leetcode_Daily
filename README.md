@@ -163,7 +163,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 141 – LeetCode 3640: Trionic Array II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3640.%20Trionic%20Array%20II) – 04 Feb 2026
 - ✅ [Day 142 – LeetCode 3379: Transformed Array](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3379.%20Transformed%20Array) – 05 Feb 2026
 - ✅ [Day 143 – LeetCode 634: Minimum Removals to Balance Array](https://github.com/Aadityahq/Leetcode_Daily/tree/main/634.%20Minimum%20Removals%20to%20Balance%20Array) – 06 Feb 2026
-
+- ✅ [Day 144 – LeetCode 1653: Minimum Deletions to Make String Balanced](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced) – 07 Feb 2026
 
 
 
