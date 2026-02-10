@@ -137,7 +137,8 @@
         "634. Minimum Removals to Balance Array",
         "1653. Minimum Deletions to Make String Balanced",
         "110. Balanced Binary Tree",
-        "1382. Balance a Binary Search Tree"
+        "1382. Balance a Binary Search Tree",
+        "3719. Longest Balanced Subarray I"
     ],
     "java.project.referencedLibraries": []
 }

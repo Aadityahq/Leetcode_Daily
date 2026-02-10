@@ -166,6 +166,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 144 – LeetCode 1653: Minimum Deletions to Make String Balanced](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced) – 07 Feb 2026
 - ✅ [Day 145 – LeetCode 110: Balanced Binary Tree](https://github.com/Aadityahq/Leetcode_Daily/tree/main/110.%20Balanced%20Binary%20Tree) – 08 Feb 2026
 - ✅ [Day 146 – LeetCode 1382: Balance a Binary Search Tree](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1382.%20Balance%20a%20Binary%20Search%20Tree) – 09 Feb 2026
+- ✅ [Day 147 – LeetCode 3719: Longest Balanced Subarray I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3719.%20Longest%20Balanced%20Subarray%20I) – 10 Feb 2026
 
 
 
