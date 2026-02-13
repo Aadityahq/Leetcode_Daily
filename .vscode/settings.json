@@ -140,7 +140,8 @@
         "1382. Balance a Binary Search Tree",
         "3719. Longest Balanced Subarray I",
         "3721. Longest Balanced Subarray II",
-        "3713. Longest Balanced Substring I"
+        "3713. Longest Balanced Substring I",
+        "3714. Longest Balanced Substring II"
     ],
     "java.project.referencedLibraries": []
 }
