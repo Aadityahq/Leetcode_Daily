@@ -170,6 +170,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 148 – LeetCode 3721: Longest Balanced Subarray II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3721.%20Longest%20Balanced%20Subarray%20II) – 11 Feb 2026
 - ✅ [Day 149 – LeetCode 3713: Longest Balanced Substring I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3713.%20Longest%20Balanced%20Substring%20I) – 12 Feb 2026
 - ✅ [Day 150 – LeetCode 3714: Longest Balanced Substring II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3714.%20Longest%20Balanced%20Substring%20II) – 13 Feb 2026
+- ✅ [Day 151 – LeetCode 799: Champagne Tower](https://github.com/Aadityahq/Leetcode_Daily/tree/main/799.%20Champagne%20Tower) – 14 Feb 2026
 
 
 
