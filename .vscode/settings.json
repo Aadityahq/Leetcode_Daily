@@ -142,7 +142,8 @@
         "3721. Longest Balanced Subarray II",
         "3713. Longest Balanced Substring I",
         "3714. Longest Balanced Substring II",
-        "799. Champagne Tower"
+        "799. Champagne Tower",
+        "67. Add Binary"
     ],
     "java.project.referencedLibraries": []
 }
