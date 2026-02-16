@@ -172,6 +172,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 150 – LeetCode 3714: Longest Balanced Substring II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3714.%20Longest%20Balanced%20Substring%20II) – 13 Feb 2026
 - ✅ [Day 151 – LeetCode 799: Champagne Tower](https://github.com/Aadityahq/Leetcode_Daily/tree/main/799.%20Champagne%20Tower) – 14 Feb 2026
 - ✅ [Day 152 – LeetCode 67: Add Binary](https://github.com/Aadityahq/Leetcode_Daily/tree/main/67.%20Add%20Binary) – 15 Feb 2026
+- ✅ [Day 153 – LeetCode 190: Reverse Bits](https://github.com/Aadityahq/Leetcode_Daily/tree/main/190.%20Reverse%20Bits) – 16 Feb 2026
 
 
 
