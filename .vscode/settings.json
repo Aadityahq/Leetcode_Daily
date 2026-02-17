@@ -144,7 +144,8 @@
         "3714. Longest Balanced Substring II",
         "799. Champagne Tower",
         "67. Add Binary",
-        "190. Reverse Bits"
+        "190. Reverse Bits",
+        "401. Binary Watch"
     ],
     "java.project.referencedLibraries": []
 }
