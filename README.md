@@ -174,6 +174,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 152 – LeetCode 67: Add Binary](https://github.com/Aadityahq/Leetcode_Daily/tree/main/67.%20Add%20Binary) – 15 Feb 2026
 - ✅ [Day 153 – LeetCode 190: Reverse Bits](https://github.com/Aadityahq/Leetcode_Daily/tree/main/190.%20Reverse%20Bits) – 16 Feb 2026
 - ✅ [Day 154 – LeetCode 401: Binary Watch](https://github.com/Aadityahq/Leetcode_Daily/tree/main/401.%20Binary%20Watch) – 17 Feb 2026
+- ✅ [Day 155 – LeetCode 693: Binary Number with Alternating Bits](https://github.com/Aadityahq/Leetcode_Daily/tree/main/693.%20Binary%20Number%20with%20Alternating%20Bits) – 18 Feb 2026
 
 
 

@@ -145,7 +145,8 @@
         "799. Champagne Tower",
         "67. Add Binary",
         "190. Reverse Bits",
-        "401. Binary Watch"
+        "401. Binary Watch",
+        "693. Binary Number with Alternating Bits"
     ],
     "java.project.referencedLibraries": []
 }
