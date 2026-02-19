@@ -146,7 +146,8 @@
         "67. Add Binary",
         "190. Reverse Bits",
         "401. Binary Watch",
-        "693. Binary Number with Alternating Bits"
+        "693. Binary Number with Alternating Bits",
+        "696. Count Binary Substrings"
     ],
     "java.project.referencedLibraries": []
 }
