@@ -177,6 +177,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 155 – LeetCode 693: Binary Number with Alternating Bits](https://github.com/Aadityahq/Leetcode_Daily/tree/main/693.%20Binary%20Number%20with%20Alternating%20Bits) – 18 Feb 2026
 - ✅ [Day 156 – LeetCode 696: Count Binary Substrings](https://github.com/Aadityahq/Leetcode_Daily/tree/main/696.%20Count%20Binary%20Substrings) – 19 Feb 2026
 - ✅ [Day 157 – LeetCode 761: Special Binary String](https://github.com/Aadityahq/Leetcode_Daily/tree/main/761.%20Special%20Binary%20String) – 20 Feb 2026
+- ✅ [Day 158 – LeetCode 762: Prime Number of Set Bits in Binary Representation](https://github.com/Aadityahq/Leetcode_Daily/tree/main/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation) – 21 Feb 2026
 
 
 
