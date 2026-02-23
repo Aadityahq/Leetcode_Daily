@@ -179,7 +179,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 157 – LeetCode 761: Special Binary String](https://github.com/Aadityahq/Leetcode_Daily/tree/main/761.%20Special%20Binary%20String) – 20 Feb 2026
 - ✅ [Day 158 – LeetCode 762: Prime Number of Set Bits in Binary Representation](https://github.com/Aadityahq/Leetcode_Daily/tree/main/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation) – 21 Feb 2026
 - ✅ [Day 159 – LeetCode 868: Binary Gap](https://github.com/Aadityahq/Leetcode_Daily/tree/main/868.%20Binary%20Gap) – 22 Feb 2026
-
+- ✅ [Day 160 – LeetCode 1461: Check If a String Contains All Binary Codes of Size K](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K) – 23 Feb 2026
 
 
 

@@ -150,7 +150,8 @@
         "696. Count Binary Substrings",
         "761. Special Binary String",
         "762. Prime Number of Set Bits in Binary Representation",
-        "868. Binary Gap"
+        "868. Binary Gap",
+        "1461. Check If a String Contains All Binary Codes of Size K"
     ],
     "java.project.referencedLibraries": []
 }
