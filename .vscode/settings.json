@@ -151,7 +151,8 @@
         "761. Special Binary String",
         "762. Prime Number of Set Bits in Binary Representation",
         "868. Binary Gap",
-        "1461. Check If a String Contains All Binary Codes of Size K"
+        "1461. Check If a String Contains All Binary Codes of Size K",
+        "1022. Sum of Root To Leaf Binary Numbers"
     ],
     "java.project.referencedLibraries": []
 }
