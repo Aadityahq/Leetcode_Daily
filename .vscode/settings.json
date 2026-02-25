@@ -152,7 +152,8 @@
         "762. Prime Number of Set Bits in Binary Representation",
         "868. Binary Gap",
         "1461. Check If a String Contains All Binary Codes of Size K",
-        "1022. Sum of Root To Leaf Binary Numbers"
+        "1022. Sum of Root To Leaf Binary Numbers",
+        "1356. Sort Integers by The Number of 1 Bits"
     ],
     "java.project.referencedLibraries": []
 }
