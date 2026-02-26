@@ -182,7 +182,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 160 – LeetCode 1461: Check If a String Contains All Binary Codes of Size K](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K) – 23 Feb 2026
 - ✅ [Day 161 – LeetCode 1022: Sum of Root To Leaf Binary Numbers](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers) – 24 Feb 2026
 - ✅ [Day 162 – LeetCode 1356: Sort Integers by The Number of 1 Bits](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits) – 25 Feb 2026
-
+- ✅ [Day 163 – LeetCode 1404: Number of Steps to Reduce a Number in Binary Representation to One](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One) – 26 Feb 2026
 
 
 

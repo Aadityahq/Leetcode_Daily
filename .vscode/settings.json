@@ -153,7 +153,8 @@
         "868. Binary Gap",
         "1461. Check If a String Contains All Binary Codes of Size K",
         "1022. Sum of Root To Leaf Binary Numbers",
-        "1356. Sort Integers by The Number of 1 Bits"
+        "1356. Sort Integers by The Number of 1 Bits",
+        "1404. Number of Steps to Reduce a Number in Binary Representation to One"
     ],
     "java.project.referencedLibraries": []
 }
