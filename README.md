@@ -184,6 +184,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 162 – LeetCode 1356: Sort Integers by The Number of 1 Bits](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits) – 25 Feb 2026
 - ✅ [Day 163 – LeetCode 1404: Number of Steps to Reduce a Number in Binary Representation to One](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One) – 26 Feb 2026
 - ✅ [Day 164 – LeetCode 3666: Minimum Operations to Equalize Binary String](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String) – 27 Feb 2026
+- ✅ [Day 165 – LeetCode 1680: Concatenation of Consecutive Binary Numbers](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers) – 28 Feb 2026
 
 
 
