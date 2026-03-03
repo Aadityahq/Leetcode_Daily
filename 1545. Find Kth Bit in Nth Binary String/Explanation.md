@@ -213,9 +213,3 @@ Once you see that Sn is symmetric around the middle, the problem becomes simple 
 
 ---
 
-If you want, I can also show you:
-- 🔥 Iterative solution
-- 🔥 Bit manipulation trick
-- 🔥 Mathematical pattern explanation (even deeper)
-
-Just tell me 😄
