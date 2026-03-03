@@ -187,7 +187,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 165 – LeetCode 1680: Concatenation of Consecutive Binary Numbers](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers) – 28 Feb 2026
 - ✅ [Day 166 – LeetCode 1689: Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers) – 01 Mar 2026
 - ✅ [Day 167 – LeetCode 1536: Minimum Swaps to Arrange a Binary Grid](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid) – 02 Mar 2026
-
+- ✅ [Day 168 – LeetCode 1545: Find Kth Bit in Nth Binary String](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String) – 03 Mar 2026
 
  
 

@@ -158,7 +158,8 @@
         "3666. Minimum Operations to Equalize Binary String",
         "1680. Concatenation of Consecutive Binary Numbers",
         "1689. Partitioning Into Minimum Number Of Deci-Binary Numbers",
-        "1536. Minimum Swaps to Arrange a Binary Grid"
+        "1536. Minimum Swaps to Arrange a Binary Grid",
+        "1545. Find Kth Bit in Nth Binary String"
     ],
     "java.project.referencedLibraries": []
 }
