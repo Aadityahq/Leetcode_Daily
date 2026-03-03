@@ -1,9 +1,3 @@
-
-
-Great question Adii 👍 This problem looks complicated at first, but once you understand the pattern, it becomes very logical.
-
----
-
 # 🔹 1545. Find Kth Bit in Nth Binary String
 
 ## 🧠 Understanding the Pattern (Very Important)
