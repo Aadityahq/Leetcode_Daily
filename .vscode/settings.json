@@ -159,7 +159,8 @@
         "1680. Concatenation of Consecutive Binary Numbers",
         "1689. Partitioning Into Minimum Number Of Deci-Binary Numbers",
         "1536. Minimum Swaps to Arrange a Binary Grid",
-        "1545. Find Kth Bit in Nth Binary String"
+        "1545. Find Kth Bit in Nth Binary String",
+        "1582. Special Positions in a Binary Matrix"
     ],
     "java.project.referencedLibraries": []
 }
