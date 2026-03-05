@@ -189,7 +189,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 167 – LeetCode 1536: Minimum Swaps to Arrange a Binary Grid](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid) – 02 Mar 2026
 - ✅ [Day 168 – LeetCode 1545: Find Kth Bit in Nth Binary String](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String) – 03 Mar 2026
 - ✅ [Day 169 – LeetCode 1582: Special Positions in a Binary Matrix](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1582.%20Special%20Positions%20in%20a%20Binary%20Matrix) – 04 Mar 2026
- 
+- ✅ [Day 170 – LeetCode 1758: Minimum Changes To Make Alternating Binary String](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String) – 05 Mar 2026
 
 
 
