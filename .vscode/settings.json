@@ -161,7 +161,8 @@
         "1536. Minimum Swaps to Arrange a Binary Grid",
         "1545. Find Kth Bit in Nth Binary String",
         "1582. Special Positions in a Binary Matrix",
-        "1758. Minimum Changes To Make Alternating Binary String"
+        "1758. Minimum Changes To Make Alternating Binary String",
+        "1784. Check if Binary String Has at Most One Segment of Ones"
     ],
     "java.project.referencedLibraries": []
 }
