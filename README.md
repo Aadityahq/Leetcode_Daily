@@ -191,7 +191,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 169 – LeetCode 1582: Special Positions in a Binary Matrix](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1582.%20Special%20Positions%20in%20a%20Binary%20Matrix) – 04 Mar 2026
 - ✅ [Day 170 – LeetCode 1758: Minimum Changes To Make Alternating Binary String](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String) – 05 Mar 2026
 - ✅ [Day 171 – LeetCode 1784: Check if Binary String Has at Most One Segment of Ones](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones) – 06 Mar 2026
-
+- ✅ [Day 172 – LeetCode 1888: Minimum Number of Flips to Make the Binary String Alternating](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating) – 07 Mar 2026
 
 
 
