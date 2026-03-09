@@ -163,7 +163,9 @@
         "1582. Special Positions in a Binary Matrix",
         "1758. Minimum Changes To Make Alternating Binary String",
         "1784. Check if Binary String Has at Most One Segment of Ones",
-        "1888. Minimum Number of Flips to Make the Binary String Alternating"
+        "1888. Minimum Number of Flips to Make the Binary String Alternating",
+        "1980. Find Unique Binary String",
+        "3129. Find All Possible Stable Binary Arrays I"
     ],
     "java.project.referencedLibraries": []
 }
