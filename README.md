@@ -194,7 +194,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 172 – LeetCode 1888: Minimum Number of Flips to Make the Binary String Alternating](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating) – 07 Mar 2026
 - ✅ [Day 173 – LeetCode 1980: Find Unique Binary String](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1980.%20Find%20Unique%20Binary%20String) – 08 Mar 2026
 - ✅ [Day 174 – LeetCode 3129: Find All Possible Stable Binary Arrays I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I) – 09 Mar 2026
-
+- ✅ [Day 175 – LeetCode 3130: Find All Possible Stable Binary Arrays II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II) – 10 Mar 2026
 
 
 
