@@ -166,7 +166,8 @@
         "1888. Minimum Number of Flips to Make the Binary String Alternating",
         "1980. Find Unique Binary String",
         "3129. Find All Possible Stable Binary Arrays I",
-        "3130. Find All Possible Stable Binary Arrays II"
+        "3130. Find All Possible Stable Binary Arrays II",
+        "1009. Complement of Base 10 Integer"
     ],
     "java.project.referencedLibraries": []
 }
