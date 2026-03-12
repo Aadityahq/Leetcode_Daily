@@ -196,7 +196,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 174 – LeetCode 3129: Find All Possible Stable Binary Arrays I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I) – 09 Mar 2026
 - ✅ [Day 175 – LeetCode 3130: Find All Possible Stable Binary Arrays II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II) – 10 Mar 2026
 - ✅ [Day 176 – LeetCode 1009: Complement of Base 10 Integer](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1009.%20Complement%20of%20Base%20 Integer) – 11 Mar 2026
-
+- ✅ [Day 177 – LeetCode 3600: Maximize Spanning Tree Stability with Upgrades](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades) – 12 Mar 2026
 
 
 

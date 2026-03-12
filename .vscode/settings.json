@@ -167,7 +167,8 @@
         "1980. Find Unique Binary String",
         "3129. Find All Possible Stable Binary Arrays I",
         "3130. Find All Possible Stable Binary Arrays II",
-        "1009. Complement of Base 10 Integer"
+        "1009. Complement of Base 10 Integer",
+        "3600. Maximize Spanning Tree Stability with Upgrades"
     ],
     "java.project.referencedLibraries": []
 }
