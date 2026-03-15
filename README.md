@@ -199,6 +199,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 177 – LeetCode 3600: Maximize Spanning Tree Stability with Upgrades](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades) – 12 Mar 2026
 - ✅ [Day 178 – LeetCode 3296: Minimum Number of Seconds to Make Mountain Height Zero](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero) – 13 Mar 2026
 - ✅ [Day 179 – LeetCode 1415: The k-th Lexicographical String of All Happy Strings of Length n](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n) – 14 Mar 2026
+- ✅ [Day 180 – LeetCode 1622: Fancy Sequence](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1622.%20Fancy%20Sequence) – 15 Mar 2026
 
 
 
