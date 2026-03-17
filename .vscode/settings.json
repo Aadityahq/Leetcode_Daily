@@ -171,7 +171,8 @@
         "3600. Maximize Spanning Tree Stability with Upgrades",
         "3296. Minimum Number of Seconds to Make Mountain Height Zero",
         "1415. The k-th Lexicographical String of All Happy Strings of Length n",
-        "1622. Fancy Sequence"
+        "1622. Fancy Sequence",
+        "1878. Get Biggest Three Rhombus Sums in a Grid"
     ],
     "java.project.referencedLibraries": []
 }
