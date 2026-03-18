@@ -173,7 +173,8 @@
         "1415. The k-th Lexicographical String of All Happy Strings of Length n",
         "1622. Fancy Sequence",
         "1878. Get Biggest Three Rhombus Sums in a Grid",
-        "1727. Largest Submatrix With Rearrangements"
+        "1727. Largest Submatrix With Rearrangements",
+        "3070. Count Submatrices with Top-Left Element and Sum Less Than k"
     ],
     "java.project.referencedLibraries": []
 }
