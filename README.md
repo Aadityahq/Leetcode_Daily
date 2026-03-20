@@ -204,7 +204,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 182 – LeetCode 1727: Largest Submatrix With Rearrangements](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1727.%20Largest%20Submatrix%20With%20Rearrangements) – 17 Mar 2026
 - ✅ [Day 183 – LeetCode 3070: Count Submatrices with Top-Left Element and Sum Less Than k](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k) – 18 Mar 2026
 - ✅ [Day 184 – LeetCode 3212: Count Submatrices With Equal Frequency of X and Y](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3212.%20Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y) – 19 Mar 2026
-
+- ✅ [Day 185 – LeetCode 3567: Minimum Absolute Difference in Sliding Submatrix](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix) – 20 Mar 2026
 
 
 
