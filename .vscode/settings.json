@@ -176,7 +176,8 @@
         "1727. Largest Submatrix With Rearrangements",
         "3070. Count Submatrices with Top-Left Element and Sum Less Than k",
         "3212. Count Submatrices With Equal Frequency of X and Y",
-        "3567. Minimum Absolute Difference in Sliding Submatrix"
+        "3567. Minimum Absolute Difference in Sliding Submatrix",
+        "3643. Flip Square Submatrix Vertically"
     ],
     "java.project.referencedLibraries": []
 }
