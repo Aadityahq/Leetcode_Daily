@@ -177,7 +177,8 @@
         "3070. Count Submatrices with Top-Left Element and Sum Less Than k",
         "3212. Count Submatrices With Equal Frequency of X and Y",
         "3567. Minimum Absolute Difference in Sliding Submatrix",
-        "3643. Flip Square Submatrix Vertically"
+        "3643. Flip Square Submatrix Vertically",
+        "1886. Determine Whether Matrix Can Be Obtained By Rotation"
     ],
     "java.project.referencedLibraries": []
 }

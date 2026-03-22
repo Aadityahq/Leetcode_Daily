@@ -206,6 +206,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 184 – LeetCode 3212: Count Submatrices With Equal Frequency of X and Y](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3212.%20Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y) – 19 Mar 2026
 - ✅ [Day 185 – LeetCode 3567: Minimum Absolute Difference in Sliding Submatrix](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix) – 20 Mar 2026
 - ✅ [Day 186 – LeetCode 3643: Flip Square Submatrix Vertically](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3643.%20Flip%20Square%20Submatrix%20Vertically) – 21 Mar 2026
+- ✅ [Day 187 – LeetCode 1886: Determine Whether Matrix Can Be Obtained By Rotation](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation) – 22 Mar 2026
 
 
 
