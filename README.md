@@ -208,6 +208,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 186 – LeetCode 3643: Flip Square Submatrix Vertically](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3643.%20Flip%20Square%20Submatrix%20Vertically) – 21 Mar 2026
 - ✅ [Day 187 – LeetCode 1886: Determine Whether Matrix Can Be Obtained By Rotation](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation) – 22 Mar 2026
 - ✅ [Day 188 – LeetCode 1594: Maximum Non Negative Product in a Matrix](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix) – 23 Mar 2026
+- ✅ [Day 189 – LeetCode 2906: Construct Product Matrix](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2906.%20Construct%20Product%20Matrix) – 24 Mar 2026
 
 
 

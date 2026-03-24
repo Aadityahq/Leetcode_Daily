@@ -179,7 +179,8 @@
         "3567. Minimum Absolute Difference in Sliding Submatrix",
         "3643. Flip Square Submatrix Vertically",
         "1886. Determine Whether Matrix Can Be Obtained By Rotation",
-        "1594. Maximum Non Negative Product in a Matrix"
+        "1594. Maximum Non Negative Product in a Matrix",
+        "2906. Construct Product Matrix"
     ],
     "java.project.referencedLibraries": []
 }
