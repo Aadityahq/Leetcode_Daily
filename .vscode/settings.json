@@ -181,7 +181,8 @@
         "1886. Determine Whether Matrix Can Be Obtained By Rotation",
         "1594. Maximum Non Negative Product in a Matrix",
         "2906. Construct Product Matrix",
-        "3546. Equal Sum Grid Partition I"
+        "3546. Equal Sum Grid Partition I",
+        "3548. Equal Sum Grid Partition II"
     ],
     "java.project.referencedLibraries": []
 }

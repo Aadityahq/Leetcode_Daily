@@ -210,7 +210,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 188 – LeetCode 1594: Maximum Non Negative Product in a Matrix](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix) – 23 Mar 2026
 - ✅ [Day 189 – LeetCode 2906: Construct Product Matrix](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2906.%20Construct%20Product%20Matrix) – 24 Mar 2026
 - ✅ [Day 190 – LeetCode 3546: Equal Sum Grid Partition I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3546.%20Equal%20Sum%20Grid%20Partition%20I) – 25 Mar 2026
-
+- ✅ [Day 191 – LeetCode 3548: Equal Sum Grid Partition II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3548.%20Equal%20Sum%20Grid%20Partition%20II) – 26 Mar 2026
 
 
 
