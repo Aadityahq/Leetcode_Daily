@@ -182,7 +182,8 @@
         "1594. Maximum Non Negative Product in a Matrix",
         "2906. Construct Product Matrix",
         "3546. Equal Sum Grid Partition I",
-        "3548. Equal Sum Grid Partition II"
+        "3548. Equal Sum Grid Partition II",
+        "2946. Matrix Similarity After Cyclic Shifts"
     ],
     "java.project.referencedLibraries": []
 }
