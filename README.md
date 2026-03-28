@@ -212,7 +212,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 190 – LeetCode 3546: Equal Sum Grid Partition I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3546.%20Equal%20Sum%20Grid%20Partition%20I) – 25 Mar 2026
 - ✅ [Day 191 – LeetCode 3548: Equal Sum Grid Partition II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3548.%20Equal%20Sum%20Grid%20Partition%20II) – 26 Mar 2026
 - ✅ [Day 192 – LeetCode 2946: Matrix Similarity After Cyclic Shifts](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts) – 27 Mar 2026
-
+- ✅ [Day 193 – LeetCode 2573: Find the String with LCP](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2573.%20Find%20the%20String%20with%20LCP) – 28 Mar 2026
 
 
 
