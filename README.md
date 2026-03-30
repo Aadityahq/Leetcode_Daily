@@ -214,8 +214,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 192 – LeetCode 2946: Matrix Similarity After Cyclic Shifts](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts) – 27 Mar 2026
 - ✅ [Day 193 – LeetCode 2573: Find the String with LCP](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2573.%20Find%20the%20String%20with%20LCP) – 28 Mar 2026
 - ✅ [Day 194 – LeetCode 2839: Check if Strings Can be Made Equal With Operations I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2839.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I) – 29 Mar 2026
-
-
+- ✅ [Day 195 – LeetCode 2840: Check if Strings Can be Made Equal With Operations II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II) – 30 Mar 2026
 
 
 
