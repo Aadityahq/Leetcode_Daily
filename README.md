@@ -215,6 +215,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 193 – LeetCode 2573: Find the String with LCP](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2573.%20Find%20the%20String%20with%20LCP) – 28 Mar 2026
 - ✅ [Day 194 – LeetCode 2839: Check if Strings Can be Made Equal With Operations I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2839.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I) – 29 Mar 2026
 - ✅ [Day 195 – LeetCode 2840: Check if Strings Can be Made Equal With Operations II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II) – 30 Mar 2026
+- ✅ [Day 196 – LeetCode 3474: Lexicographically Smallest Generated String](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3474.%20Lexicographically%20Smallest%20Generated%20String) – 31 Mar 2026
 
 
 
