@@ -187,7 +187,9 @@
         "2573. Find the String with LCP",
         "2839. Check if Strings Can be Made Equal With Operations I",
         "2840. Check if Strings Can be Made Equal With Operations II",
-        "3474. Lexicographically Smallest Generated String"
+        "3474. Lexicographically Smallest Generated String",
+        "2751. Robot Collisions'",
+        "2751. Robot Collisions"
     ],
     "java.project.referencedLibraries": []
 }
