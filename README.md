@@ -217,6 +217,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 195 – LeetCode 2840: Check if Strings Can be Made Equal With Operations II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II) – 30 Mar 2026
 - ✅ [Day 196 – LeetCode 3474: Lexicographically Smallest Generated String](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3474.%20Lexicographically%20Smallest%20Generated%20String) – 31 Mar 2026
 - ✅ [Day 197 – LeetCode 2751: Robot Collisions](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2751.%20Robot%20Collisions) – 01 Apr 2026
+- ✅ [Day 198 – LeetCode 3418: Maximum Amount of Money Robot Can Earn](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn) – 02 Apr 2026
 
 
 
