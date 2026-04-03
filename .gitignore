@@ -1,0 +1,3 @@
+# Keep local automation scripts out of git
+scripts/sync_java_sourcepaths.mjs
+scripts/watch_java_sourcepaths.sh
