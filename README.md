@@ -222,6 +222,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 200 – LeetCode 2075: Decode the Slanted Ciphertext](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2075.%20Decode%20the%20Slanted%20Ciphertext) – 04 Apr 2026
 - ✅ [Day 201 – LeetCode 657: Robot Return to Origin](https://github.com/Aadityahq/Leetcode_Daily/tree/main/657.%20Robot%20Return%20to%20Origin) – 05 Apr 2026
 - ✅ [Day 202 – LeetCode 874: Walking Robot Simulation](https://github.com/Aadityahq/Leetcode_Daily/tree/main/874.%20Walking%20Robot%20Simulation) – 06 Apr 2026
+- ✅ [Day 203 – LeetCode 2069: Walking Robot Simulation II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2069.%20Walking%20Robot%20Simulation%20II) – 07 Apr 2026
 
 
 

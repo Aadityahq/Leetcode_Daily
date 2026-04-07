@@ -94,6 +94,7 @@
         "2043. Simple Bank System",
         "2048. Next Greater Numerically Balanced Number",
         "2054. Two Best Non-Overlapping Events",
+        "2069. Walking Robot Simulation II",
         "2075. Decode the Slanted Ciphertext",
         "2092. Find All People With Secret",
         "2110. Number of Smooth Descent Periods of a Stock",
@@ -199,5 +200,6 @@
         "3719. Longest Balanced Subarray I",
         "3721. Longest Balanced Subarray II"
     ],
-    "java.project.referencedLibraries": []
+    "java.project.referencedLibraries": [],
+    "task.allowAutomaticTasks": "on"
 }
