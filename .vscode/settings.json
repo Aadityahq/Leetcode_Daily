@@ -198,7 +198,8 @@
         "3713. Longest Balanced Substring I",
         "3714. Longest Balanced Substring II",
         "3719. Longest Balanced Subarray I",
-        "3721. Longest Balanced Subarray II"
+        "3721. Longest Balanced Subarray II",
+        "3653. XOR After Range Multiplication Queries I"
     ],
     "java.project.referencedLibraries": [],
     "task.allowAutomaticTasks": "on"

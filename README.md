@@ -223,6 +223,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 201 – LeetCode 657: Robot Return to Origin](https://github.com/Aadityahq/Leetcode_Daily/tree/main/657.%20Robot%20Return%20to%20Origin) – 05 Apr 2026
 - ✅ [Day 202 – LeetCode 874: Walking Robot Simulation](https://github.com/Aadityahq/Leetcode_Daily/tree/main/874.%20Walking%20Robot%20Simulation) – 06 Apr 2026
 - ✅ [Day 203 – LeetCode 2069: Walking Robot Simulation II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2069.%20Walking%20Robot%20Simulation%20II) – 07 Apr 2026
+- ✅ [Day 204 – LeetCode 3653: XOR After Range Multiplication Queries I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I) – 08 Apr 2026
 
 
 
