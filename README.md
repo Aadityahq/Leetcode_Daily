@@ -224,6 +224,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 202 – LeetCode 874: Walking Robot Simulation](https://github.com/Aadityahq/Leetcode_Daily/tree/main/874.%20Walking%20Robot%20Simulation) – 06 Apr 2026
 - ✅ [Day 203 – LeetCode 2069: Walking Robot Simulation II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2069.%20Walking%20Robot%20Simulation%20II) – 07 Apr 2026
 - ✅ [Day 204 – LeetCode 3653: XOR After Range Multiplication Queries I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I) – 08 Apr 2026
+- ✅ [Day 205 – LeetCode 3655: XOR After Range Multiplication Queries II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II) – 09 Apr 2026
+- ✅ [Day 206 – LeetCode 3740: Minimum Distance Between Three Equal Elements I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I) – 10 Apr 2026
 
 
 
