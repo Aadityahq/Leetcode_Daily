@@ -202,7 +202,8 @@
         "3653. XOR After Range Multiplication Queries I",
         "3655. XOR After Range Multiplication Queries II",
         "3740. Minimum Distance Between Three Equal Elements I",
-        "Minimum Distance Between Three Equal Elements II"
+        "Minimum Distance Between Three Equal Elements II",
+        "3741. Minimum Distance Between Three Equal Elements II"
     ],
     "java.project.referencedLibraries": [],
     "task.allowAutomaticTasks": "on"
