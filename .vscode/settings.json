@@ -201,7 +201,8 @@
         "3721. Longest Balanced Subarray II",
         "3653. XOR After Range Multiplication Queries I",
         "3655. XOR After Range Multiplication Queries II",
-        "3740. Minimum Distance Between Three Equal Elements I"
+        "3740. Minimum Distance Between Three Equal Elements I",
+        "Minimum Distance Between Three Equal Elements II"
     ],
     "java.project.referencedLibraries": [],
     "task.allowAutomaticTasks": "on"
