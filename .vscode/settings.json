@@ -203,7 +203,8 @@
         "3655. XOR After Range Multiplication Queries II",
         "3740. Minimum Distance Between Three Equal Elements I",
         "Minimum Distance Between Three Equal Elements II",
-        "3741. Minimum Distance Between Three Equal Elements II"
+        "3741. Minimum Distance Between Three Equal Elements II",
+        "1320. Minimum Distance to Type a Word Using Two Fingers"
     ],
     "java.project.referencedLibraries": [],
     "task.allowAutomaticTasks": "on"

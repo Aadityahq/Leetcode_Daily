@@ -227,6 +227,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 205 – LeetCode 3655: XOR After Range Multiplication Queries II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II) – 09 Apr 2026
 - ✅ [Day 206 – LeetCode 3740: Minimum Distance Between Three Equal Elements I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I) – 10 Apr 2026
 - ✅ [Day 207 – LeetCode 3741: Minimum Distance Between Three Equal Elements II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II) – 11 Apr 2026
+- ✅ [Day 208 – LeetCode 1320: Minimum Distance to Type a Word Using Two Fingers](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers) – 12 Apr 2026
 
 
 
