@@ -230,6 +230,9 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 208 – LeetCode 1320: Minimum Distance to Type a Word Using Two Fingers](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers) – 12 Apr 2026
 - ✅ [Day 209 – LeetCode 1848: Minimum Distance to the Target Element](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1848.%20Minimum%20Distance%20to%20the%20Target%20Element) – 13 Apr 2026
 - ✅ [Day 210 – LeetCode 2463: Minimum Total Distance Traveled](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2463.%20Minimum%20Total%20Distance%20Traveled) – 14 Apr 2026
+- ✅ [Day 211 – LeetCode 2515: Shortest Distance to Target String in a Circular Array](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array) – 15 Apr 2026
+
+
 
 
 
