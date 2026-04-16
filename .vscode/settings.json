@@ -207,7 +207,8 @@
         "1320. Minimum Distance to Type a Word Using Two Fingers",
         "1848. Minimum Distance to the Target Element",
         "2463. Minimum Total Distance Traveled",
-        "2515. Shortest Distance to Target String in a Circular Array"
+        "2515. Shortest Distance to Target String in a Circular Array",
+        "3488. Closest Equal Element Queries"
     ],
     "java.project.referencedLibraries": [],
     "task.allowAutomaticTasks": "on"
