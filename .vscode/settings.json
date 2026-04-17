@@ -208,7 +208,8 @@
         "1848. Minimum Distance to the Target Element",
         "2463. Minimum Total Distance Traveled",
         "2515. Shortest Distance to Target String in a Circular Array",
-        "3488. Closest Equal Element Queries"
+        "3488. Closest Equal Element Queries",
+        "3761. Minimum Absolute Distance Between Mirror Pairs"
     ],
     "java.project.referencedLibraries": [],
     "task.allowAutomaticTasks": "on"

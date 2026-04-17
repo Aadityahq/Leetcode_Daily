@@ -232,7 +232,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 210 – LeetCode 2463: Minimum Total Distance Traveled](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2463.%20Minimum%20Total%20Distance%20Traveled) – 14 Apr 2026
 - ✅ [Day 211 – LeetCode 2515: Shortest Distance to Target String in a Circular Array](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array) – 15 Apr 2026
 - ✅ [Day 212 – LeetCode 3488: Closest Equal Element Queries](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3488.%20Closest%20Equal%20Element%20Queries) – 16 Apr 2026
-
+- ✅ [Day 213 – LeetCode 3761: Minimum Absolute Distance Between Mirror Pairs](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs) – 17 Apr 2026
 
 
 
