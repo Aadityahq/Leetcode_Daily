@@ -2,7 +2,7 @@
 
 - [My LeetCode Profile](https://leetcode.com/u/Aadii08/)
 
-# LeetCode_Daily
+=# LeetCode_Daily
 A repository to track and solve daily LeetCode problems in Java.  
 This project is aimed at building consistency, improving problem-solving skills, and preparing for coding interviews.
 
@@ -233,6 +233,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 211 – LeetCode 2515: Shortest Distance to Target String in a Circular Array](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array) – 15 Apr 2026
 - ✅ [Day 212 – LeetCode 3488: Closest Equal Element Queries](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3488.%20Closest%20Equal%20Element%20Queries) – 16 Apr 2026
 - ✅ [Day 213 – LeetCode 3761: Minimum Absolute Distance Between Mirror Pairs](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs) – 17 Apr 2026
+- ✅ [Day 214 – LeetCode 3783: Mirror Distance of an Integer](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3783.%20Mirror%20Distance%20of%20an%20Integer) – 18 Apr 2026
 
 
 
