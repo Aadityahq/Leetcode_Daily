@@ -234,6 +234,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 212 – LeetCode 3488: Closest Equal Element Queries](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3488.%20Closest%20Equal%20Element%20Queries) – 16 Apr 2026
 - ✅ [Day 213 – LeetCode 3761: Minimum Absolute Distance Between Mirror Pairs](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs) – 17 Apr 2026
 - ✅ [Day 214 – LeetCode 3783: Mirror Distance of an Integer](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3783.%20Mirror%20Distance%20of%20an%20Integer) – 18 Apr 2026
+- ✅ [Day 215 – LeetCode 1855: Maximum Distance Between a Pair of Values](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values) – 19 Apr 2026
 
 
 
