@@ -212,7 +212,8 @@
         "3761. Minimum Absolute Distance Between Mirror Pairs",
         "3783. Mirror Distance of an Integer",
         "1855. Maximum Distance Between a Pair of Values",
-        "2078. Two Furthest Houses With Different Colors"
+        "2078. Two Furthest Houses With Different Colors",
+        "1722. Minimize Hamming Distance After Swap Operations"
     ],
     "java.project.referencedLibraries": [],
     "task.allowAutomaticTasks": "on"
