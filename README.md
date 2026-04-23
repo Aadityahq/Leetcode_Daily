@@ -238,6 +238,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 216 – LeetCode 2078: Two Furthest Houses With Different Colors](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors) – 20 Apr 2026
 - ✅ [Day 217 – LeetCode 1722: Minimize Hamming Distance After Swap Operations](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1722.%20Minimize%20Hamming%20Distance%20After%20Swap%20Operations) – 21 Apr 2026
 - ✅ [Day 218 – LeetCode 2452: Words Within Two Edits of Dictionary](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary) – 22 Apr 2026
+- ✅ [Day 219 – LeetCode 2615: Sum of Distances](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2615.%20Sum%20of%20Distances) – 23 Apr 2026
 
 
 

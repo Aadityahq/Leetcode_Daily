@@ -214,7 +214,8 @@
         "1855. Maximum Distance Between a Pair of Values",
         "2078. Two Furthest Houses With Different Colors",
         "1722. Minimize Hamming Distance After Swap Operations",
-        "2452. Words Within Two Edits of Dictionary"
+        "2452. Words Within Two Edits of Dictionary",
+        "2615. Sum of Distances"
     ],
     "java.project.referencedLibraries": [],
     "task.allowAutomaticTasks": "on"
