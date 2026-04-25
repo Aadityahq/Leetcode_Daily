@@ -240,6 +240,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 218 – LeetCode 2452: Words Within Two Edits of Dictionary](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary) – 22 Apr 2026
 - ✅ [Day 219 – LeetCode 2615: Sum of Distances](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2615.%20Sum%20of%20Distances) – 23 Apr 2026
 - ✅ [Day 220 – LeetCode 2833: Furthest Point From Origin](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2833.%20Furthest%20Point%20From%20Origin) – 24 Apr 2026
+- ✅ [Day 221 – LeetCode 3464: Maximize the Distance Between Points on a Square](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3464.%20Maximize%20the%20Distance%20Between%20Points%20on%20a%20Square) – 25 Apr 2026
 
 
 

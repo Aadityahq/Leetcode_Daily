@@ -216,7 +216,8 @@
         "1722. Minimize Hamming Distance After Swap Operations",
         "2452. Words Within Two Edits of Dictionary",
         "2615. Sum of Distances",
-        "2833. Furthest Point From Origin"
+        "2833. Furthest Point From Origin",
+        "3464. Maximize the Distance Between Points on a Square"
     ],
     "java.project.referencedLibraries": [],
     "task.allowAutomaticTasks": "on"
