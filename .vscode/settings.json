@@ -217,7 +217,8 @@
         "2452. Words Within Two Edits of Dictionary",
         "2615. Sum of Distances",
         "2833. Furthest Point From Origin",
-        "3464. Maximize the Distance Between Points on a Square"
+        "3464. Maximize the Distance Between Points on a Square",
+        "1559. Detect Cycles in 2D Grid"
     ],
     "java.project.referencedLibraries": [],
     "task.allowAutomaticTasks": "on"
