@@ -244,6 +244,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 222 – LeetCode 1559: Detect Cycles in 2D Grid](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1559.%20Detect%20Cycles%20in%202D%20Grid) – 26 Apr 2026
 - ✅ [Day 223 – LeetCode 1391: Check if There is a Valid Path in a Grid](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid) – 27 Apr 2026
 - ✅ [Day 224 – LeetCode 2033: Minimum Operations to Make a Uni-Value Grid](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid) – 28 Apr 2026
+- ✅ [Day 225 – LeetCode 3225: Maximum Score From Grid Operations](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3225.%20Maximum%20Score%20From%20Grid%20Operations) – 29 Apr 2026
 
 
 
