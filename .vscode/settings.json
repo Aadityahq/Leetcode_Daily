@@ -220,7 +220,8 @@
         "3464. Maximize the Distance Between Points on a Square",
         "1559. Detect Cycles in 2D Grid",
         "2033. Minimum Operations to Make a Uni-Value Grid",
-        "3225. Maximum Score From Grid Operations"
+        "3225. Maximum Score From Grid Operations",
+        "3742. Maximum Path Score in a Grid"
     ],
     "java.project.referencedLibraries": [],
     "task.allowAutomaticTasks": "on"
