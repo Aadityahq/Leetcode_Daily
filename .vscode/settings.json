@@ -222,7 +222,8 @@
         "2033. Minimum Operations to Make a Uni-Value Grid",
         "3225. Maximum Score From Grid Operations",
         "3742. Maximum Path Score in a Grid",
-        "396. Rotate Function"
+        "396. Rotate Function",
+        "788. Rotated Digits"
     ],
     "java.project.referencedLibraries": [],
     "task.allowAutomaticTasks": "on"

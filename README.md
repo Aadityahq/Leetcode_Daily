@@ -247,6 +247,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 225 – LeetCode 3225: Maximum Score From Grid Operations](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3225.%20Maximum%20Score%20From%20Grid%20Operations) – 29 Apr 2026
 - ✅ [Day 226 – LeetCode 3742: Maximum Path Score in a Grid](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3742.%20Maximum%20Path%20Score%20in%20a%20Grid) – 30 Apr 2026
 - ✅ [Day 227 – LeetCode 396: Rotate Function](https://github.com/Aadityahq/Leetcode_Daily/tree/main/396.%20Rotate%20Function) – 01 May 2026
+- ✅ [Day 228 – LeetCode 788: Rotated Digits](https://github.com/Aadityahq/Leetcode_Daily/tree/main/788.%20Rotated%20Digits) – 02 May 2026
 
 
 
