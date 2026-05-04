@@ -224,7 +224,8 @@
         "3742. Maximum Path Score in a Grid",
         "396. Rotate Function",
         "788. Rotated Digits",
-        "796. Rotate String"
+        "796. Rotate String",
+        "48. Rotate Image"
     ],
     "java.project.referencedLibraries": [],
     "task.allowAutomaticTasks": "on"
