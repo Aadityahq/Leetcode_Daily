@@ -225,7 +225,8 @@
         "396. Rotate Function",
         "788. Rotated Digits",
         "796. Rotate String",
-        "48. Rotate Image"
+        "48. Rotate Image",
+        "61. Rotate List"
     ],
     "java.project.referencedLibraries": [],
     "task.allowAutomaticTasks": "on"

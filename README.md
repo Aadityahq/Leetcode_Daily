@@ -250,10 +250,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 228 – LeetCode 788: Rotated Digits](https://github.com/Aadityahq/Leetcode_Daily/tree/main/788.%20Rotated%20Digits) – 02 May 2026
 - ✅ [Day 229 – LeetCode 796: Rotate String](https://github.com/Aadityahq/Leetcode_Daily/tree/main/796.%20Rotate%20String) – 03 May 2026
 - ✅ [Day 230 – LeetCode 48: Rotate Image](https://github.com/Aadityahq/Leetcode_Daily/tree/main/48.%20Rotate%20Image) – 04 May 2026
-
-
-
-
+- ✅ [Day 231 – LeetCode 61: Rotate List](https://github.com/Aadityahq/Leetcode_Daily/tree/main/61.%20Rotate%20List) – 05 May 2026
 
 
 
