@@ -227,7 +227,8 @@
         "796. Rotate String",
         "48. Rotate Image",
         "61. Rotate List",
-        "1861. Rotating the Box"
+        "1861. Rotating the Box",
+        "3660. Jump Game IX"
     ],
     "java.project.referencedLibraries": [],
     "task.allowAutomaticTasks": "on"
