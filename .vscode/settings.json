@@ -228,7 +228,8 @@
         "48. Rotate Image",
         "61. Rotate List",
         "1861. Rotating the Box",
-        "3660. Jump Game IX"
+        "3660. Jump Game IX",
+        "3629. Minimum Jumps to Reach End via Prime Teleportation"
     ],
     "java.project.referencedLibraries": [],
     "task.allowAutomaticTasks": "on"
