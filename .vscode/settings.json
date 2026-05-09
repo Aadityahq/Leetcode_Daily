@@ -229,7 +229,8 @@
         "61. Rotate List",
         "1861. Rotating the Box",
         "3660. Jump Game IX",
-        "3629. Minimum Jumps to Reach End via Prime Teleportation"
+        "3629. Minimum Jumps to Reach End via Prime Teleportation",
+        "1914. Cyclically Rotating a Grid"
     ],
     "java.project.referencedLibraries": [],
     "task.allowAutomaticTasks": "on"
