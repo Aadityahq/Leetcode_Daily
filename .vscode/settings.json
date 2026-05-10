@@ -230,7 +230,8 @@
         "1861. Rotating the Box",
         "3660. Jump Game IX",
         "3629. Minimum Jumps to Reach End via Prime Teleportation",
-        "1914. Cyclically Rotating a Grid"
+        "1914. Cyclically Rotating a Grid",
+        "2770. Maximum Number of Jumps to Reach the Last Index"
     ],
     "java.project.referencedLibraries": [],
     "task.allowAutomaticTasks": "on"

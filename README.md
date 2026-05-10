@@ -254,6 +254,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 232 – LeetCode 1861: Rotating the Box](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1861.%20Rotating%20the%20Box) – 06 May 2026
 - ✅ [Day 233 – LeetCode 3660: Jump Game IX](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3660.%20Jump%20Game%20IX) – 07 May 2026
 - ✅ [Day 234 – LeetCode 3629: Minimum Jumps to Reach End via Prime Teleportation](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation) – 08 May 2026
+- ✅ [Day 235 – LeetCode 1914: Cyclically Rotating a Grid](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1914.%20Cyclically%20Rotating%20a%20Grid) – 09 May 2026
+- ✅ [Day 236 – LeetCode 2770: Maximum Number of Jumps to Reach the Last Index](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2770.%20Maximum%20Number%20of%20Jumps%20to%20Reach%20the%20Last%20Index) – 10 May 2026
 
 
 
