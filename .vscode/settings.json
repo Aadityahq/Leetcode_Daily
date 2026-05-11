@@ -231,7 +231,8 @@
         "3660. Jump Game IX",
         "3629. Minimum Jumps to Reach End via Prime Teleportation",
         "1914. Cyclically Rotating a Grid",
-        "2770. Maximum Number of Jumps to Reach the Last Index"
+        "2770. Maximum Number of Jumps to Reach the Last Index",
+        "2553. Separate the Digits in an Array"
     ],
     "java.project.referencedLibraries": [],
     "task.allowAutomaticTasks": "on"
