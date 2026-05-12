@@ -257,6 +257,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 235 – LeetCode 1914: Cyclically Rotating a Grid](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1914.%20Cyclically%20Rotating%20a%20Grid) – 09 May 2026
 - ✅ [Day 236 – LeetCode 2770: Maximum Number of Jumps to Reach the Last Index](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2770.%20Maximum%20Number%20of%20Jumps%20to%20Reach%20the%20Last%20Index) – 10 May 2026
 - ✅ [Day 237 – LeetCode 2553: Separate the Digits in an Array](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2553.%20Separate%20the%20Digits%20in%20an%20Array) – 11 May 2026
+- ✅ [Day 238 – LeetCode 1665: Minimum Initial Energy to Finish Tasks](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1665.%20Minimum%20Initial%20Energy%20to%20Finish%20Tasks) – 12 May 2026
+
 
 
 
