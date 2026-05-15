@@ -260,6 +260,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 238 – LeetCode 1665: Minimum Initial Energy to Finish Tasks](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1665.%20Minimum%20Initial%20Energy%20to%20Finish%20Tasks) – 12 May 2026
 - ✅ [Day 239 – LeetCode 1674: Minimum Moves to Make Array Complementary](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1674.%20Minimum%20Moves%20to%20Make%20Array%20Complementary) – 13 May 2026
 - ✅ [Day 240 – LeetCode 2784: Check if Array is Good](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2784.%20Check%20if%20Array%20is%20Good) – 14 May 2026
+- ✅ [Day 241 – LeetCode 153: Find Minimum in Rotated Sorted Array](https://github.com/Aadityahq/Leetcode_Daily/tree/main/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array) – 15 May 2026
 
 
 
