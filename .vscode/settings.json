@@ -236,7 +236,8 @@
         "1665. Minimum Initial Energy to Finish Tasks",
         "1674. Minimum Moves to Make Array Complementary",
         "2784. Check if Array is Good",
-        "153. Find Minimum in Rotated Sorted Array"
+        "153. Find Minimum in Rotated Sorted Array",
+        "154. Find Minimum in Rotated Sorted Array II"
     ],
     "java.project.referencedLibraries": [],
     "task.allowAutomaticTasks": "on"
