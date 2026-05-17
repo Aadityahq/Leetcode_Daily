@@ -237,7 +237,8 @@
         "1674. Minimum Moves to Make Array Complementary",
         "2784. Check if Array is Good",
         "153. Find Minimum in Rotated Sorted Array",
-        "154. Find Minimum in Rotated Sorted Array II"
+        "154. Find Minimum in Rotated Sorted Array II",
+        "1306. Jump Game III"
     ],
     "java.project.referencedLibraries": [],
     "task.allowAutomaticTasks": "on"
