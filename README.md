@@ -266,8 +266,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 244 – LeetCode 1345: Jump Game IV](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1345.%20Jump%20Game%20IV) – 18 May 2026
 - ✅ [Day 245 – LeetCode 2540: Minimum Common Value](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2540.%20Minimum%20Common%20Value) – 19 May 2026
 - ✅ [Day 246 – LeetCode 2657: Find the Prefix Common Array of Two Arrays](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays) – 20 May 2026
-
 - ✅ [Day 247 – LeetCode 3043: Find the Length of the Longest Common Prefix](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3043.%20Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix) – 21 May 2026
+- ✅ [Day 248 – LeetCode 33: Search in Rotated Sorted Array](https://github.com/Aadityahq/Leetcode_Daily/tree/main/33.%20Search%20in%20Rotated%20Sorted%20Array) – 22 May 2026
 
 
 

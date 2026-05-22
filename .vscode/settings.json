@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "11. Container With Most Water",
+        "33. Search in Rotated Sorted Array",
         "48. Rotate Image",
         "61. Rotate List",
         "66. Plus One",
