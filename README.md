@@ -270,6 +270,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 248 – LeetCode 33: Search in Rotated Sorted Array](https://github.com/Aadityahq/Leetcode_Daily/tree/main/33.%20Search%20in%20Rotated%20Sorted%20Array) – 22 May 2026
 - ✅ [Day 249 – LeetCode 1752: Check if Array Is Sorted and Rotated](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated) – 23 May 2026
 - ✅ [Day 250 – LeetCode 1340: Jump Game V](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1340.%20Jump%20Game%20V) – 24 May 2026
+- ✅ [Day 251 – LeetCode 1871: Jump Game VII](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1871.%20Jump%20Game%20VII) – 25 May 2026
 
 
 
