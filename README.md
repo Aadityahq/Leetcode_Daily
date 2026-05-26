@@ -271,6 +271,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 249 – LeetCode 1752: Check if Array Is Sorted and Rotated](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated) – 23 May 2026
 - ✅ [Day 250 – LeetCode 1340: Jump Game V](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1340.%20Jump%20Game%20V) – 24 May 2026
 - ✅ [Day 251 – LeetCode 1871: Jump Game VII](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1871.%20Jump%20Game%20VII) – 25 May 2026
+- ✅ [Day 252 – LeetCode 3120: Count the Number of Special Characters I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3120.%20Count%20the%20Number%20of%20Special%20Characters%20I) – 26 May 2026
 
 
 
