@@ -23,3 +23,55 @@ class Solution {
         return count;
     }
 }
+
+
+
+//----------- Brute Force Method -----------
+
+// class Solution {
+//     public int numberOfSpecialChars(String word) {
+
+//         boolean[] counted = new boolean[26];
+//         int count = 0;
+
+//         // Traverse every character
+//         for (int i = 0; i < word.length(); i++) {
+
+//             char ch = word.charAt(i);
+
+//             // If lowercase
+//             if (ch >= 'a' && ch <= 'z') {
+
+//                 char upper = (char)(ch - 32);
+
+//                 // Search uppercase in whole string
+//                 for (int j = 0; j < word.length(); j++) {
+
+//                     if (word.charAt(j) == upper && !counted[ch - 'a']) {
+//                         count++;
+//                         counted[ch - 'a'] = true;
+//                         break;
+//                     }
+//                 }
+//             }
+
+//             // If uppercase
+//             else {
+
+//                 char lower = (char)(ch + 32);
+
+//                 // Search lowercase in whole string
+//                 for (int j = 0; j < word.length(); j++) {
+
+//                     if (word.charAt(j) == lower && !counted[ch - 'A']) {
+//                         count++;
+//                         counted[ch - 'A'] = true;
+//                         break;
+//                     }
+//                 }
+//             }
+//         }
+
+//         return count;
+//     }
+// }
