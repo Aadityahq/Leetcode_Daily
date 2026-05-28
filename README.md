@@ -273,6 +273,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 251 – LeetCode 1871: Jump Game VII](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1871.%20Jump%20Game%20VII) – 25 May 2026
 - ✅ [Day 252 – LeetCode 3120: Count the Number of Special Characters I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3120.%20Count%20the%20Number%20of%20Special%20Characters%20I) – 26 May 2026
 - ✅ [Day 253 – LeetCode 3121: Count the Number of Special Characters II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3121.%20Count%20the%20Number%20of%20Special%20Characters%20II) – 27 May 2026
+- ✅ [Day 254 – LeetCode 3093: Longest Common Suffix Queries](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3093.%20Longest%20Common%20Suffix%20Queries) – 28 May 2026
 
 
 
