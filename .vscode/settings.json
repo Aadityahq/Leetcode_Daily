@@ -178,6 +178,7 @@
         "3129. Find All Possible Stable Binary Arrays I",
         "3130. Find All Possible Stable Binary Arrays II",
         "3147. Taking Maximum Energy From the Mystic Dungeon",
+        "3161. Block Placement Queries",
         "3186. Maximum Total Damage With Spell Casting",
         "3190. Find Minimum Operations to Make All Elements Divisible by Three",
         "3212. Count Submatrices With Equal Frequency of X and Y",
@@ -187,6 +188,7 @@
         "3234. Count the Number of Substrings With Dominant Ones",
         "3289. The Two Sneaky Numbers of Digitville",
         "3296. Minimum Number of Seconds to Make Mountain Height Zero",
+        "3300. Minimum Element After Replacement With Digit Sum",
         "3314. Construct the Minimum Bitwise Array I",
         "3315. Construct the Minimum Bitwise Array II",
         "3318. Find X-Sum of All K-Long Subarrays I",
@@ -249,8 +251,7 @@
         "3741. Minimum Distance Between Three Equal Elements II",
         "3742. Maximum Path Score in a Grid",
         "3761. Minimum Absolute Distance Between Mirror Pairs",
-        "3783. Mirror Distance of an Integer",
-        "3300. Minimum Element After Replacement With Digit Sum"
+        "3783. Mirror Distance of an Integer"
     ],
     "java.project.referencedLibraries": [],
     "task.allowAutomaticTasks": "on"
