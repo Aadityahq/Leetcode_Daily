@@ -276,6 +276,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 254 – LeetCode 3093: Longest Common Suffix Queries](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3093.%20Longest%20Common%20Suffix%20Queries) – 28 May 2026
 - ✅ [Day 255 – LeetCode 3300: Minimum Element After Replacement With Digit Sum](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3300.%20Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum) – 29 May 2026
 - ✅ [Day 256 – LeetCode 3161: Block Placement Queries](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3161.%20Block%20Placement%20Queries) – 30 May 2026
+- ✅ [Day 257 – LeetCode 2126: Destroying Asteroids](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2126.%20Destroying%20Asteroids) – 31 May 2026
 
 
 
