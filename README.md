@@ -277,6 +277,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 255 – LeetCode 3300: Minimum Element After Replacement With Digit Sum](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3300.%20Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum) – 29 May 2026
 - ✅ [Day 256 – LeetCode 3161: Block Placement Queries](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3161.%20Block%20Placement%20Queries) – 30 May 2026
 - ✅ [Day 257 – LeetCode 2126: Destroying Asteroids](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2126.%20Destroying%20Asteroids) – 31 May 2026
+- ✅ [Day 258 – LeetCode 2144: Minimum Cost of Buying Candies With Discount](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount) – 01 Jun 2026
 
 
 
