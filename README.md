@@ -280,6 +280,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 258 – LeetCode 2144: Minimum Cost of Buying Candies With Discount](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount) – 01 Jun 2026
 - ✅ [Day 259 – LeetCode 3633: Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) – 02 Jun 2026
 - ✅ [Day 260 – LeetCode 3635: Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) – 03 Jun 2026
+- ✅ [Day 261 – LeetCode 3751: Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) – 04 Jun 2026
 
 
 
