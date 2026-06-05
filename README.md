@@ -281,6 +281,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 259 – LeetCode 3633: Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) – 02 Jun 2026
 - ✅ [Day 260 – LeetCode 3635: Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) – 03 Jun 2026
 - ✅ [Day 261 – LeetCode 3751: Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) – 04 Jun 2026
+- ✅ [Day 262 – LeetCode 3753: Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/) – 05 Jun 2026
 
 
 
