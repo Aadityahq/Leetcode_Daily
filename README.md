@@ -285,6 +285,9 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 263 – LeetCode 2574: Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) – 06 Jun 2026
 - ✅ [Day 264 – LeetCode 2196: Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) – 07 Jun 2026
 - ✅ [Day 265 – LeetCode 2161: Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) – 08 Jun 2026
+- ✅ [Day 266 – LeetCode 3689: Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/) – 09 Jun 2026
+
+
 
 
 
