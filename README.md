@@ -288,6 +288,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 266 – LeetCode 3689: Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/) – 09 Jun 2026
 - ✅ [Day 267 – LeetCode 3691: Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) – 10 Jun 2026
 - ✅ [Day 268 – LeetCode 3558: Number of Ways to Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/) – 11 Jun 2026
+- ✅ [Day 269 – LeetCode 3838: Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) – 12 Jun 2026
 
 
 
