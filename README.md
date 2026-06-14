@@ -290,6 +290,10 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 268 – LeetCode 3558: Number of Ways to Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/) – 11 Jun 2026
 - ✅ [Day 269 – LeetCode 142: Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) – 12 Jun 2026
 - ✅ [Day 270 – LeetCode 3838: Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) – 13 Jun 2026
+- ✅ [Day 271 – LeetCode 2130: Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) – 14 Jun 2026
+
+
+
 
 
 
