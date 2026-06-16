@@ -292,7 +292,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 270 – LeetCode 3838: Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) – 13 Jun 2026
 - ✅ [Day 271 – LeetCode 2130: Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) – 14 Jun 2026
 - ✅ [Day 272 – LeetCode 2095: Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) – 15 Jun 2026
-
+- ✅ [Day 273 – LeetCode 3612: Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) – 16 Jun 2026
 
 
 
