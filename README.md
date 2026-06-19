@@ -295,7 +295,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 273 – LeetCode 3612: Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) – 16 Jun 2026
 - ✅ [Day 274 – LeetCode 3614: Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) – 17 Jun 2026
 - ✅ [Day 275 – LeetCode 1344: Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) – 18 Jun 2026
-
+- ✅ [Day 276 – LeetCode 1732: Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) – 19 Jun 2026
 
 
 
