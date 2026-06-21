@@ -297,7 +297,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 275 – LeetCode 1344: Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) – 18 Jun 2026
 - ✅ [Day 276 – LeetCode 1732: Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) – 19 Jun 2026
 - ✅ [Day 277 – LeetCode 1840: Maximum Building Height](https://leetcode.com/problems/maximum-building-height/) – 20 Jun 2026
-
+- ✅ [Day 278 – LeetCode 1833: Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) – 21 Jun 2026
 
 
 
