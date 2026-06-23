@@ -299,7 +299,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 277 – LeetCode 1840: Maximum Building Height](https://leetcode.com/problems/maximum-building-height/) – 20 Jun 2026
 - ✅ [Day 278 – LeetCode 1833: Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) – 21 Jun 2026
 - ✅ [Day 279 – LeetCode 1189: Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) – 22 Jun 2026
-
+- ✅ [Day 280 – LeetCode 3699: Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) – 23 Jun 2026
 
 
 
