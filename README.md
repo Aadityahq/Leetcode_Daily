@@ -301,8 +301,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 279 – LeetCode 1189: Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) – 22 Jun 2026
 - ✅ [Day 280 – LeetCode 3699: Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) – 23 Jun 2026
 - ✅ [Day 281 – LeetCode 496: Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) – 24 Jun 2026
-
-
+- ✅ [Day 282 – LeetCode 3737: Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) – 25 Jun 2026
+- ✅ [Day 282 – LeetCode 3737: Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) – 25 Jun 2026
 
 
 
