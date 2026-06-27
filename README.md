@@ -303,7 +303,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 281 – LeetCode 496: Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) – 24 Jun 2026
 - ✅ [Day 282 – LeetCode 3737: Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) – 25 Jun 2026
 - ✅ [Day 283 – LeetCode 3739: Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) – 26 Jun 2026
-
+- ✅ [Day 284 – LeetCode 3020: Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) – 27 Jun 2026
 
 
 
