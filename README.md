@@ -307,7 +307,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 285 – LeetCode 1846: Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) – 28 Jun 2026
 - ✅ [Day 286 – LeetCode 1967: Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) – 29 Jun 2026
 - ✅ [Day 287 – LeetCode 1358: Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) – 30 Jun 2026
-
+- ✅ [Day 288 – LeetCode 2812: Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) – 1 Jul 2026
 
 
 
