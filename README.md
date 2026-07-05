@@ -311,7 +311,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 289 – LeetCode 3286: Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) – 2 Jul 2026
 - ✅ [Day 290 – LeetCode 3620: Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) – 3 Jul 2026
 - ✅ [Day 291 – LeetCode 2492: Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) – 4 Jul 2026
-
+- ✅ [Day 292 – LeetCode 1301: Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/) – 5 Jul 2026
 
 
 
