@@ -312,7 +312,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 290 – LeetCode 3620: Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) – 3 Jul 2026
 - ✅ [Day 291 – LeetCode 2492: Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) – 4 Jul 2026
 - ✅ [Day 292 – LeetCode 1301: Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/) – 5 Jul 2026
-
+- ✅ [Day 293 – LeetCode 1288: Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) – 6 Jul 2026
 
 
 
