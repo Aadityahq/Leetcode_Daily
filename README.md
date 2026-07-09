@@ -315,7 +315,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 293 – LeetCode 1288: Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) – 6 Jul 2026
 - ✅ [Day 294 – LeetCode 3754: Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) – 7 Jul 2026
 - ✅ [Day 295 – LeetCode 3756: Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) – 8 Jul 2026
-
+- ✅ [Day 296 – LeetCode 3532: Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) – 9 Jul 2026
 
 
 
