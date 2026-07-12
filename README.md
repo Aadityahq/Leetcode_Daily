@@ -318,7 +318,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 296 – LeetCode 3532: Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) – 9 Jul 2026
 - ✅ [Day 297 – LeetCode 3534: Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) – 10 Jul 2026
 - ✅ [Day 298 – LeetCode 2685: Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) – 11 Jul 2026
-
+- ✅ [Day 299 – LeetCode 1331: Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) – 12 Jul 2026
 
 
 
