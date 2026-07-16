@@ -322,7 +322,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 300 – LeetCode 1291: Sequential Digits](https://leetcode.com/problems/sequential-digits/) – 13 Jul 2026
 - ✅ [Day 301 – LeetCode 3336: Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) – 14 Jul 2026
 - ✅ [Day 302 – LeetCode 3658: GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) – 15 Jul 2026
-
+- ✅ [Day 303 – LeetCode 3867: Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) – 16 Jul 2026
 
 
 
