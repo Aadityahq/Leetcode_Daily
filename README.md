@@ -325,8 +325,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 303 – LeetCode 3867: Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) – 16 Jul 2026
 - ✅ [Day 304 – LeetCode 3312: Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/) – 17 Jul 2026
 - ✅ [Day 305 – LeetCode 1979: Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) – 18 Jul 2026
-
-
+- ✅ [Day 306 – LeetCode 1081: Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) – 19 Jul 2026
 
 
 
