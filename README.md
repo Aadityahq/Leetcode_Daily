@@ -328,7 +328,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 306 – LeetCode 1081: Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) – 19 Jul 2026
 - ✅ [Day 307 – LeetCode 1260: Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) – 20 Jul 2026
 - ✅ [Day 308 – LeetCode 3499: Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) – 21 Jul 2026
-
+- ✅ [Day 309 – LeetCode 3501: Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) – 22 Jul 2026
 
 
 
