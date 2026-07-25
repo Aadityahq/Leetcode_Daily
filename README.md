@@ -329,10 +329,9 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 307 – LeetCode 1260: Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) – 20 Jul 2026
 - ✅ [Day 308 – LeetCode 3499: Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) – 21 Jul 2026
 - ✅ [Day 309 – LeetCode 3501: Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) – 22 Jul 2026
-- ✅ [Day 310 – LeetCode 3513: Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) – 23 Jul 20263514. Number of Unique XOR Triplets II
-
-
-
+- ✅ [Day 310 – LeetCode 3513: Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) – 23 Jul 2026
+- ✅ [Day 311 – LeetCode 3514: Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) – 24 Jul 2026
+- ✅ [Day 312 – LeetCode 3536: Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) – 25 Jul 2026
 
 
 
