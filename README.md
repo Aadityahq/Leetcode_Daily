@@ -333,7 +333,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 311 – LeetCode 3514: Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) – 24 Jul 2026
 - ✅ [Day 312 – LeetCode 3536: Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) – 25 Jul 2026
 - ✅ [Day 313 – LeetCode 628: Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) – 26 Jul 2026
-
+- ✅ [Day 314 – LeetCode 1464: Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) – 27 Jul 2026
 
 
 
