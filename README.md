@@ -335,6 +335,18 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 313 – LeetCode 628: Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) – 26 Jul 2026
 - ✅ [Day 314 – LeetCode 1464: Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) – 27 Jul 2026
 - ✅ [Day 315 – LeetCode 3517: Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) – 28 Jul 2026
+- ✅ [Day 316 – LeetCode 3518: Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) – 29 Jul 2026
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
