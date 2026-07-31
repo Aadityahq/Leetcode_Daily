@@ -336,9 +336,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 314 – LeetCode 1464: Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) – 27 Jul 2026
 - ✅ [Day 315 – LeetCode 3517: Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) – 28 Jul 2026
 - ✅ [Day 316 – LeetCode 3518: Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) – 29 Jul 2026
-- ✅ [Day 317 – LeetCode 3014: Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) – 30 Jul 2026
-
-
+- ✅ [Day 317 – LeetCode 3014: Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) – 30 Jul 2026 
+- ✅ [Day 318 – LeetCode 3016: Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) – 31 Jul 2026
 
 
 
