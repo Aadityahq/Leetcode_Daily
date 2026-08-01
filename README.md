@@ -338,7 +338,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 316 – LeetCode 3518: Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) – 29 Jul 2026
 - ✅ [Day 317 – LeetCode 3014: Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) – 30 Jul 2026 
 - ✅ [Day 318 – LeetCode 3016: Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) – 31 Jul 2026
-
+- ✅ [Day 319 – LeetCode 486: Predict the Winner](https://leetcode.com/problems/predict-the-winner/) – 1 Aug 2026
 
 
 
