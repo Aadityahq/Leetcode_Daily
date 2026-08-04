@@ -341,7 +341,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 319 – LeetCode 486: Predict the Winner](https://leetcode.com/problems/predict-the-winner/) – 1 Aug 2026
 - ✅ [Day 320 – LeetCode 877: Stone Game](https://leetcode.com/problems/stone-game/) – 2 Aug 2026
 - ✅ [Day 321 – LeetCode 1406: Stone Game III](https://leetcode.com/problems/stone-game-iii/) – 3 Aug 2026
-
+- ✅ [Day 322 – LeetCode 3731: Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) – 4 Aug 2026
 
 
 
