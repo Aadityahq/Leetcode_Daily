@@ -343,7 +343,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 321 – LeetCode 1406: Stone Game III](https://leetcode.com/problems/stone-game-iii/) – 3 Aug 2026
 - ✅ [Day 322 – LeetCode 3731: Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) – 4 Aug 2026
 - ✅ [Day 323 – LeetCode 3310: Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) – 5 Aug 2026
-
+- ✅ [Day 324 – LeetCode 3345: Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) – 6 Aug 2026
 
 
 
