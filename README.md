@@ -346,6 +346,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 324 – LeetCode 3345: Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) – 6 Aug 2026
 - ✅ [Day 325 – LeetCode 3348: Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) – 7 Aug 2026
 - ✅ [Day 326 – LeetCode 3302: Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) – 8 Aug 2026
+- ✅ [Day 327 – LeetCode 1140: Stone Game II](https://leetcode.com/problems/stone-game-ii/) – 9 Aug 2026
 
 
 
