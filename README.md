@@ -348,6 +348,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 326 – LeetCode 3302: Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) – 8 Aug 2026
 - ✅ [Day 327 – LeetCode 1140: Stone Game II](https://leetcode.com/problems/stone-game-ii/) – 9 Aug 2026
 - ✅ [Day 328 – LeetCode 1510: Stone Game IV](https://leetcode.com/problems/stone-game-iv/) – 10 Aug 2026
+- ✅ [Day 329 – LeetCode 2996: Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) – 11 Aug 2026
 
 
 
