@@ -350,7 +350,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 328 – LeetCode 1510: Stone Game IV](https://leetcode.com/problems/stone-game-iv/) – 10 Aug 2026
 - ✅ [Day 329 – LeetCode 2996: Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) – 11 Aug 2026
 - ✅ [Day 330 – LeetCode 2958: Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) – 12 Aug 2026
-
+- ✅ [Day 331 – LeetCode 2213: Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) – 13 Aug 2026
 
 
 
