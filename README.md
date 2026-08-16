@@ -352,7 +352,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 330 – LeetCode 2958: Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) – 12 Aug 2026
 - ✅ [Day 331 – LeetCode 2213: Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) – 13 Aug 2026
 - ✅ [Day 332 – LeetCode 3090: Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) – 14 Aug 2026
-
+- ✅ [Day 333 – LeetCode 3702: Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) – 15 Aug 2026
 
 
 
