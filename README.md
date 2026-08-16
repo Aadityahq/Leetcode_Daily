@@ -353,7 +353,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 331 – LeetCode 2213: Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) – 13 Aug 2026
 - ✅ [Day 332 – LeetCode 3090: Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) – 14 Aug 2026
 - ✅ [Day 333 – LeetCode 3702: Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) – 15 Aug 2026
-
+- ✅ [Day 334 – LeetCode 2029: Stone Game IX](https://leetcode.com/problems/stone-game-ix/) – 16 Aug 2026
 
 
 
