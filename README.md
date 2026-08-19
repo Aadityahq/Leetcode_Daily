@@ -356,7 +356,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 334 – LeetCode 2029: Stone Game IX](https://leetcode.com/problems/stone-game-ix/) – 16 Aug 2026
 - ✅ [Day 335 – LeetCode 1563: Stone Game V](https://leetcode.com/problems/stone-game-v/) – 17 Aug 2026
 - ✅ [Day 336 – LeetCode 3471: Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) – 18 Aug 2026
-
+- ✅ [Day 337 – LeetCode 1386: Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) – 19 Aug 2026
 
 
 
