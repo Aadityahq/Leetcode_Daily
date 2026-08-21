@@ -358,6 +358,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 336 – LeetCode 3471: Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) – 18 Aug 2026
 - ✅ [Day 337 – LeetCode 1386: Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) – 19 Aug 2026
 - ✅ [Day 338 – LeetCode 3069: Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) – 20 Aug 2026
+- ✅ [Day 339 – LeetCode 3116: Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) – 21 Aug 2026
 
 
 
