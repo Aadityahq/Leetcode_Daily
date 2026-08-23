@@ -360,7 +360,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 338 – LeetCode 3069: Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) – 20 Aug 2026
 - ✅ [Day 339 – LeetCode 3116: Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) – 21 Aug 2026
 - ✅ [Day 340 – LeetCode 3622: Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) – 22 Aug 2026
-
+- ✅ [Day 341 – LeetCode 1927: Sum Game](https://leetcode.com/problems/sum-game/) – 23 Aug 2026
 
 
 
