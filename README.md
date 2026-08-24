@@ -361,6 +361,25 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 339 – LeetCode 3116: Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) – 21 Aug 2026
 - ✅ [Day 340 – LeetCode 3622: Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) – 22 Aug 2026
 - ✅ [Day 341 – LeetCode 1927: Sum Game](https://leetcode.com/problems/sum-game/) – 23 Aug 2026
+- ✅ [Day 342 – LeetCode 1872: Stone Game VIII](https://leetcode.com/problems/stone-game-viii/) – 24 Aug 2026
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
