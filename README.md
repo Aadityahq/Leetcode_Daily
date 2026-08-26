@@ -363,7 +363,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 341 – LeetCode 1927: Sum Game](https://leetcode.com/problems/sum-game/) – 23 Aug 2026
 - ✅ [Day 342 – LeetCode 1872: Stone Game VIII](https://leetcode.com/problems/stone-game-viii/) – 24 Aug 2026
 - ✅ [Day 343 – LeetCode 3718: Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) – 25 Aug 2026
-
+- ✅ [Day 344 – LeetCode 2904: Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) – 26 Aug 2026
 
 
 
