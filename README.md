@@ -365,7 +365,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 343 – LeetCode 3718: Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) – 25 Aug 2026
 - ✅ [Day 344 – LeetCode 2904: Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) – 26 Aug 2026
 - ✅ [Day 345 – LeetCode 3720: Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/) – 27 Aug 2026
-
+- ✅ [Day 346 – LeetCode 3734: Lexicographically Smallest Palindromic Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/) – 28 Aug 2026
 
 
 
