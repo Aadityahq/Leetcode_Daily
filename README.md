@@ -369,7 +369,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 347 – LeetCode 2948: Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) – 29 Aug 2026
 - ✅ [Day 348 – LeetCode 2091: Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) – 30 Aug 2026
 - ✅ [Day 349 – LeetCode 2058: Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) – 31 Aug 2026
-
+- ✅ [Day 350 – LeetCode 3568: Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) – 1 Sep 2026
 
 
 
