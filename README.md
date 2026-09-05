@@ -373,7 +373,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 351 – LeetCode 3875: Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) – 2 Sep 2026
 - ✅ [Day 352 – LeetCode 3876: Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) – 3 Sep 2026
 - ✅ [Day 353 – LeetCode 3903: Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) – 4 Sep 2026
-
+- ✅ [Day 354 – LeetCode 3904: Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) – 5 Sep 2026
 
 
 
