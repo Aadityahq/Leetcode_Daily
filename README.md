@@ -375,6 +375,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 353 – LeetCode 3903: Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) – 4 Sep 2026
 - ✅ [Day 354 – LeetCode 3904: Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) – 5 Sep 2026
 - ✅ [Day 355 – LeetCode 115: Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) – 6 Sep 2026
+- ✅ [Day 356 – LeetCode 940: Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) – 7 Sep 2026
 
 
 
