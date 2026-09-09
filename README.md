@@ -377,7 +377,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 355 – LeetCode 115: Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) – 6 Sep 2026
 - ✅ [Day 356 – LeetCode 940: Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) – 7 Sep 2026
 - ✅ [Day 357 – LeetCode 3870: Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) – 8 Sep 2026
-
+- ✅ [Day 358 – LeetCode 3871: Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) – 9 Sep 2026
 
 
 
