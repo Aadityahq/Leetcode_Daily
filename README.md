@@ -379,7 +379,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 357 – LeetCode 3870: Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) – 8 Sep 2026
 - ✅ [Day 358 – LeetCode 3871: Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) – 9 Sep 2026
 - ✅ [Day 359 – LeetCode 2265: Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) – 10 Sep 2026
-
+- ✅ [Day 360 – LeetCode 3483: Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) – 11 Sep 2026
 
 
 
