@@ -1,478 +1,812 @@
-## 3471. Find the Largest Almost Missing Integer
+# 3414. Maximum Score of Non-overlapping Intervals
 
-### 1. Understanding the problem
+## Problem Explanation
 
-We have:
-
-* An array `nums`
-* A window size `k`
-
-We need to look at **every subarray of size `k`**.
-
-An integer `x` is called **almost missing** if it appears in **exactly one** of those subarrays.
-
-Finally, among all such integers, return the **largest** one.
-
-If no integer satisfies the condition, return `-1`.
-
----
-
-### 2. Example
-
-Suppose:
+We are given `n` intervals:
 
 ```text
-nums = [3, 9, 2, 1, 7]
-k = 3
+intervals[i] = [left, right, weight]
 ```
 
-The subarrays of size `3` are:
+For every interval:
+
+* `left` → starting point
+* `right` → ending point
+* `weight` → score we get if we select it
+
+We can select **at most 4 intervals**.
+
+The selected intervals must not overlap.
+
+Two intervals are considered non-overlapping only when:
 
 ```text
-[3, 9, 2]
-[9, 2, 1]
-[2, 1, 7]
-```
-
-Now count in how many **different subarrays** each number occurs:
-
-```text
-3 → 1 subarray
-9 → 2 subarrays
-2 → 3 subarrays
-1 → 2 subarrays
-7 → 1 subarray
+previous.right < next.left
 ```
 
 So:
 
 ```text
-3 and 7
+[1, 5] and [5, 8]
 ```
 
-are almost missing.
+are **overlapping**, because they share point `5`.
 
-The largest is:
+Our goal is to:
 
-```text
-7
-```
-
-Therefore answer = `7`.
+1. Select at most 4 non-overlapping intervals.
+2. Maximize their total weight.
+3. If multiple selections have the same maximum score, return the **lexicographically smallest array of original indices**.
 
 ---
 
-# 3. Important observation
+# Main Idea
 
-The key phrase is:
+This is a variation of the classic **Weighted Interval Scheduling** problem.
 
-> "appears in exactly one subarray of size k"
+We can solve it using:
 
-This is slightly different from simply counting how many times a number occurs in `nums`.
+```text
+Sort intervals by ending position
+        ↓
+Binary Search
+        ↓
+Dynamic Programming
+        ↓
+Take / Skip
+        ↓
+Handle lexicographical tie
+```
+
+The important difference from normal weighted interval scheduling is that we can choose **at most 4 intervals**, so our DP needs an extra dimension for the number of intervals selected.
+
+---
+
+# 1. Store the Original Index
+
+We first create:
+
+```java
+long[][] arr = new long[n][4];
+```
+
+Each interval is stored as:
+
+```text
+[start, end, weight, originalIndex]
+```
 
 For example:
 
 ```text
-nums = [7, 2, 1, 7]
-k = 3
+intervals:
+
+index 0 → [1, 3, 5]
+index 1 → [4, 6, 7]
+index 2 → [8, 10, 4]
 ```
 
-Subarrays:
+becomes:
 
 ```text
-[7, 2, 1]
-[2, 1, 7]
+[1, 3, 5, 0]
+[4, 6, 7, 1]
+[8, 10, 4, 2]
 ```
 
-`7` occurs twice in the whole array, but it appears in **two different subarrays**.
-
-Therefore `7` is **not** almost missing.
-
-So we need to count:
-
-> In how many windows of size `k` does each number occur?
+We keep the original index because the final answer must contain the **original indices**, not the positions after sorting.
 
 ---
 
-# 4. Simple approach
+# 2. Sort by Ending Position
 
-Because:
-
-```text
-nums.length <= 50
-nums[i] <= 50
-```
-
-we don't need a complicated algorithm.
-
-We can simply:
-
-1. Generate every subarray of size `k`.
-2. For each subarray, find which numbers occur in it.
-3. Increase the count of that number **once**.
-4. At the end, find the largest number whose count is exactly `1`.
-
-### Why only once per subarray?
-
-Suppose:
-
-```text
-nums = [7, 7, 2]
-k = 3
-```
-
-There is only one subarray:
-
-```text
-[7, 7, 2]
-```
-
-Even though `7` occurs twice inside the subarray, it appears in only **one subarray**.
-
-Therefore we must not increment the count twice.
-
----
-
-# 5. Java Solution
+The code does:
 
 ```java
-class Solution {
-    public int largestInteger(int[] nums, int k) {
+Arrays.sort(arr, (a, b) -> Long.compare(a[1], b[1]));
+```
 
-        int[] count = new int[51];
+So intervals are sorted by their `right` endpoint.
 
-        // Generate every subarray of size k
-        for (int i = 0; i <= nums.length - k; i++) {
+For example:
 
-            boolean[] present = new boolean[51];
+```text
+[1, 5, 10]
+[2, 3, 4]
+[4, 8, 7]
+[9, 12, 5]
+```
 
-            // Traverse the current subarray
-            for (int j = i; j < i + k; j++) {
-                present[nums[j]] = true;
-            }
+becomes:
 
-            // Count this subarray only once for each number
-            for (int x = 0; x <= 50; x++) {
-                if (present[x]) {
-                    count[x]++;
-                }
-            }
+```text
+[2, 3, 4]
+[1, 5, 10]
+[4, 8, 7]
+[9, 12, 5]
+```
+
+Why sort by ending position?
+
+Because when we are processing an interval, we want to find the **last interval that finishes before this interval starts**.
+
+That is exactly what binary search will find.
+
+---
+
+# 3. Find the Previous Compatible Interval
+
+Suppose the current interval is:
+
+```text
+[6, 10, 8]
+```
+
+A previous interval can be selected with it only if:
+
+```text
+previousEnd < 6
+```
+
+So if previous intervals end at:
+
+```text
+3, 5, 6, 8
+```
+
+the last compatible one is:
+
+```text
+5
+```
+
+We need to find the first ending position that is:
+
+```text
+>= currentStart
+```
+
+and then take the position immediately before it.
+
+That's what this method does:
+
+```java
+private int lowerBound(long[] ends, int length, long target) {
+    int left = 0;
+    int right = length;
+
+    while (left < right) {
+        int mid = left + (right - left) / 2;
+
+        if (ends[mid] >= target) {
+            right = mid;
+        } else {
+            left = mid + 1;
         }
-
-        // Find the largest number appearing in exactly one subarray
-        for (int x = 50; x >= 0; x--) {
-            if (count[x] == 1) {
-                return x;
-            }
-        }
-
-        return -1;
     }
+
+    return left;
 }
 ```
 
----
+For example:
 
-# 6. How the code works
+```text
+ends = [2, 4, 5, 7, 10]
+target = 6
+```
 
-### Step 1: Create a count array
+`lowerBound()` returns:
+
+```text
+3
+```
+
+because:
+
+```text
+ends[3] = 7
+```
+
+is the first value `>= 6`.
+
+Therefore:
+
+```text
+p = 3
+```
+
+means the first `3` intervals are compatible.
+
+So we use:
 
 ```java
-int[] count = new int[51];
+dp[k - 1][p]
+```
+
+---
+
+# 4. Understanding the DP
+
+The most important part of this solution is:
+
+```java
+Node[][] dp = new Node[K + 1][n + 1];
+```
+
+Here:
+
+```text
+dp[k][i]
+```
+
+means:
+
+> The best result we can obtain by considering the first `i` intervals and selecting exactly `k` intervals.
+
+Each state stores a `Node`:
+
+```java
+static class Node {
+    long score;
+    int[] ids;
+}
+```
+
+So every DP state remembers:
+
+```text
+maximum score
++
+indices that produced that score
+```
+
+---
+
+# Why Do We Need `k`?
+
+Because the problem allows at most 4 intervals.
+
+We therefore maintain:
+
+```text
+k = 0
+k = 1
+k = 2
+k = 3
+k = 4
+```
+
+For example:
+
+```text
+dp[2][10]
+```
+
+means:
+
+> Among the first 10 intervals, what is the best way to select exactly 2 non-overlapping intervals?
+
+---
+
+# 5. Base Case
+
+The code initializes:
+
+```java
+for (int i = 0; i <= n; i++) {
+    dp[0][i] = new Node(0, new int[0]);
+}
+```
+
+This means:
+
+> If we need to select exactly 0 intervals, the score is 0 and the answer is an empty array.
+
+For example:
+
+```text
+dp[0][5] = {
+    score = 0,
+    ids = []
+}
+```
+
+This is important because when we select the first interval, we may build the answer from a solution containing zero previous intervals.
+
+---
+
+# 6. Two Choices: Skip or Take
+
+For every interval, there are two possibilities.
+
+## Choice 1: Skip
+
+We don't select the current interval.
+
+Therefore, the answer remains whatever was possible using the first `i - 1` intervals:
+
+```java
+dp[k][i] = dp[k][i - 1];
+```
+
+For example:
+
+```text
+dp[2][5]
+```
+
+can simply inherit:
+
+```text
+dp[2][4]
+```
+
+because we decided not to use interval `5`.
+
+---
+
+# 7. Choice 2: Take
+
+Suppose the current interval is:
+
+```text
+[left, right, weight]
+```
+
+We want to select it.
+
+Before this interval, we can only use intervals whose:
+
+```text
+end < left
+```
+
+We already found the number of such intervals using:
+
+```java
+int p = lowerBound(ends, i - 1, left);
+```
+
+Therefore, if we want exactly `k` intervals total:
+
+```text
+k - 1
+```
+
+intervals must come before the current interval.
+
+So we start from:
+
+```java
+dp[k - 1][p]
+```
+
+Then add the current interval's weight:
+
+```java
+dp[k - 1][p].score + weight
+```
+
+---
+
+# 8. Add the Current Index
+
+We also need to add the current interval's original index:
+
+```java
+int[] ids = addSorted(
+    dp[k - 1][p].ids,
+    originalIndex
+);
+```
+
+The helper method is:
+
+```java
+private int[] addSorted(int[] ids, int value) {
+    int[] result = Arrays.copyOf(ids, ids.length + 1);
+
+    result[ids.length] = value;
+
+    Arrays.sort(result);
+
+    return result;
+}
+```
+
+Why sort the indices?
+
+Because the problem asks for the answer as a **lexicographically smallest array of indices**.
+
+For example, if we select:
+
+```text
+index 7
+index 2
+index 5
+```
+
+the answer needs to be represented as:
+
+```text
+[2, 5, 7]
+```
+
+rather than:
+
+```text
+[7, 2, 5]
+```
+
+Sorting the selected indices makes comparison straightforward.
+
+---
+
+# 9. Comparing Two Solutions
+
+Now we have two possible answers:
+
+```text
+skip
+```
+
+and:
+
+```text
+take
+```
+
+We need to determine which one is better.
+
+That's what:
+
+```java
+better(a, b)
+```
+
+does.
+
+First, compare the scores:
+
+```java
+if (a.score != b.score) {
+    return a.score > b.score;
+}
+```
+
+The larger score wins.
+
+For example:
+
+```text
+A → score = 20
+B → score = 15
+```
+
+A is better.
+
+---
+
+# 10. Lexicographical Tie-Breaking
+
+What if the scores are equal?
+
+For example:
+
+```text
+A → score = 20, ids = [1, 5]
+B → score = 20, ids = [2, 3]
+```
+
+We compare:
+
+```text
+1 vs 2
 ```
 
 Since:
 
 ```text
-0 <= nums[i] <= 50
+1 < 2
 ```
 
-we can directly use the number as an index.
+we choose:
+
+```text
+[1, 5]
+```
+
+The code does exactly that:
+
+```java
+for (int i = 0; i < len; i++) {
+    if (a.ids[i] != b.ids[i]) {
+        return a.ids[i] < b.ids[i];
+    }
+}
+```
+
+So the priority is:
+
+```text
+Higher score
+     ↓
+If equal
+     ↓
+Lexicographically smaller indices
+```
+
+---
+
+# 11. Why Compare Length at the End?
+
+Suppose we have:
+
+```text
+A = [1, 2]
+B = [1, 2, 3]
+```
+
+The first two elements are equal.
+
+Then the shorter array is considered lexicographically smaller:
+
+```text
+[1, 2] < [1, 2, 3]
+```
+
+So we have:
+
+```java
+return a.ids.length < b.ids.length;
+```
+
+In this problem, weights are positive, so for a fixed number `k`, choosing an additional interval generally improves the score. But this comparison makes the `better()` function correctly handle arrays of different lengths as well.
+
+---
+
+# 12. Why `Node` Is Useful
+
+Instead of having:
+
+```text
+dp = maximum score only
+```
+
+we store:
+
+```java
+Node {
+    long score;
+    int[] ids;
+}
+```
 
 For example:
 
 ```text
-count[7]
+dp[2][5]
 ```
 
-stores the number of subarrays in which `7` appears.
+could contain:
+
+```text
+score = 15
+ids = [1, 4]
+```
+
+So we always know both:
+
+* how good the solution is
+* which intervals produced it
+
+This makes handling the lexicographical requirement much easier to understand than encoding the indices into a `long`.
 
 ---
 
-### Step 2: Generate every window
+# 13. Final Answer
+
+At the end, we have:
+
+```text
+dp[1][n]
+dp[2][n]
+dp[3][n]
+dp[4][n]
+```
+
+The problem says **at most 4**, not exactly 4.
+
+Therefore we cannot simply return:
 
 ```java
-for (int i = 0; i <= nums.length - k; i++)
+dp[4][n]
 ```
 
-If:
-
-```text
-nums.length = 5
-k = 3
-```
-
-then `i` will be:
-
-```text
-0
-1
-2
-```
-
-giving us:
-
-```text
-i = 0 → [3, 9, 2]
-i = 1 → [9, 2, 1]
-i = 2 → [2, 1, 7]
-```
-
----
-
-### Step 3: Track numbers present in the current window
+We need to consider all possibilities:
 
 ```java
-boolean[] present = new boolean[51];
-```
+Node answer = null;
 
-Initially:
-
-```text
-present[0] = false
-present[1] = false
-...
-present[50] = false
-```
-
-Then:
-
-```java
-for (int j = i; j < i + k; j++) {
-    present[nums[j]] = true;
-}
-```
-
-Suppose the current window is:
-
-```text
-[7, 7, 2]
-```
-
-After processing:
-
-```text
-present[7] = true
-present[2] = true
-```
-
-Notice that `7` is still only marked `true` once.
-
-That's exactly what we need.
-
----
-
-### Step 4: Count each number once for this window
-
-```java
-for (int x = 0; x <= 50; x++) {
-    if (present[x]) {
-        count[x]++;
+for (int k = 1; k <= K; k++) {
+    if (better(dp[k][n], answer)) {
+        answer = dp[k][n];
     }
 }
 ```
 
-If the current window contains:
+This compares the best solution using:
 
 ```text
-[7, 7, 2]
+1 interval
+2 intervals
+3 intervals
+4 intervals
 ```
 
-we do:
-
-```text
-count[7]++
-count[2]++
-```
-
-We **don't** do:
-
-```text
-count[7]++
-count[7]++
-```
-
-because we are counting subarrays, not occurrences.
+and returns the best one.
 
 ---
 
-# 7. Finding the largest answer
+# Example
 
-Now suppose after processing all windows:
-
-```text
-count[1] = 2
-count[2] = 3
-count[3] = 1
-count[7] = 1
-count[9] = 2
-```
-
-We need:
+Consider:
 
 ```text
-count[x] == 1
+intervals = [
+    [1, 3, 2],   // 0
+    [4, 5, 2],   // 1
+    [1, 5, 5],   // 2
+    [6, 9, 3],   // 3
+    [6, 7, 1],   // 4
+    [8, 9, 1]    // 5
+]
 ```
 
-So both `3` and `7` qualify.
-
-Instead of scanning from `0` upward, we scan from `50` downward:
-
-```java
-for (int x = 50; x >= 0; x--) {
-    if (count[x] == 1) {
-        return x;
-    }
-}
-```
-
-The first number we find is automatically the **largest**.
-
----
-
-# 8. Dry run
-
-For:
+One possible selection is:
 
 ```text
-nums = [3, 9, 2, 1, 7]
-k = 3
+index 2 → [1,5,5]
+index 3 → [6,9,3]
 ```
 
-### Window 1
+Check compatibility:
 
 ```text
-[3, 9, 2]
+5 < 6
 ```
 
-Numbers present:
+So they don't overlap.
+
+Total score:
 
 ```text
-3, 9, 2
-```
-
-Counts:
-
-```text
-3 → 1
-9 → 1
-2 → 1
-```
-
-### Window 2
-
-```text
-[9, 2, 1]
-```
-
-Counts become:
-
-```text
-3 → 1
-9 → 2
-2 → 2
-1 → 1
-```
-
-### Window 3
-
-```text
-[2, 1, 7]
-```
-
-Counts become:
-
-```text
-3 → 1
-9 → 2
-2 → 3
-1 → 2
-7 → 1
+5 + 3 = 8
 ```
 
 Therefore:
 
 ```text
-3 → exactly 1
-7 → exactly 1
+[2, 3]
 ```
 
-Largest =
+is a candidate answer.
+
+The DP considers all possible combinations and eventually determines that:
 
 ```text
-7
+score = 8
+ids = [2, 3]
+```
+
+is the best solution.
+
+---
+
+# Complete Flow
+
+The entire algorithm can be visualized as:
+
+```text
+Input intervals
+       ↓
+Store original indices
+       ↓
+Sort by ending position
+       ↓
+Create ends[]
+       ↓
+For every interval:
+       ↓
+Binary search for first end >= current start
+       ↓
+This gives compatible previous intervals
+       ↓
+DP[k][i]
+       ↓
+       ├── Skip current interval
+       │       ↓
+       │   dp[k][i-1]
+       │
+       └── Take current interval
+               ↓
+       dp[k-1][p] + current weight
+               ↓
+       Add current original index
+       ↓
+Compare Skip vs Take
+       ↓
+Higher score wins
+       ↓
+If score equal → lexicographically smaller indices
+       ↓
+Compare k = 1, 2, 3, 4
+       ↓
+Final answer
 ```
 
 ---
 
-# 9. Complexity
+# Complexity
 
-There are approximately:
+Let `n` be the number of intervals.
 
-```text
-n - k + 1
-```
-
-windows.
-
-For each window, we process `k` elements and then at most `51` possible values.
-
-So the complexity is:
+### Sorting
 
 ```text
-O((n - k + 1) × (k + 51))
+O(n log n)
 ```
 
-Since `n <= 50`, this is effectively:
+### Binary Search
+
+For each of the `n` intervals, we perform a binary search:
 
 ```text
-O(n²)
+O(n log n)
 ```
 
-Space complexity:
+### DP
+
+There are only 4 values of `k`:
 
 ```text
-O(51) = O(1)
+4 × n = O(n)
 ```
 
-because the arrays have fixed size based on the constraint `nums[i] <= 50`.
+However, your implementation also creates/sorts small arrays of at most 4 indices. Since the maximum size is only 4, that is constant work per state.
+
+Therefore:
+
+```text
+Time Complexity:  O(n log n)
+Space Complexity: O(n)
+```
 
 ---
 
-## 10. The main idea to remember
+## The key concept to remember
 
-The most important thing in this problem is:
+This problem is basically:
 
-> **Count how many windows contain a number, not how many times the number occurs.**
+> **Weighted Interval Scheduling + at most 4 selections + lexicographical tie-breaking.**
 
-That's why we use:
-
-```java
-boolean[] present
-```
-
-for every window.
-
-The overall pattern is:
+The most important transition is:
 
 ```text
-Generate every window
+Take current interval
         ↓
-Find unique values inside that window
+Find last compatible interval
         ↓
-Increase their window-count
+Use dp[k - 1][p]
         ↓
-Find largest value with count == 1
+Add current weight
 ```
 
-This is a good example of a **brute-force solution that is completely appropriate because the constraints are very small**.
+And the most important condition is:
+
+```text
+previousEnd < currentStart
+```
+
+not `<=`, because intervals sharing a boundary are considered overlapping.
