@@ -382,7 +382,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 360 – LeetCode 3483: Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) – 11 Sep 2026
 - ✅ [Day 361 – LeetCode 3414: Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) – 12 Sep 2026
 - ✅ [Day 362 – LeetCode 835: Image Overlap](https://leetcode.com/problems/image-overlap/) – 13 Sep 2026
-
+- ✅ [Day 363 – LeetCode 836: Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) – 14 Sep 2026
 
 
 
