@@ -384,7 +384,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 362 – LeetCode 835: Image Overlap](https://leetcode.com/problems/image-overlap/) – 13 Sep 2026
 - ✅ [Day 363 – LeetCode 836: Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) – 14 Sep 2026
 - ✅ [Day 364 – LeetCode 2472: Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) – 15 Sep 2026
-
+- ✅ [Day 365 – LeetCode 1621: Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) – 16 Sep 2026
 
 
 
