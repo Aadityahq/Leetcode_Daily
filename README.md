@@ -387,7 +387,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 365 – LeetCode 1621: Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) – 16 Sep 2026
 - ✅ [Day 366 – LeetCode 1477: Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) – 17 Sep 2026
 - ✅ [Day 367 – LeetCode 1520: Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) – 18 Sep 2026
-
+- ✅ [Day 368 – LeetCode 1401: Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) – 19 Sep 2026
 
 
 
