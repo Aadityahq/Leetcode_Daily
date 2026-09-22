@@ -390,7 +390,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 368 – LeetCode 1401: Circle and Rectangle Overlapping](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1401.%20Circle%20and%20Rectangle%20Overlapping) – 19 Sep 2026
 - ✅ [Day 369 – LeetCode 3498: Reverse Degree of a String](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3498.%20Reverse%20Degree%20of%20a%20String) – 20 Sep 2026
 - ✅ [Day 370 – LeetCode 3524: Find X Value of Array I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3524.%20Find%20X%20Value%20of%20Array%20I) – 21 Sep 2026
-
+- ✅ [Day 371 – LeetCode 3525: Find X Value of Array II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3525.%20Find%20X%20Value%20of%20Array%20II) – 22 Sep 2026
 
 
 
