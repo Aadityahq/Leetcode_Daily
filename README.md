@@ -394,6 +394,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 372 – LeetCode 1658: Minimum Operations to Reduce X to Zero](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero) – 23 Sep 2026
 - ✅ [Day 373 – LeetCode 3550: Smallest Index With Digit Sum Equal to Index](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3550.%20Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index) – 24 Sep 2026
 - ✅ [Day 374 – LeetCode 1096: Brace Expansion II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1096.%20Brace%20Expansion%20II) – 25 Sep 2026
+- ✅ [Day 375 – LeetCode 1807: Evaluate the Bracket Pairs of a String](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1807.%20Evaluate%20the%20Bracket%20Pairs%20of%20a%20String) – 26 Sep 2026
 
 
 
