@@ -396,7 +396,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 374 – LeetCode 1096: Brace Expansion II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1096.%20Brace%20Expansion%20II) – 25 Sep 2026
 - ✅ [Day 375 – LeetCode 1807: Evaluate the Bracket Pairs of a String](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1807.%20Evaluate%20the%20Bracket%20Pairs%20of%20a%20String) – 26 Sep 2026
 - ✅ [Day 376 – LeetCode 1190: Reverse Substrings Between Each Pair of Parentheses](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses) – 27 Sep 2026
-
+- ✅ [Day 377 – LeetCode 1614: Maximum Nesting Depth of the Parentheses](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses) – 28 Sep 2026
 
 
 
