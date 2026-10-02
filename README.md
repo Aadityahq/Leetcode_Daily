@@ -400,7 +400,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 378 – LeetCode 2267: Check if There Is a Valid Parentheses String Path](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2267.%20Check%20if%20There%20Is%20a%20Valid%20Parentheses%20String%20Path) – 29 Sep 2026
 - ✅ [Day 379 – LeetCode 1111: Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1111.%20Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings) – 30 Sep 2026
 - ✅ [Day 380 – LeetCode 20: Valid Parentheses](https://github.com/Aadityahq/Leetcode_Daily/tree/main/20.%20Valid%20Parentheses) – 01 Oct 2026
-
+- ✅ [Day 381 – LeetCode 22: Generate Parentheses](https://github.com/Aadityahq/Leetcode_Daily/tree/main/22.%20Generate%20Parentheses) – 02 Oct 2026
 
 
 
