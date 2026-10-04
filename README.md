@@ -402,7 +402,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 380 – LeetCode 20: Valid Parentheses](https://github.com/Aadityahq/Leetcode_Daily/tree/main/20.%20Valid%20Parentheses) – 01 Oct 2026
 - ✅ [Day 381 – LeetCode 22: Generate Parentheses](https://github.com/Aadityahq/Leetcode_Daily/tree/main/22.%20Generate%20Parentheses) – 02 Oct 2026
 - ✅ [Day 382 – LeetCode 32: Longest Valid Parentheses](https://github.com/Aadityahq/Leetcode_Daily/tree/main/32.%20Longest%20Valid%20Parentheses) – 03 Oct 2026
-
+- ✅ [Day 383 – LeetCode 678: Valid Parenthesis String](https://github.com/Aadityahq/Leetcode_Daily/tree/main/678.%20Valid%20Parenthesis%20String) – 04 Oct 2026
 
 
 
