@@ -405,6 +405,12 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 383 – LeetCode 678: Valid Parenthesis String](https://github.com/Aadityahq/Leetcode_Daily/tree/main/678.%20Valid%20Parenthesis%20String) – 04 Oct 2026
 - ✅ [Day 384 – LeetCode 856: Score of Parentheses](https://github.com/Aadityahq/Leetcode_Daily/tree/main/856.%20Score%20of%20Parentheses) – 05 Oct 2026
 - ✅ [Day 385 – LeetCode 921: Minimum Add to Make Parentheses Valid](https://github.com/Aadityahq/Leetcode_Daily/tree/main/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid) – 06 Oct 2026
+- ✅ [Day 386 – LeetCode 301: Remove Invalid Parentheses](https\://github.com/Aadityahq/Leetcode_Daily/tree/main/301.%20Remove%20Invalid%20Parentheses) – 07 Oct 2026
+
+
+
+
+
 
 
 
