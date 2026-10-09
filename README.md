@@ -407,7 +407,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 385 – LeetCode 921: Minimum Add to Make Parentheses Valid](https://github.com/Aadityahq/Leetcode_Daily/tree/main/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid) – 06 Oct 2026
 - ✅ [Day 386 – LeetCode 301: Remove Invalid Parentheses](https\://github.com/Aadityahq/Leetcode_Daily/tree/main/301.%20Remove%20Invalid%20Parentheses) – 07 Oct 2026
 - ✅ [Day 387 – LeetCode 1021: Remove Outermost Parentheses](https\://github.com/Aadityahq/Leetcode_Daily/tree/main/1021.%20Remove%20Outermost%20Parentheses) – 08 Oct 2026
-
+- ✅ [Day 388 – LeetCode 1541: Minimum Insertions to Balance a Parentheses String](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1541.%20Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String) – 09 Oct 2026
 
 
 
