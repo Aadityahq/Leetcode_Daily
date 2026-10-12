@@ -410,6 +410,20 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 388 – LeetCode 1541: Minimum Insertions to Balance a Parentheses String](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1541.%20Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String) – 09 Oct 2026
 - ✅ [Day 389 – LeetCode 2333: Minimum Sum of Squared Difference](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2333.%20Minimum%20Sum%20of%20Squared%20Difference) – 10 Oct 2026
 - ✅ [Day 390 – LeetCode 2778: Sum of Squares of Special Elements](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2778.%20Sum%20of%20Squares%20of%20Special%20Elements) – 11 Oct 2026
+- ✅ [Day 391 – LeetCode 2897: Apply Operations on Array to Maximize Sum of Squares](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2897.%20Apply%20Operations%20on%20Array%20to%20Maximize%20Sum%20of%20Squares) – 12 Oct 2026
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
