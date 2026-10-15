@@ -413,7 +413,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 391 – LeetCode 2897: Apply Operations on Array to Maximize Sum of Squares](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2897.%20Apply%20Operations%20on%20Array%20to%20Maximize%20Sum%20of%20Squares) – 12 Oct 2026
 - ✅ [Day 392 – LeetCode 3727: Maximum Alternating Sum of Squares](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3727.%20Maximum%20Alternating%20Sum%20of%20Squares) – 13 Oct 2026
 - ✅ [Day 393 – LeetCode 3723: Maximize Sum of Squares of Digits](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3723.%20Maximize%20Sum%20of%20Squares%20of%20Digits) – 14 Oct 2026
-
+- ✅ [Day 394 – LeetCode 2913: Subarrays Distinct Element Sum of Squares I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2913.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20I) – 15 Oct 2026
 
 
 
