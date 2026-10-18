@@ -416,7 +416,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 394 – LeetCode 2913: Subarrays Distinct Element Sum of Squares I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2913.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20I) – 15 Oct 2026
 - ✅ [Day 395 – LeetCode 2916: Subarrays Distinct Element Sum of Squares II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2916.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20II) – 16 Oct 2026
 - ✅ [Day 396 – LeetCode 3551: Minimum Swaps to Sort by Digit Sum](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3551.%20Minimum%20Swaps%20to%20Sort%20by%20Digit%20Sum) – 17 Oct 2026
-
+- ✅ [Day 397 – LeetCode 1569: Number of Ways to Reorder Array to Get Same BST](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST) – 18 Oct 2026
 
 
 
