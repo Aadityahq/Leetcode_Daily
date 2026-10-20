@@ -418,7 +418,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 396 – LeetCode 3551: Minimum Swaps to Sort by Digit Sum](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3551.%20Minimum%20Swaps%20to%20Sort%20by%20Digit%20Sum) – 17 Oct 2026
 - ✅ [Day 397 – LeetCode 1569: Number of Ways to Reorder Array to Get Same BST](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST) – 18 Oct 2026
 - ✅ [Day 398 – LeetCode 2089: Find Target Indices After Sorting Array](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array) – 19 Oct 2026
-
+- ✅ [Day 399 – LeetCode 3886: Sum of Sortable Integers](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3886.%20Sum%20of%20Sortable%20Integers) – 20 Oct 2026
 
 
 
