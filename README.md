@@ -420,7 +420,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 398 – LeetCode 2089: Find Target Indices After Sorting Array](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array) – 19 Oct 2026
 - ✅ [Day 399 – LeetCode 3886: Sum of Sortable Integers](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3886.%20Sum%20of%20Sortable%20Integers) – 20 Oct 2026
 - ✅ [Day 400 – LeetCode 3863: Minimum Operations to Sort a String]\(https\://github.com/Aadityahq/Leetcode_Daily/tree/main/3863.%20Minimum%20Operations%20to%20Sort%20a%20String) – 21 Oct 2026
-
+- ✅ [Day 401 – LeetCode 3942: Minimum Operations to Sort a Permutation](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3942.%20Minimum%20Operations%20to%20Sort%20a%20Permutation) – 22 Oct 2026
 
 
 
