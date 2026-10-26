@@ -424,7 +424,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 402 – LeetCode 3644: Maximum K to Sort a Permutation](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3644.%20Maximum%20K%20to%20Sort%20a%20Permutation) – 23 Oct 2026
 - ✅ [Day 403 – LeetCode 2409: Count Days Spent Together](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2409.%20Count%20Days%20Spent%20Together) – 24 Oct 2026
 - ✅ [Day 404 – LeetCode 1254: Number of Closed Islands](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1254.%20Number%20of%20Closed%20Islands) – 25 Oct 2026
-
+- ✅ [Day 405 – LeetCode 3619: Count Islands With Total Value Divisible by K](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3619.%20Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K) – 26 Oct 2026
 
 
 
