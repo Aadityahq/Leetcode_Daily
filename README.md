@@ -427,7 +427,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 405 – LeetCode 3619: Count Islands With Total Value Divisible by K](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3619.%20Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K) – 26 Oct 2026
 - ✅ [Day 406 – LeetCode 3963: Create Grid With Exactly One Path](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3963.%20Create%20Grid%20With%20Exactly%20One%20Path) – 27 Oct 2026
 - ✅ [Day 407 – LeetCode 3882: Minimum XOR Path in a Grid](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3882.%20Minimum%20XOR%20Path%20in%20a%20Grid) – 28 Oct 2026
-
+- ✅ [Day 408 – LeetCode 3841: Palindromic Path Queries in a Tree](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3841.%20Palindromic%20Path%20Queries%20in%20a%20Tree) – 29 Oct 2026
 
 
 
