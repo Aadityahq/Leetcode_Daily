@@ -430,6 +430,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 408 – LeetCode 3841: Palindromic Path Queries in a Tree](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3841.%20Palindromic%20Path%20Queries%20in%20a%20Tree) – 29 Oct 2026
 - ✅ [Day 409 – LeetCode 3665: Twisted Mirror Path Count](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3665.%20Twisted%20Mirror%20Path%20Count) – 31 Oct 2026
 - ✅ [Day 410 – LeetCode 453: Minimum Moves to Equal Array Elements](https://github.com/Aadityahq/Leetcode_Daily/tree/main/453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements) – 01 Nov 2026
+- ✅ [Day 411 – LeetCode 462: Minimum Moves to Equal Array Elements II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II) – 02 Nov 2026
 
 
 
