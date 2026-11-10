@@ -438,7 +438,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 415 – LeetCode 2747: Count Zero Request Servers](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2747.%20Count%20Zero%20Request%20Servers) – 06 Nov 2026
 - ✅ [Day 416 – LeetCode 1882: Process Tasks Using Servers](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1882.%20Process%20Tasks%20Using%20Servers) – 07 Nov 2026
 - ✅ [Day 417 – LeetCode 1267: Count Servers that Communicate](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1267.%20Count%20Servers%20that%20Communicate) – 08 Nov 2026
-
+- ✅ [Day 418 – LeetCode 1606: Find Servers That Handled Most Number of Requests](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1606.%20Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests) – 09 Nov 2026
 
 
 
