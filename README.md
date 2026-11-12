@@ -441,6 +441,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 418 – LeetCode 1606: Find Servers That Handled Most Number of Requests](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1606.%20Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests) – 09 Nov 2026
 - ✅ [Day 419 – LeetCode 3693: Climbing Stairs II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3693.%20Climbing%20Stairs%20II) – 10 Nov 2026
 - ✅ [Day 420 – LeetCode 3789: Minimum Cost to Acquire Required Items](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3789.%20Minimum%20Cost%20to%20Acquire%20Required%20Items) – 11 Nov 2026
+- ✅ [Day 421 – LeetCode 3105: Longest Strictly Increasing or Strictly Decreasing Subarray](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3105.%20Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray) – 12 Nov 2026
+
 
 
 
