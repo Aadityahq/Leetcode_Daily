@@ -443,6 +443,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 420 – LeetCode 3789: Minimum Cost to Acquire Required Items](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3789.%20Minimum%20Cost%20to%20Acquire%20Required%20Items) – 11 Nov 2026
 - ✅ [Day 421 – LeetCode 3105: Longest Strictly Increasing or Strictly Decreasing Subarray](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3105.%20Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray) – 12 Nov 2026
 - ✅ [Day 422 – LeetCode 3420: Count Non-Decreasing Subarrays After K Operations](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3420.%20Count%20Non-Decreasing%20Subarrays%20After%20K%20Operations) – 13 Nov 2026
+- ✅ [Day 423 – LeetCode 3364: Minimum Positive Sum Subarray](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3364.%20Minimum%20Positive%20Sum%20Subarray) – 14 Nov 2026
+
 
 
 
