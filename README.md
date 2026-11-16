@@ -444,8 +444,9 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 421 – LeetCode 3105: Longest Strictly Increasing or Strictly Decreasing Subarray](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3105.%20Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray) – 12 Nov 2026
 - ✅ [Day 422 – LeetCode 3420: Count Non-Decreasing Subarrays After K Operations](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3420.%20Count%20Non-Decreasing%20Subarrays%20After%20K%20Operations) – 13 Nov 2026
 - ✅ [Day 423 – LeetCode 3364: Minimum Positive Sum Subarray](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3364.%20Minimum%20Positive%20Sum%20Subarray) – 14 Nov 2026
-- ✅ [Day 424 – LeetCode 1524: Number of Sub-arrays With Odd Sum](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1524.%20Number%20of%20Sub-arrays%20With%20Odd%20Sum?utm_source=chatgpt.com) – 15 Nov 2026
 
+- ✅ [Day 424 – LeetCode 1524: Number of Sub-arrays With Odd Sum](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1524.%20Number%20of%20Sub-arrays%20With%20Odd%20Sum?utm_source=chatgpt.com) – 15 Nov 2026
+- ✅ [Day 425 – LeetCode 2243: Calculate Digit Sum of a String](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2243.%20Calculate%20Digit%20Sum%20of%20a%20String) – 16 Nov 2026
 
 
     
