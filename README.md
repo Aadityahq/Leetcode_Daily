@@ -448,6 +448,8 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 424 – LeetCode 1524: Number of Sub-arrays With Odd Sum](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1524.%20Number%20of%20Sub-arrays%20With%20Odd%20Sum?utm_source=chatgpt.com) – 15 Nov 2026
 - ✅ [Day 425 – LeetCode 2243: Calculate Digit Sum of a String](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2243.%20Calculate%20Digit%20Sum%20of%20a%20String) – 16 Nov 2026
 - ✅ [Day 426 – LeetCode 2911: Minimum Changes to Make K Semi-palindromes](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2911.%20Minimum%20Changes%20to%20Make%20K%20Semi-palindromes) – 17 Nov 2026
+- ✅ [Day 427 – LeetCode 2914: Minimum Number of Changes to Make Binary String Beautiful](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2914.%20Minimum%20Number%20of%20Changes%20to%20Make%20Binary%20String%20Beautiful) – 18 Nov 2026
+
 
 
     
