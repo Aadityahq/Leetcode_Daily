@@ -451,6 +451,9 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 427 – LeetCode 2914: Minimum Number of Changes to Make Binary String Beautiful](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2914.%20Minimum%20Number%20of%20Changes%20to%20Make%20Binary%20String%20Beautiful) – 18 Nov 2026
 - ✅ [Day 428 – LeetCode 2567: Minimum Score by Changing Two Elements](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2567.%20Minimum%20Score%20by%20Changing%20Two%20Elements) – 19 Nov 2026
 - ✅ [Day 429 – LeetCode 3041: Maximize Consecutive Elements in an Array After Modification](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3041.%20Maximize%20Consecutive%20Elements%20in%20an%20Array%20After%20Modification) – 20 Nov 2026
+- ✅ [Day 430 – LeetCode 3331: Find Subtree Sizes After Changes](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3331.%20Find%20Subtree%20Sizes%20After%20Changes) – 21 Nov 2026
+
+
 
 
     
