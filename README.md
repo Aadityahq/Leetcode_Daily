@@ -453,20 +453,6 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 429 – LeetCode 3041: Maximize Consecutive Elements in an Array After Modification](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3041.%20Maximize%20Consecutive%20Elements%20in%20an%20Array%20After%20Modification) – 20 Nov 2026
 - ✅ [Day 430 – LeetCode 3331: Find Subtree Sizes After Changes](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3331.%20Find%20Subtree%20Sizes%20After%20Changes) – 21 Nov 2026
 
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
 ---
 
 ## 📌 Repository Structure

@@ -6,7 +6,7 @@ class Solution {
 
         int n = parent.length;
 
-        // Step 1: Build the original tree
+        // Build original tree
         List<Integer>[] tree = new ArrayList[n];
 
         for (int i = 0; i < n; i++) {
@@ -17,14 +17,13 @@ class Solution {
             tree[parent[i]].add(i);
         }
 
-        // Step 2: Track the nearest ancestor
+        // Track nearest matching ancestor
         int[] lastSeen = new int[26];
         Arrays.fill(lastSeen, -1);
 
         int[] newParent = new int[n];
         int[] previous = new int[n];
 
-        // Iterative DFS using enter/exit events
         int[] stack = new int[2 * n];
         int top = 0;
 
@@ -33,18 +32,22 @@ class Solution {
         while (top > 0) {
 
             int node = stack[--top];
-            int ch = s.charAt(node) - 'a';
 
-            // Exit event
+            // Check exit event FIRST
             if (node < 0) {
-                node = ~node;
-                int c = s.charAt(node) - 'a';
 
-                lastSeen[c] = previous[node];
+                node = ~node;
+
+                int ch = s.charAt(node) - 'a';
+
+                lastSeen[ch] = previous[node];
+
                 continue;
             }
 
-            // Find closest matching ancestor
+            int ch = s.charAt(node) - 'a';
+
+            // Find nearest matching ancestor
             int ancestor = lastSeen[ch];
 
             if (node == 0) {
@@ -55,22 +58,22 @@ class Solution {
                 newParent[node] = parent[node];
             }
 
-            // Save previous value before updating
+            // Save previous ancestor
             previous[node] = lastSeen[ch];
 
-            // Current node becomes the latest ancestor
+            // Update last seen
             lastSeen[ch] = node;
 
-            // Schedule exit event
+            // Add exit event
             stack[top++] = ~node;
 
-            // Visit original children
+            // Add children
             for (int child : tree[node]) {
                 stack[top++] = child;
             }
         }
 
-        // Step 3: Build the modified tree
+        // Build modified tree
         List<Integer>[] newTree = new ArrayList[n];
 
         for (int i = 0; i < n; i++) {
@@ -81,7 +84,7 @@ class Solution {
             newTree[newParent[i]].add(i);
         }
 
-        // Step 4: Get parent-before-child traversal order
+        // Get traversal order
         int[] order = new int[n];
         int[] dfsStack = new int[n];
 
@@ -101,11 +104,10 @@ class Solution {
             }
         }
 
-        // Step 5: Calculate subtree sizes
+        // Calculate subtree sizes
         int[] answer = new int[n];
         Arrays.fill(answer, 1);
 
-        // Process children before parents
         for (int i = n - 1; i > 0; i--) {
 
             int node = order[i];
