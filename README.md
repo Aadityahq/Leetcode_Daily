@@ -452,6 +452,14 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 428 – LeetCode 2567: Minimum Score by Changing Two Elements](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2567.%20Minimum%20Score%20by%20Changing%20Two%20Elements) – 19 Nov 2026
 - ✅ [Day 429 – LeetCode 3041: Maximize Consecutive Elements in an Array After Modification](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3041.%20Maximize%20Consecutive%20Elements%20in%20an%20Array%20After%20Modification) – 20 Nov 2026
 - ✅ [Day 430 – LeetCode 3331: Find Subtree Sizes After Changes](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3331.%20Find%20Subtree%20Sizes%20After%20Changes) – 21 Nov 2026
+- ✅ [Day 431 – LeetCode 2124: Check if All A's Appears Before All B's](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2124.%20Check%20if%20All%20A's%20Appears%20Before%20All%20B's) – 22 Nov 2026
+
+
+
+
+
+
+
 
 ---
 
