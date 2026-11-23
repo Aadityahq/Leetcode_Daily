@@ -444,7 +444,6 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 421 – LeetCode 3105: Longest Strictly Increasing or Strictly Decreasing Subarray](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3105.%20Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray) – 12 Nov 2026
 - ✅ [Day 422 – LeetCode 3420: Count Non-Decreasing Subarrays After K Operations](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3420.%20Count%20Non-Decreasing%20Subarrays%20After%20K%20Operations) – 13 Nov 2026
 - ✅ [Day 423 – LeetCode 3364: Minimum Positive Sum Subarray](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3364.%20Minimum%20Positive%20Sum%20Subarray) – 14 Nov 2026
-
 - ✅ [Day 424 – LeetCode 1524: Number of Sub-arrays With Odd Sum](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1524.%20Number%20of%20Sub-arrays%20With%20Odd%20Sum?utm_source=chatgpt.com) – 15 Nov 2026
 - ✅ [Day 425 – LeetCode 2243: Calculate Digit Sum of a String](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2243.%20Calculate%20Digit%20Sum%20of%20a%20String) – 16 Nov 2026
 - ✅ [Day 426 – LeetCode 2911: Minimum Changes to Make K Semi-palindromes](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2911.%20Minimum%20Changes%20to%20Make%20K%20Semi-palindromes) – 17 Nov 2026
@@ -453,7 +452,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 429 – LeetCode 3041: Maximize Consecutive Elements in an Array After Modification](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3041.%20Maximize%20Consecutive%20Elements%20in%20an%20Array%20After%20Modification) – 20 Nov 2026
 - ✅ [Day 430 – LeetCode 3331: Find Subtree Sizes After Changes](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3331.%20Find%20Subtree%20Sizes%20After%20Changes) – 21 Nov 2026
 - ✅ [Day 431 – LeetCode 2124: Check if All A's Appears Before All B's](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2124.%20Check%20if%20All%20A's%20Appears%20Before%20All%20B's) – 22 Nov 2026
-
+- ✅ [Day 432 – LeetCode 1352: Product of the Last K Numbers](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1352.%20Product%20of%20the%20Last%20K%20Numbers) – 23 Nov 2026
 
 
 
