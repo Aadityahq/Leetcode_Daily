@@ -454,6 +454,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 431 – LeetCode 2124: Check if All A's Appears Before All B's](https://github.com/Aadityahq/Leetcode_Daily/tree/main/2124.%20Check%20if%20All%20A's%20Appears%20Before%20All%20B's) – 22 Nov 2026
 - ✅ [Day 432 – LeetCode 1352: Product of the Last K Numbers](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1352.%20Product%20of%20the%20Last%20K%20Numbers) – 23 Nov 2026
 - ✅ [Day 433 – LeetCode 3411: Maximum Subarray With Equal Products](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3411.%20Maximum%20Subarray%20With%20Equal%20Products) – 24 Nov 2026
+- ✅ [Day 434 – LeetCode 3934: Smallest Unique Subarray](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3934.%20Smallest%20Unique%20Subarray) – 25 Nov 2026
 
 
 
