@@ -455,6 +455,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 432 – LeetCode 1352: Product of the Last K Numbers](https://github.com/Aadityahq/Leetcode_Daily/tree/main/1352.%20Product%20of%20the%20Last%20K%20Numbers) – 23 Nov 2026
 - ✅ [Day 433 – LeetCode 3411: Maximum Subarray With Equal Products](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3411.%20Maximum%20Subarray%20With%20Equal%20Products) – 24 Nov 2026
 - ✅ [Day 434 – LeetCode 3934: Smallest Unique Subarray](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3934.%20Smallest%20Unique%20Subarray) – 25 Nov 2026
+- ✅ [Day 435 – LeetCode 3360: Stone Removal Game](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3360.%20Stone%20Removal%20Game) – 26 Nov 2026
 
 
 
