@@ -457,6 +457,7 @@ This project is aimed at building consistency, improving problem-solving skills,
 - ✅ [Day 434 – LeetCode 3934: Smallest Unique Subarray](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3934.%20Smallest%20Unique%20Subarray) – 25 Nov 2026
 - ✅ [Day 435 – LeetCode 3360: Stone Removal Game](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3360.%20Stone%20Removal%20Game) – 26 Nov 2026
 - ✅ [Day 436 – LeetCode 3946: Maximum Number of Items From Sale I](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3946.%20Maximum%20Number%20of%20Items%20From%20Sale%20I) – 27 Nov 2026
+- ✅ [Day 437 – LeetCode 3947: Maximum Number of Items From Sale II](https://github.com/Aadityahq/Leetcode_Daily/tree/main/3947.%20Maximum%20Number%20of%20Items%20From%20Sale%20II) – 28 Nov 2026
 
 
 
